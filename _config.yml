@@ -13,3 +13,8 @@ plugins:
 include:
   - problems
   - tags
+
+collections:
+  problems:
+    output: true
+    permalink: /problems/:path/
