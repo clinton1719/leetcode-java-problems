@@ -1,6 +1,6 @@
 ---
 id: 1
-title: Two Sum
+title: "Two Sum (Problem 1)"
 difficulty: Easy
 tags: [array, hashmap]
 date: 2025-06-15
