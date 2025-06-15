@@ -13,7 +13,7 @@ Given an array of integers `nums` and an integer `target`, return indices of the
 
 ## Approach
 
-- Use a HashMap to store complement values.
+- Use a HashMap to store complement values s.
 - Loop once through array, checking if complement exists.
 
 ## Complexity
