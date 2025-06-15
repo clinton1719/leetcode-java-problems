@@ -1,0 +1,11 @@
+title: "LeetCode Java Solutions"
+description: "Curated Java solutions with tags, explanations, and searchable indexes"
+baseurl: "" # leave empty for GitHub Pages
+url: "https://clinton1719.github.io"
+markdown: kramdown
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
