@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths:
       - 'problems/**'
-      - 'generate-tags-index.java'
+      - 'GenerateTagsIndex.java'
 
 jobs:
   update-tags:
@@ -25,7 +25,7 @@ jobs:
 
       - name: Compile and run index generator
         run: |
-          javac generate-tags-index.java
+          javac GenerateTagsIndex.java
           java GenerateTagsIndex
 
       - name: Commit and push if tags updated
