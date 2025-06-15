@@ -1,5 +1,7 @@
 name: 🏷️ Auto Update Tags Index
 
+permissions: write-all
+
 on:
   push:
     branches: [main]
