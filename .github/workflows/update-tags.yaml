@@ -31,10 +31,10 @@ jobs:
           javac GenerateTagsIndex.java
           java GenerateTagsIndex
 
-      - name: Commit and push if tags updated
+      - name: Commit and push if updated
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tags/
-          git diff --cached --quiet || git commit -m "🔄 Auto-update tag indexes"
+          git add tags/ README.md
+          git diff --cached --quiet || git commit -m "🔄 Auto-update Dashboard and Tags"
           git push

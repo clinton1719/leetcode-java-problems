@@ -1,40 +1,48 @@
-import java.io.BufferedWriter;
-import java.io.IOException;
-import java.nio.file.DirectoryStream;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.io.*;
+import java.nio.file.*;
 import java.util.*;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+import java.util.regex.*;
 
 public class GenerateTagsIndex {
     static final Path PROBLEMS_DIR = Paths.get("problems");
     static final Path TAGS_DIR = Paths.get("tags");
+    static final Path MAIN_README = Paths.get("README.md");
 
-    // Improved regex to handle index.md or README.md and flexible frontmatter
     static final Pattern FRONTMATTER_PATTERN = Pattern.compile("(?s)^---\\s*\\n(.*?)\\n---");
     static final Pattern TAGS_PATTERN = Pattern.compile("tags:\\s*\\[(.*?)\\]");
     static final Pattern TITLE_PATTERN = Pattern.compile("title:\\s*\"?(.*?)\"?(?:\\n|$)");
     static final Pattern ID_PATTERN = Pattern.compile("id:\\s*(\\d+)");
+    static final Pattern DIFFICULTY_PATTERN = Pattern.compile("difficulty:\\s*(.*?)(?:\\n|$)");
 
-    static void main(String[] args) throws IOException {
-        if (!Files.exists(TAGS_DIR)) Files.createDirectories(TAGS_DIR);
-        Map<String, List<ProblemInfo>> tagMap = new TreeMap<>(); // Sorted tags
+    static class ProblemInfo {
+        String id;
+        String title;
+        String difficulty;
+        String relativePath;
+        List<String> tags;
 
-        if (!Files.exists(PROBLEMS_DIR)) {
-            System.out.println("❌ Error: 'problems' directory not found.");
-            return;
+        ProblemInfo(String id, String title, String difficulty, String path, List<String> tags) {
+            this.id = id;
+            this.title = title;
+            this.difficulty = difficulty;
+            this.relativePath = path.replace("\\", "/");
+            this.tags = tags;
         }
+    }
+
+    public static void main(String[] args) throws IOException {
+        if (!Files.exists(TAGS_DIR)) Files.createDirectories(TAGS_DIR);
+
+        Map<String, List<ProblemInfo>> tagMap = new TreeMap<>();
+        List<ProblemInfo> allProblems = new ArrayList<>();
+        int easy = 0, medium = 0, hard = 0;
 
         try (DirectoryStream<Path> dirStream = Files.newDirectoryStream(PROBLEMS_DIR)) {
             for (Path problemDir : dirStream) {
                 if (!Files.isDirectory(problemDir)) continue;
 
-                // FIX: Check for index.md as per your example
                 Path markdownFile = problemDir.resolve("index.md");
                 if (!Files.exists(markdownFile)) {
-                    // Fallback to README.md just in case
                     markdownFile = problemDir.resolve("README.md");
                     if (!Files.exists(markdownFile)) continue;
                 }
@@ -43,40 +51,46 @@ public class GenerateTagsIndex {
                 Matcher fmMatcher = FRONTMATTER_PATTERN.matcher(content);
                 if (!fmMatcher.find()) continue;
 
-                String frontmatter = fmMatcher.group(1);
-                Matcher tagsMatcher = TAGS_PATTERN.matcher(frontmatter);
-                Matcher titleMatcher = TITLE_PATTERN.matcher(frontmatter);
-                Matcher idMatcher = ID_PATTERN.matcher(frontmatter);
+                String fm = fmMatcher.group(1);
+                String id = getMatch(ID_PATTERN, fm);
+                String title = getMatch(TITLE_PATTERN, fm);
+                String diff = getMatch(DIFFICULTY_PATTERN, fm);
+                String rawTags = getMatch(TAGS_PATTERN, fm);
 
-                if (!tagsMatcher.find() || !titleMatcher.find() || !idMatcher.find()) continue;
+                if (id == null || title == null) continue;
 
-                String rawTags = tagsMatcher.group(1);
-                String title = titleMatcher.group(1).trim();
-                String id = idMatcher.group(1);
+                // Track difficulty for stats
+                if ("Easy".equalsIgnoreCase(diff)) easy++;
+                else if ("Medium".equalsIgnoreCase(diff)) medium++;
+                else if ("Hard".equalsIgnoreCase(diff)) hard++;
 
-                ProblemInfo info = new ProblemInfo(id, title, PROBLEMS_DIR.getFileName() + "/" + problemDir.getFileName());
-
-                // Clean up tags: remove quotes, split, and trim
-                String[] tags = rawTags.split(",");
-                for (String tag : tags) {
-                    tag = tag.replace("\"", "").replace("'", "").trim();
-                    if (!tag.isEmpty()) {
-                        tagMap.computeIfAbsent(tag, k -> new ArrayList<>()).add(info);
+                List<String> problemTags = new ArrayList<>();
+                for (String t : rawTags.split(",")) {
+                    String cleanTag = t.replace("\"", "").replace("'", "").trim();
+                    if (!cleanTag.isEmpty()) {
+                        problemTags.add(cleanTag);
+                        tagMap.computeIfAbsent(cleanTag, k -> new ArrayList<>()).add(null); // Placeholder
                     }
+                }
+
+                ProblemInfo info = new ProblemInfo(id, title, diff, "problems/" + problemDir.getFileName(), problemTags);
+                allProblems.add(info);
+
+                // Re-populate tagMap with full info
+                for (String tag : problemTags) {
+                    tagMap.get(tag).add(info);
                 }
             }
         }
 
-        // Generate files
+        // 1. Generate Individual Tag Files
         for (Map.Entry<String, List<ProblemInfo>> entry : tagMap.entrySet()) {
             String tag = entry.getKey();
             List<ProblemInfo> problems = entry.getValue();
-
-            // Sort by ID numerically
+            problems.removeIf(Objects::isNull);
             problems.sort(Comparator.comparingInt(p -> Integer.parseInt(p.id)));
 
-            Path tagFile = TAGS_DIR.resolve(tag + ".md");
-            try (BufferedWriter writer = Files.newBufferedWriter(tagFile)) {
+            try (BufferedWriter writer = Files.newBufferedWriter(TAGS_DIR.resolve(tag + ".md"))) {
                 writer.write("# 🚩 Tag: " + tag + "\n\n");
                 for (ProblemInfo p : problems) {
                     writer.write(String.format("- [%s. %s](../%s)\n", p.id, p.title, p.relativePath));
@@ -84,19 +98,38 @@ public class GenerateTagsIndex {
             }
         }
 
-        System.out.println("✅ Tag indexes generated for " + tagMap.size() + " tags in /tags");
+        // 2. Generate Main README.md
+        allProblems.sort(Comparator.comparingInt(p -> Integer.parseInt(p.id)));
+        try (BufferedWriter writer = Files.newBufferedWriter(MAIN_README)) {
+            writer.write("# 🚀 LeetCode Solutions\n\n");
+
+            writer.write("## 📊 Statistics\n\n");
+            writer.write("| Total | Easy | Medium | Hard |\n");
+            writer.write("| --- | --- | --- | --- |\n");
+            writer.write(String.format("| %d | %d | %d | %d |\n\n", allProblems.size(), easy, medium, hard));
+
+            writer.write("## 🏷️ Tag Cloud\n\n");
+            StringBuilder tagCloud = new StringBuilder();
+            for (String tag : tagMap.keySet()) {
+                tagCloud.append(String.format("[`%s`](tags/%s.md) ", tag, tag));
+            }
+            writer.write(tagCloud.toString() + "\n\n");
+
+            writer.write("## 📚 Problem List\n\n");
+            writer.write("| # | Title | Difficulty | Tags |\n");
+            writer.write("| --- | --- | --- | --- |\n");
+            for (ProblemInfo p : allProblems) {
+                String tagLinks = String.join(", ", p.tags);
+                writer.write(String.format("| %s | [%s](%s) | %s | %s |\n",
+                        p.id, p.title, p.relativePath, p.difficulty, tagLinks));
+            }
+        }
+
+        System.out.println("✅ README and Tag indexes generated successfully.");
     }
 
-    static class ProblemInfo {
-        String id;
-        String title;
-        String relativePath;
-
-        ProblemInfo(String id, String title, String path) {
-            this.id = id;
-            this.title = title;
-            // Ensure path uses forward slashes for Markdown links
-            this.relativePath = path.replace("\\", "/");
-        }
+    private static String getMatch(Pattern p, String text) {
+        Matcher m = p.matcher(text);
+        return m.find() ? m.group(1).trim() : "";
     }
 }
