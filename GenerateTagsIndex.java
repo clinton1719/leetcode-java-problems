@@ -13,8 +13,9 @@ public class GenerateTagsIndex {
     static final Path TAGS_DIR = Paths.get("tags");
     static final Pattern FRONTMATTER_PATTERN = Pattern.compile("(?s)^---\n(.*?)\n---");
     static final Pattern TAGS_LINE_PATTERN = Pattern.compile("tags:\\s*\\[(.*?)\\]");
-    static final Pattern TITLE_PATTERN = Pattern.compile("title:\s*(.*?)\n");
-    static final Pattern ID_PATTERN = Pattern.compile("id:\s*(\\d+)");
+    static final Pattern TITLE_PATTERN = Pattern.compile("title:\\s*(.*?)\\n");
+    static final Pattern ID_PATTERN = Pattern.compile("id:\\s*(\\d+)");
+
 
     static class ProblemInfo {
         String id;
@@ -48,12 +49,13 @@ public class GenerateTagsIndex {
 
                 if (!tagsMatcher.find() || !titleMatcher.find() || !idMatcher.find()) continue;
 
-                String[] tags = tagsMatcher.group(1).split(",\s*");
+                String[] tags = tagsMatcher.group(1).split(",\\s*");
                 String title = titleMatcher.group(1);
                 String id = idMatcher.group(1);
 
                 ProblemInfo info = new ProblemInfo(id, title, problemDir.toString());
                 for (String tag : tags) {
+                    tag = tag.replace("\"", "").trim();
                     tagMap.computeIfAbsent(tag.trim(), k -> new ArrayList<>()).add(info);
                 }
             }
