@@ -1,5 +1,5 @@
 ---
-id: 1
+id: 27
 title: "Remove Element"
 difficulty: Easy
 tags: [array, two-pointers]
