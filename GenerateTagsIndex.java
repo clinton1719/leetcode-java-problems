@@ -28,6 +28,16 @@ public class GenerateTagsIndex {
             this.relativePath = path.replace("\\", "/");
             this.tags = tags;
         }
+
+        // Helper to get a color emoji based on difficulty
+        String getDifficultyIcon() {
+            return switch (difficulty.toLowerCase()) {
+                case "easy" -> "🟢";
+                case "medium" -> "🟡";
+                case "hard" -> "🔴";
+                default -> "⚪";
+            };
+        }
     }
 
     public static void main(String[] args) throws IOException {
@@ -35,7 +45,7 @@ public class GenerateTagsIndex {
 
         Map<String, List<ProblemInfo>> tagMap = new TreeMap<>();
         List<ProblemInfo> allProblems = new ArrayList<>();
-        int easy = 0, medium = 0, hard = 0;
+        int easyCount = 0, mediumCount = 0, hardCount = 0;
 
         try (DirectoryStream<Path> dirStream = Files.newDirectoryStream(PROBLEMS_DIR)) {
             for (Path problemDir : dirStream) {
@@ -59,73 +69,74 @@ public class GenerateTagsIndex {
 
                 if (id == null || title == null) continue;
 
-                // Track difficulty for stats
-                if ("Easy".equalsIgnoreCase(diff)) easy++;
-                else if ("Medium".equalsIgnoreCase(diff)) medium++;
-                else if ("Hard".equalsIgnoreCase(diff)) hard++;
+                // Update Difficulty stats
+                if ("Easy".equalsIgnoreCase(diff)) easyCount++;
+                else if ("Medium".equalsIgnoreCase(diff)) mediumCount++;
+                else if ("Hard".equalsIgnoreCase(diff)) hardCount++;
 
                 List<String> problemTags = new ArrayList<>();
                 for (String t : rawTags.split(",")) {
                     String cleanTag = t.replace("\"", "").replace("'", "").trim();
                     if (!cleanTag.isEmpty()) {
                         problemTags.add(cleanTag);
-                        tagMap.computeIfAbsent(cleanTag, k -> new ArrayList<>()).add(null); // Placeholder
+                        tagMap.putIfAbsent(cleanTag, new ArrayList<>());
                     }
                 }
 
                 ProblemInfo info = new ProblemInfo(id, title, diff, "problems/" + problemDir.getFileName(), problemTags);
                 allProblems.add(info);
 
-                // Re-populate tagMap with full info
                 for (String tag : problemTags) {
                     tagMap.get(tag).add(info);
                 }
             }
         }
 
-        // 1. Generate Individual Tag Files
+        // 1. Generate Tag Files with <kbd> labels
         for (Map.Entry<String, List<ProblemInfo>> entry : tagMap.entrySet()) {
             String tag = entry.getKey();
             List<ProblemInfo> problems = entry.getValue();
-            problems.removeIf(Objects::isNull);
             problems.sort(Comparator.comparingInt(p -> Integer.parseInt(p.id)));
 
             try (BufferedWriter writer = Files.newBufferedWriter(TAGS_DIR.resolve(tag + ".md"))) {
                 writer.write("# 🚩 Tag: " + tag + "\n\n");
                 for (ProblemInfo p : problems) {
-                    writer.write(String.format("- [%s. %s](../%s)\n", p.id, p.title, p.relativePath));
+                    writer.write(String.format("- [%s. %s](../%s) <kbd>%s</kbd>\n",
+                            p.id, p.title, p.relativePath, p.difficulty));
                 }
             }
         }
 
-        // 2. Generate Main README.md
+        // 2. Generate Main README.md with Dashboard
         allProblems.sort(Comparator.comparingInt(p -> Integer.parseInt(p.id)));
         try (BufferedWriter writer = Files.newBufferedWriter(MAIN_README)) {
             writer.write("# 🚀 LeetCode Solutions\n\n");
 
             writer.write("## 📊 Statistics\n\n");
-            writer.write("| Total | Easy | Medium | Hard |\n");
+            writer.write("| Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |\n");
             writer.write("| --- | --- | --- | --- |\n");
-            writer.write(String.format("| %d | %d | %d | %d |\n\n", allProblems.size(), easy, medium, hard));
+            writer.write(String.format("| %d | %d | %d | %d |\n\n", allProblems.size(), easyCount, mediumCount, hardCount));
 
             writer.write("## 🏷️ Tag Cloud\n\n");
-            StringBuilder tagCloud = new StringBuilder();
             for (String tag : tagMap.keySet()) {
-                tagCloud.append(String.format("[`%s`](tags/%s.md) ", tag, tag));
+                writer.write(String.format("[`%s`](tags/%s.md) ", tag, tag));
             }
-            writer.write(tagCloud.toString() + "\n\n");
+            writer.write("\n\n---\n\n");
 
             writer.write("## 📚 Problem List\n\n");
             writer.write("| # | Title | Difficulty | Tags |\n");
             writer.write("| --- | --- | --- | --- |\n");
             for (ProblemInfo p : allProblems) {
-                String tagLinks = String.join(", ", p.tags);
-                writer.write(String.format("| %s | [%s](%s) | %s | %s |\n",
-                        p.id, p.title, p.relativePath, p.difficulty, tagLinks));
+                // Create links for tags in the table too
+                List<String> tagLinks = new ArrayList<>();
+                for(String t : p.tags) tagLinks.add(String.format("[%s](tags/%s.md)", t, t));
+
+                writer.write(String.format("| %s | [%s](%s) | %s %s | %s |\n",
+                        p.id, p.title, p.relativePath, p.getDifficultyIcon(), p.difficulty, String.join(", ", tagLinks)));
             }
         }
 
-        System.out.println("✅ README and Tag indexes generated successfully.");
+        System.out.println("✅ Generated Dashboard and " + tagMap.size() + " tag files.");
     }
 
     private static String getMatch(Pattern p, String text) {

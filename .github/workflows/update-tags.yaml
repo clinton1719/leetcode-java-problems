@@ -26,6 +26,9 @@ jobs:
           distribution: 'temurin'
           java-version: 25
 
+      - name: Clean old tags
+        run: rm -rf tags/*.md
+
       - name: Compile and run index generator
         run: |
           javac GenerateTagsIndex.java
