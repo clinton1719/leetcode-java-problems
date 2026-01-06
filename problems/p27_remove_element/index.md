@@ -2,7 +2,7 @@
 id: 27
 title: "Remove Element"
 difficulty: Easy
-tags: []
+tags: [array, two-pointers]
 date: 2025-12-01
 link: https://leetcode.com/problems/remove-element
 ---
