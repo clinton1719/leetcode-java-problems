@@ -16,7 +16,6 @@ public class Solution {
             }
         }
 
-        // Only nums2 may have leftovers
         while (right >= 0) {
             nums1[pointer--] = nums2[right--];
         }
