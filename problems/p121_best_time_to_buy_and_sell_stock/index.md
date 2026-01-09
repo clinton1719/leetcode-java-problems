@@ -1,5 +1,5 @@
 ---
-id: 26
+id: 121
 title: "Best Time to Buy and Sell Stock"
 difficulty: Easy
 tags: [array, dynamic-programming]
