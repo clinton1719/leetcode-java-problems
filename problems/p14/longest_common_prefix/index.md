@@ -90,7 +90,7 @@ Algorithm steps:
 Invariant maintained during iteration:
 
 * `prefix` is always a valid prefix of all strings processed so far.
-* Any removed character from `prefix` cannot be part of the longest common prefix.
+* Any removed character from `prefix` cannot be part of the longest common prefix
 
 ## Complexity 2
 
