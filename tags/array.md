@@ -1,5 +1,6 @@
 # 🚩 Tag: array
 
+- [14. Longest Common Prefix](../problems/p14_longest_common_prefix) <kbd>Easy</kbd>
 - [26. Remove Duplicates from Sorted Array](../problems/p26_remove_duplicates_from_sorted_array) <kbd>Easy</kbd>
 - [27. Remove Element](../problems/p27_remove_element) <kbd>Easy</kbd>
 - [89. Merge Sorted Array](../problems/p89_merge_sorted_array) <kbd>Easy</kbd>
