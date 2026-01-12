@@ -1,10 +1,15 @@
 package problems.p14.longest_common_prefix;
 
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
 
 public class Solution {
+    static void main() {
+        String[] strs = {"flower", "flow", "flight"};
+        Solution solution = new Solution();
+        System.out.println(solution.longestCommonPrefix(strs));
+        System.out.println(solution.longestCommonPrefix2(strs));
+    }
+
     public String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) return "";
         if (strs.length == 1) return strs[0];
@@ -36,12 +41,5 @@ public class Solution {
             }
         }
         return prefix;
-    }
-
-    static void main() {
-        String[] strs = {"flower","flow","flight"};
-        Solution solution = new Solution();
-        System.out.println(solution.longestCommonPrefix(strs));
-        System.out.println(solution.longestCommonPrefix2(strs));
     }
 }
