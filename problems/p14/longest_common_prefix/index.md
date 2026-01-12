@@ -1,5 +1,5 @@
 ---
-id: 14
+id: 15
 title: "Longest Common Prefix"
 difficulty: Easy
 tags: [string, array, trie]
