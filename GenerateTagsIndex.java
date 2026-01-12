@@ -40,7 +40,7 @@ public class GenerateTagsIndex {
         }
     }
 
-    public static void main(String[] args) throws IOException {
+    static void main() throws IOException {
         if (!Files.exists(TAGS_DIR)) Files.createDirectories(TAGS_DIR);
 
         Map<String, List<ProblemInfo>> tagMap = new TreeMap<>();
