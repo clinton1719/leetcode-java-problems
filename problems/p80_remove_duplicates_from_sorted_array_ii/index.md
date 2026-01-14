@@ -56,37 +56,42 @@ nums is sorted in non-decreasing order.
 
 ## Approach
 
-This solution uses an **in-place two-pointer technique** that generalizes the idea of allowing a fixed number of duplicates.
+This solution uses an **in-place two-pointer technique** that leverages the fact that the input array is **sorted in non-decreasing order**.
 
-The array is sorted, so all duplicate values appear consecutively. The requirement is to allow **at most two occurrences** of each number.
+The goal is to allow **at most two occurrences** of each element while modifying the array in place.
 
-We maintain a write pointer `k` that represents the length of the valid prefix built so far.
+We maintain two pointers:
+
+* `i` is the write pointer that tracks the length of the valid prefix.
+* `j` is the read pointer that scans through the array.
 
 Key insight:
 
-* For the first two elements (`k < 2`), we can always keep them.
-* For subsequent elements, we only keep `nums[i]` if it is different from the element at position `k - 2`.
-* If `nums[i] == nums[k - 2]`, adding it would create more than two duplicates, so it is skipped.
+* Since the array is sorted, allowing at most two duplicates means that any element equal to the one at position `i - 2` would create more than two occurrences.
+* Therefore, we only keep `nums[j]` if it is **strictly greater than** `nums[i - 2]`.
 
 Invariant maintained during iteration:
 
-* Elements in the range `[0, k)` satisfy the condition that no number appears more than twice.
-* Index `i` scans the array from left to right.
+* Elements in the range `[0, i)` satisfy the condition that no number appears more than twice.
+* Index `j` scans the array from left to right.
 
 Algorithm steps:
 
-* Initialize `k = 0`.
-* Iterate through the array using index `i`.
-* If `k < 2` or `nums[i] != nums[k - 2]`, write `nums[i]` to index `k` and increment `k`.
-* After processing all elements, return `k` as the new length.
+* If the array length is less than or equal to 2, return the length immediately.
+* Initialize `i = 2`, since the first two elements are always valid.
+* Iterate `j` from index 2 to the end of the array:
 
-This approach is concise, avoids extra data structures, and directly enforces the constraint through index comparisons.
+    * If `nums[j] > nums[i - 2]`, write `nums[j]` to index `i` and increment `i`.
+* After the loop, return `i` as the new length.
+
+This approach is efficient, concise, and avoids any extra data structures.
 
 ## Complexity
 
 * **Time:** O(n)
-  Each element is visited exactly once.
+  Each element is processed exactly once.
 
 * **Space:** O(1)
   The array is modified in place using constant extra space.
+
 
