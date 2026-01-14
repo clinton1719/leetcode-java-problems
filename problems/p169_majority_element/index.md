@@ -2,7 +2,7 @@
 id: 169
 title: "Majority Element"
 difficulty: Easy
-tags: [array, two-pointers, hash-table, divide-and-conquer, sorting, counting, boyer–moore-voting-algorithm]
+tags: [array, two-pointers, hash-table, divide-and-conquer, sorting, counting, boyer–moore-voting-algorithm, algorithm]
 date: 2025-12-01
 link: https://leetcode.com/problems/majority-element
 ---

@@ -2,7 +2,7 @@
 id: 28
 title: "Find the Index of the First Occurrence in a String"
 difficulty: Easy
-tags: [two-pointers, string, string-matching]
+tags: [two-pointers, string, string-matching, kmp-algorithm, algorithm]
 date: 2025-01-13
 link: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
 ---
@@ -66,4 +66,54 @@ Invariant maintained during iteration:
 
 * **Space:** O(1)
   No additional data structures are used beyond constant extra variables.
+
+## Approach 2
+
+This solution uses the **Knuth–Morris–Pratt (KMP) string matching algorithm**.
+
+Unlike brute-force matching, KMP avoids re-checking characters in the haystack by preprocessing the pattern (`needle`) to build an LPS (Longest Prefix Suffix) array. The LPS array tells us how far we can shift the pattern when a mismatch occurs.
+
+### LPS Array
+
+The LPS array stores, for each position in the pattern, the length of the longest proper prefix that is also a suffix ending at that position.
+
+Invariant while building LPS:
+
+* `lps[i]` is the length of the longest prefix of `needle` that matches a suffix ending at index `i`.
+* Characters before index `i` have already been correctly processed.
+
+### Pattern Matching Phase
+
+We scan the haystack and needle simultaneously using two pointers:
+
+* `i` points to the current character in the haystack.
+* `j` points to the current character in the needle.
+
+Invariant during matching:
+
+* Characters in `needle[0 .. j)` match characters in `haystack[i - j .. i)`.
+* When a mismatch occurs, the LPS array determines the next valid position of `j` without moving `i` backward.
+
+Algorithm steps:
+
+* Precompute the LPS array for the needle.
+* Traverse the haystack:
+
+    * If characters match, advance both pointers.
+    * If a mismatch occurs:
+
+        * If `j > 0`, update `j` to `lps[j - 1]`.
+        * Otherwise, advance `i`.
+* If `j` reaches the length of the needle, a match is found; return the starting index.
+* If the haystack is fully scanned without a match, return `-1`.
+
+KMP guarantees linear time by ensuring that each character in the haystack is processed at most once.
+
+## Complexity 2
+
+* **Time:** O(n + m)
+  Building the LPS array takes O(m), and pattern matching takes O(n), where n is the length of the haystack and m is the length of the needle.
+
+* **Space:** O(m)
+  Additional space is used to store the LPS array of the needle.
 
