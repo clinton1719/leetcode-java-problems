@@ -2,7 +2,7 @@
 id: 80
 title: "Remove Duplicates from Sorted Array II"
 difficulty: Medium
-tags: []
+tags: [array, two-pointers]
 date: 2026-01-14
 link: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii
 ---
