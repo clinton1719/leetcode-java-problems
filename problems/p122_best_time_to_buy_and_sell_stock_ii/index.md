@@ -1,7 +1,7 @@
 ---
 id: 122
 title: "Best Time to Buy and Sell Stock II"
-difficulty: Easy
+difficulty: Medium
 tags: [array, dynamic-programming]
 date: 2025-12-08
 link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
