@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 12 | 9 | 3 | 0 |
+| 13 | 9 | 4 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -21,6 +21,7 @@
 | 26 | [Remove Duplicates from Sorted Array](problems/p26_remove_duplicates_from_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 27 | [Remove Element](problems/p27_remove_element) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 28 | [Find the Index of the First Occurrence in a String](problems/p28_find_the_index_of_the_first_occurrence_in_a_string) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md), [string-matching](tags/string-matching.md), [kmp-algorithm](tags/kmp-algorithm.md), [algorithm](tags/algorithm.md) |
+| 55 | [Jump Game](problems/p55_jump_game) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 58 | [Length of Last Word](problems/p58_length_of_last_word) | 🟢 Easy | [string](tags/string.md) |
 | 80 | [Remove Duplicates from Sorted Array II](problems/p80_remove_duplicates_from_sorted_array_ii) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 89 | [Merge Sorted Array](problems/p89_merge_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [sorting](tags/sorting.md) |
