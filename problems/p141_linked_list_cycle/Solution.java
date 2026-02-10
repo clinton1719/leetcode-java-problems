@@ -1,11 +1,6 @@
 package problems.p141_linked_list_cycle;
 
 public class Solution {
-  static void main() {
-    Solution solution = new Solution();
-    System.out.println(solution.hasCycle(new ListNode(1)));
-  }
-
   public boolean hasCycle(ListNode head) {
     ListNode slow = head, fast = head;
 
@@ -23,14 +18,14 @@ public class Solution {
 
     return false;
   }
-}
 
-class ListNode {
-  int val;
-  ListNode next;
+  static class ListNode {
+    int val;
+    ListNode next;
 
-  ListNode(int x) {
-    val = x;
-    next = null;
+    ListNode(int x) {
+      val = x;
+      next = null;
+    }
   }
 }
