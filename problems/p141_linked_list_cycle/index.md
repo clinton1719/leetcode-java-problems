@@ -2,7 +2,7 @@
 id: 141
 title: "Linked List Cycle"
 difficulty: Easy
-tags: [linked-list, two-pointers, tortoise-an-hare-algorithm, floyds-cycle-finding-algorithm]
+tags: [linked-list, two-pointers, tortoise-an-hare-algorithm, floyds-cycle-finding-algorithm, algorithm]
 date: 2026-02-09
 link: https://leetcode.com/problems/linked-list-cycle
 ---
