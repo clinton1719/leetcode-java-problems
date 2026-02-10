@@ -4,11 +4,11 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 16 | 10 | 6 | 0 |
+| 18 | 11 | 7 | 0 |
 
 ## 🏷️ Tag Cloud
 
-[`algorithm`](tags/algorithm.md) [`array`](tags/array.md) [`boyer–moore-voting-algorithm`](tags/boyer–moore-voting-algorithm.md) [`counting`](tags/counting.md) [`counting-sort`](tags/counting-sort.md) [`divide-and-conquer`](tags/divide-and-conquer.md) [`dynamic-programming`](tags/dynamic-programming.md) [`floyds-cycle-finding-algorithm`](tags/floyds-cycle-finding-algorithm.md) [`greedy`](tags/greedy.md) [`hash-table`](tags/hash-table.md) [`kmp-algorithm`](tags/kmp-algorithm.md) [`linked-list`](tags/linked-list.md) [`math`](tags/math.md) [`sorting`](tags/sorting.md) [`string`](tags/string.md) [`string-matching`](tags/string-matching.md) [`tortoise-an-hare-algorithm`](tags/tortoise-an-hare-algorithm.md) [`trie`](tags/trie.md) [`two-pointers`](tags/two-pointers.md) 
+[`algorithm`](tags/algorithm.md) [`array`](tags/array.md) [`boyer–moore-voting-algorithm`](tags/boyer–moore-voting-algorithm.md) [`counting`](tags/counting.md) [`counting-sort`](tags/counting-sort.md) [`divide-and-conquer`](tags/divide-and-conquer.md) [`dynamic-programming`](tags/dynamic-programming.md) [`floyds-cycle-finding-algorithm`](tags/floyds-cycle-finding-algorithm.md) [`greedy`](tags/greedy.md) [`hash-table`](tags/hash-table.md) [`kmp-algorithm`](tags/kmp-algorithm.md) [`linked-list`](tags/linked-list.md) [`math`](tags/math.md) [`recursion`](tags/recursion.md) [`sorting`](tags/sorting.md) [`string`](tags/string.md) [`string-matching`](tags/string-matching.md) [`tortoise-an-hare-algorithm`](tags/tortoise-an-hare-algorithm.md) [`trie`](tags/trie.md) [`two-pointers`](tags/two-pointers.md) 
 
 ---
 
@@ -16,8 +16,10 @@
 
 | # | Title | Difficulty | Tags |
 | --- | --- | --- | --- |
+| 2 | [Add Two Numbers](problems/p2_add_two_numbers) | 🟡 Medium | [linked-list](tags/linked-list.md), [recursion](tags/recursion.md), [math](tags/math.md) |
 | 13 | [Roman to Integer](problems/p13_roman_to_integer) | 🟢 Easy | [string](tags/string.md), [hash-table](tags/hash-table.md), [math](tags/math.md) |
 | 14 | [Longest Common Prefix](problems/p14_longest_common_prefix) | 🟢 Easy | [string](tags/string.md), [array](tags/array.md), [trie](tags/trie.md) |
+| 21 | [Merge Two Sorted Lists](problems/p21_merge_two_sorted_lists) | 🟢 Easy | [linked-list](tags/linked-list.md), [recursion](tags/recursion.md) |
 | 26 | [Remove Duplicates from Sorted Array](problems/p26_remove_duplicates_from_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 27 | [Remove Element](problems/p27_remove_element) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 28 | [Find the Index of the First Occurrence in a String](problems/p28_find_the_index_of_the_first_occurrence_in_a_string) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md), [string-matching](tags/string-matching.md), [kmp-algorithm](tags/kmp-algorithm.md), [algorithm](tags/algorithm.md) |
