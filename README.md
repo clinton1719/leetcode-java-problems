@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 24 | 17 | 7 | 0 |
+| 26 | 19 | 7 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -16,6 +16,7 @@
 
 | # | Title | Difficulty | Tags |
 | --- | --- | --- | --- |
+| 1 | [Two Sum](problems/p1_two_sum) | 🟢 Easy | [hash-table](tags/hash-table.md), [array](tags/array.md) |
 | 2 | [Add Two Numbers](problems/p2_add_two_numbers) | 🟡 Medium | [linked-list](tags/linked-list.md), [recursion](tags/recursion.md), [math](tags/math.md) |
 | 13 | [Roman to Integer](problems/p13_roman_to_integer) | 🟢 Easy | [string](tags/string.md), [hash-table](tags/hash-table.md), [math](tags/math.md) |
 | 14 | [Longest Common Prefix](problems/p14_longest_common_prefix) | 🟢 Easy | [string](tags/string.md), [array](tags/array.md), [trie](tags/trie.md) |
@@ -34,6 +35,7 @@
 | 141 | [Linked List Cycle](problems/p141_linked_list_cycle) | 🟢 Easy | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md), [tortoise-an-hare-algorithm](tags/tortoise-an-hare-algorithm.md), [floyds-cycle-finding-algorithm](tags/floyds-cycle-finding-algorithm.md), [algorithm](tags/algorithm.md) |
 | 169 | [Majority Element](problems/p169_majority_element) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [hash-table](tags/hash-table.md), [divide-and-conquer](tags/divide-and-conquer.md), [sorting](tags/sorting.md), [counting](tags/counting.md), [boyer–moore-voting-algorithm](tags/boyer–moore-voting-algorithm.md), [algorithm](tags/algorithm.md) |
 | 189 | [Rotate Array](problems/p189_rotate_array) | 🟡 Medium | [array](tags/array.md), [math](tags/math.md), [two-pointers](tags/two-pointers.md) |
+| 202 | [Happy Number](problems/p202_happy_number) | 🟢 Easy | [hash-table](tags/hash-table.md), [algorithm](tags/algorithm.md), [floyds-cycle-finding-algorithm](tags/floyds-cycle-finding-algorithm.md) |
 | 205 | [Isomorphic strings](problems/p205_isomorphic_strings) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 242 | [Valid Anagram](problems/p242_valid_anagram) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 274 | [H-Index](problems/p274_h_index) | 🟡 Medium | [array](tags/array.md), [sorting](tags/sorting.md), [counting-sort](tags/counting-sort.md) |
