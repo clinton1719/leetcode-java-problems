@@ -12,4 +12,5 @@
 - [122. Best Time to Buy and Sell Stock II](../problems/p122_best_time_to_buy_and_sell_stock_ii) <kbd>Medium</kbd>
 - [169. Majority Element](../problems/p169_majority_element) <kbd>Easy</kbd>
 - [189. Rotate Array](../problems/p189_rotate_array) <kbd>Medium</kbd>
+- [219. Contains Duplicate II](../problems/p219_contains_duplicate_ii) <kbd>Easy</kbd>
 - [274. H-Index](../problems/p274_h_index) <kbd>Medium</kbd>
