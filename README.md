@@ -4,11 +4,11 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 29 | 22 | 7 | 0 |
+| 30 | 23 | 7 | 0 |
 
 ## 🏷️ Tag Cloud
 
-[`algorithm`](tags/algorithm.md) [`array`](tags/array.md) [`boyer–moore-voting-algorithm`](tags/boyer–moore-voting-algorithm.md) [`counting`](tags/counting.md) [`counting-sort`](tags/counting-sort.md) [`divide-and-conquer`](tags/divide-and-conquer.md) [`dynamic-programming`](tags/dynamic-programming.md) [`floyds-cycle-finding-algorithm`](tags/floyds-cycle-finding-algorithm.md) [`greedy`](tags/greedy.md) [`hash-table`](tags/hash-table.md) [`intervals`](tags/intervals.md) [`kmp-algorithm`](tags/kmp-algorithm.md) [`linked-list`](tags/linked-list.md) [`math`](tags/math.md) [`recursion`](tags/recursion.md) [`sliding-window`](tags/sliding-window.md) [`sorting`](tags/sorting.md) [`stack`](tags/stack.md) [`string`](tags/string.md) [`string-matching`](tags/string-matching.md) [`trie`](tags/trie.md) [`two-pointers`](tags/two-pointers.md) 
+[`algorithm`](tags/algorithm.md) [`array`](tags/array.md) [`bfs`](tags/bfs.md) [`binary-tree`](tags/binary-tree.md) [`boyer–moore-voting-algorithm`](tags/boyer–moore-voting-algorithm.md) [`counting`](tags/counting.md) [`counting-sort`](tags/counting-sort.md) [`dfs`](tags/dfs.md) [`divide-and-conquer`](tags/divide-and-conquer.md) [`dynamic-programming`](tags/dynamic-programming.md) [`floyds-cycle-finding-algorithm`](tags/floyds-cycle-finding-algorithm.md) [`greedy`](tags/greedy.md) [`hash-table`](tags/hash-table.md) [`intervals`](tags/intervals.md) [`kmp-algorithm`](tags/kmp-algorithm.md) [`linked-list`](tags/linked-list.md) [`math`](tags/math.md) [`recursion`](tags/recursion.md) [`sliding-window`](tags/sliding-window.md) [`sorting`](tags/sorting.md) [`stack`](tags/stack.md) [`string`](tags/string.md) [`string-matching`](tags/string-matching.md) [`tree`](tags/tree.md) [`trie`](tags/trie.md) [`two-pointers`](tags/two-pointers.md) 
 
 ---
 
@@ -30,6 +30,7 @@
 | 58 | [Length of Last Word](problems/p58_length_of_last_word) | 🟢 Easy | [string](tags/string.md) |
 | 80 | [Remove Duplicates from Sorted Array II](problems/p80_remove_duplicates_from_sorted_array_ii) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 89 | [Merge Sorted Array](problems/p89_merge_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [sorting](tags/sorting.md) |
+| 104 | [Maximum Depth Of Binary Tree](problems/p104_maximum_depth_of_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [bfs](tags/bfs.md), [dfs](tags/dfs.md), [tree](tags/tree.md) |
 | 121 | [Best Time to Buy and Sell Stock](problems/p121_best_time_to_buy_and_sell_stock) | 🟢 Easy | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 122 | [Best Time to Buy and Sell Stock II](problems/p122_best_time_to_buy_and_sell_stock_ii) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 125 | [valid-palindrome](problems/p125_valid_palindrome) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md) |
