@@ -4,11 +4,11 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 26 | 19 | 7 | 0 |
+| 27 | 20 | 7 | 0 |
 
 ## 🏷️ Tag Cloud
 
-[`algorithm`](tags/algorithm.md) [`array`](tags/array.md) [`boyer–moore-voting-algorithm`](tags/boyer–moore-voting-algorithm.md) [`counting`](tags/counting.md) [`counting-sort`](tags/counting-sort.md) [`divide-and-conquer`](tags/divide-and-conquer.md) [`dynamic-programming`](tags/dynamic-programming.md) [`floyds-cycle-finding-algorithm`](tags/floyds-cycle-finding-algorithm.md) [`greedy`](tags/greedy.md) [`hash-table`](tags/hash-table.md) [`kmp-algorithm`](tags/kmp-algorithm.md) [`linked-list`](tags/linked-list.md) [`math`](tags/math.md) [`recursion`](tags/recursion.md) [`sorting`](tags/sorting.md) [`string`](tags/string.md) [`string-matching`](tags/string-matching.md) [`tortoise-an-hare-algorithm`](tags/tortoise-an-hare-algorithm.md) [`trie`](tags/trie.md) [`two-pointers`](tags/two-pointers.md) 
+[`algorithm`](tags/algorithm.md) [`array`](tags/array.md) [`array. hash-table`](tags/array. hash-table.md) [`boyer–moore-voting-algorithm`](tags/boyer–moore-voting-algorithm.md) [`counting`](tags/counting.md) [`counting-sort`](tags/counting-sort.md) [`divide-and-conquer`](tags/divide-and-conquer.md) [`dynamic-programming`](tags/dynamic-programming.md) [`floyds-cycle-finding-algorithm`](tags/floyds-cycle-finding-algorithm.md) [`greedy`](tags/greedy.md) [`hash-table`](tags/hash-table.md) [`kmp-algorithm`](tags/kmp-algorithm.md) [`linked-list`](tags/linked-list.md) [`math`](tags/math.md) [`recursion`](tags/recursion.md) [`sliding-window`](tags/sliding-window.md) [`sorting`](tags/sorting.md) [`string`](tags/string.md) [`string-matching`](tags/string-matching.md) [`tortoise-an-hare-algorithm`](tags/tortoise-an-hare-algorithm.md) [`trie`](tags/trie.md) [`two-pointers`](tags/two-pointers.md) 
 
 ---
 
@@ -37,6 +37,7 @@
 | 189 | [Rotate Array](problems/p189_rotate_array) | 🟡 Medium | [array](tags/array.md), [math](tags/math.md), [two-pointers](tags/two-pointers.md) |
 | 202 | [Happy Number](problems/p202_happy_number) | 🟢 Easy | [hash-table](tags/hash-table.md), [algorithm](tags/algorithm.md), [floyds-cycle-finding-algorithm](tags/floyds-cycle-finding-algorithm.md) |
 | 205 | [Isomorphic strings](problems/p205_isomorphic_strings) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
+| 219 | [Contains Duplicate II](problems/p219_contains_duplicate_ii) | 🟢 Easy | [array. hash-table](tags/array. hash-table.md), [sliding-window](tags/sliding-window.md) |
 | 242 | [Valid Anagram](problems/p242_valid_anagram) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 274 | [H-Index](problems/p274_h_index) | 🟡 Medium | [array](tags/array.md), [sorting](tags/sorting.md), [counting-sort](tags/counting-sort.md) |
 | 290 | [Word Pattern](problems/p290_word_pattern) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
