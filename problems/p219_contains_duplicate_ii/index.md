@@ -2,7 +2,7 @@
 id: 219
 title: "Contains Duplicate II"
 difficulty: Easy
-tags: [array. hash-table, sliding-window]
+tags: [array, hash-table, sliding-window]
 date: 2026-02-16
 link: https://leetcode.com/problems/contains-duplicate-ii
 ---
