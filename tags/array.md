@@ -13,4 +13,5 @@
 - [169. Majority Element](../problems/p169_majority_element) <kbd>Easy</kbd>
 - [189. Rotate Array](../problems/p189_rotate_array) <kbd>Medium</kbd>
 - [219. Contains Duplicate II](../problems/p219_contains_duplicate_ii) <kbd>Easy</kbd>
+- [228. Summary Ranges](../problems/p228_summary_ranges) <kbd>Easy</kbd>
 - [274. H-Index](../problems/p274_h_index) <kbd>Medium</kbd>
