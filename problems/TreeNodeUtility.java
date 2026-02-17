@@ -45,4 +45,29 @@ public class TreeNodeUtility {
 
     return root;
   }
+
+  public static void printLevelOrder(TreeNode root) {
+    if (root == null) {
+      System.out.println("null");
+      return;
+    }
+
+    Queue<TreeNode> queue = new LinkedList<>();
+    queue.offer(root);
+
+    while (!queue.isEmpty()) {
+      int levelSize = queue.size();
+      for (int i = 0; i < levelSize; i++) {
+        TreeNode node = queue.poll();
+        if (node != null) {
+          System.out.print(node.val + " ");
+          queue.offer(node.left);
+          queue.offer(node.right);
+        } else {
+          System.out.print("null ");
+        }
+      }
+      System.out.println();
+    }
+  }
 }
