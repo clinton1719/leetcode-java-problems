@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 30 | 23 | 7 | 0 |
+| 33 | 26 | 7 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -30,6 +30,8 @@
 | 58 | [Length of Last Word](problems/p58_length_of_last_word) | 🟢 Easy | [string](tags/string.md) |
 | 80 | [Remove Duplicates from Sorted Array II](problems/p80_remove_duplicates_from_sorted_array_ii) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 89 | [Merge Sorted Array](problems/p89_merge_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [sorting](tags/sorting.md) |
+| 100 | [Same Tree](problems/p100_same_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
+| 101 | [Symmetric Tree](problems/p101_symmetric_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 104 | [Maximum Depth Of Binary Tree](problems/p104_maximum_depth_of_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [bfs](tags/bfs.md), [dfs](tags/dfs.md), [tree](tags/tree.md) |
 | 121 | [Best Time to Buy and Sell Stock](problems/p121_best_time_to_buy_and_sell_stock) | 🟢 Easy | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 122 | [Best Time to Buy and Sell Stock II](problems/p122_best_time_to_buy_and_sell_stock_ii) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
@@ -40,6 +42,7 @@
 | 202 | [Happy Number](problems/p202_happy_number) | 🟢 Easy | [hash-table](tags/hash-table.md), [algorithm](tags/algorithm.md), [floyds-cycle-finding-algorithm](tags/floyds-cycle-finding-algorithm.md) |
 | 205 | [Isomorphic strings](problems/p205_isomorphic_strings) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 219 | [Contains Duplicate II](problems/p219_contains_duplicate_ii) | 🟢 Easy | [array](tags/array.md), [hash-table](tags/hash-table.md), [sliding-window](tags/sliding-window.md) |
+| 226 | [Invert Binary Tree](problems/p226_invert_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 228 | [Summary Ranges](problems/p228_summary_ranges) | 🟢 Easy | [array](tags/array.md), [intervals](tags/intervals.md) |
 | 242 | [Valid Anagram](problems/p242_valid_anagram) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 274 | [H-Index](problems/p274_h_index) | 🟡 Medium | [array](tags/array.md), [sorting](tags/sorting.md), [counting-sort](tags/counting-sort.md) |
