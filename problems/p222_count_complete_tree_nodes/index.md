@@ -2,7 +2,7 @@
 id: 222
 title: "Count Complete Tree Nodes"
 difficulty: Easy
-tags: [binary-tree, complete-binary-tree, algorithm]
+tags: [tree, binary-tree, complete-binary-tree, algorithm]
 date: 2026-02-21
 link: https://leetcode.com/problems/count-complete-tree-nodes
 ---
