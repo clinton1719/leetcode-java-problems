@@ -1,9 +1,7 @@
 package problems.p637_average_of_levels_in_binary_tree;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
+import java.util.*;
+
 import problems.TreeNode;
 import problems.TreeNodeUtility;
 
@@ -25,7 +23,7 @@ public class Solution {
 
       for (int i = 0; i < n; i++) {
         TreeNode node = queue.poll();
-        sum += (double) node.val;
+        sum += Objects.requireNonNull(node).val;
         if (node.left != null) queue.add(node.left);
         if (node.right != null) queue.add(node.right);
       }
