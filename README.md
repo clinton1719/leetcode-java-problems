@@ -4,11 +4,11 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 36 | 29 | 7 | 0 |
+| 38 | 31 | 7 | 0 |
 
 ## 🏷️ Tag Cloud
 
-[`algorithm`](tags/algorithm.md) [`array`](tags/array.md) [`bfs`](tags/bfs.md) [`binary-tree`](tags/binary-tree.md) [`boyer–moore-voting-algorithm`](tags/boyer–moore-voting-algorithm.md) [`complete-binary-tree`](tags/complete-binary-tree.md) [`counting`](tags/counting.md) [`counting-sort`](tags/counting-sort.md) [`dfs`](tags/dfs.md) [`divide-and-conquer`](tags/divide-and-conquer.md) [`dynamic-programming`](tags/dynamic-programming.md) [`floyds-cycle-finding-algorithm`](tags/floyds-cycle-finding-algorithm.md) [`greedy`](tags/greedy.md) [`hash-table`](tags/hash-table.md) [`intervals`](tags/intervals.md) [`kmp-algorithm`](tags/kmp-algorithm.md) [`linked-list`](tags/linked-list.md) [`math`](tags/math.md) [`recursion`](tags/recursion.md) [`sliding-window`](tags/sliding-window.md) [`sorting`](tags/sorting.md) [`stack`](tags/stack.md) [`string`](tags/string.md) [`string-matching`](tags/string-matching.md) [`tree`](tags/tree.md) [`trie`](tags/trie.md) [`two-pointers`](tags/two-pointers.md) 
+[`algorithm`](tags/algorithm.md) [`array`](tags/array.md) [`bfs`](tags/bfs.md) [`binary-tree`](tags/binary-tree.md) [`boyer–moore-voting-algorithm`](tags/boyer–moore-voting-algorithm.md) [`complete-binary-tree`](tags/complete-binary-tree.md) [`counting`](tags/counting.md) [`counting-sort`](tags/counting-sort.md) [`dfs`](tags/dfs.md) [`divide-and-conquer`](tags/divide-and-conquer.md) [`dynamic-programming`](tags/dynamic-programming.md) [`floyds-cycle-finding-algorithm`](tags/floyds-cycle-finding-algorithm.md) [`greedy`](tags/greedy.md) [`hash-table`](tags/hash-table.md) [`inorder-traversal`](tags/inorder-traversal.md) [`intervals`](tags/intervals.md) [`kmp-algorithm`](tags/kmp-algorithm.md) [`linked-list`](tags/linked-list.md) [`math`](tags/math.md) [`recursion`](tags/recursion.md) [`sliding-window`](tags/sliding-window.md) [`sorting`](tags/sorting.md) [`stack`](tags/stack.md) [`string`](tags/string.md) [`string-matching`](tags/string-matching.md) [`tree`](tags/tree.md) [`trie`](tags/trie.md) [`two-pointers`](tags/two-pointers.md) 
 
 ---
 
@@ -30,6 +30,7 @@
 | 58 | [Length of Last Word](problems/p58_length_of_last_word) | 🟢 Easy | [string](tags/string.md) |
 | 80 | [Remove Duplicates from Sorted Array II](problems/p80_remove_duplicates_from_sorted_array_ii) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 89 | [Merge Sorted Array](problems/p89_merge_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [sorting](tags/sorting.md) |
+| 94 | [Binary Tree Inorder Traversal](problems/p94_binary_tree_inorder_traversal) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md), [inorder-traversal](tags/inorder-traversal.md) |
 | 100 | [Same Tree](problems/p100_same_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 101 | [Symmetric Tree](problems/p101_symmetric_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 104 | [Maximum Depth Of Binary Tree](problems/p104_maximum_depth_of_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [bfs](tags/bfs.md), [dfs](tags/dfs.md), [tree](tags/tree.md) |
@@ -51,4 +52,5 @@
 | 290 | [Word Pattern](problems/p290_word_pattern) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 383 | [Ransom Note](problems/p383_ransom_note) | 🟢 Easy | [counting](tags/counting.md), [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 392 | [Is Subsequence](problems/p392_is_subsequence) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md), [dynamic-programming](tags/dynamic-programming.md) |
+| 530 | [Minimum Absolute Difference in BST](problems/p530_minimum_absolute_difference_in_bst) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [inorder-traversal](tags/inorder-traversal.md) |
 | 637 | [Average Of Levels In Binary Tree](problems/p637_average_of_levels_in_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [bfs](tags/bfs.md) |
