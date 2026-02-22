@@ -5,3 +5,4 @@
 - [104. Maximum Depth Of Binary Tree](../problems/p104_maximum_depth_of_binary_tree) <kbd>Easy</kbd>
 - [112. Path Sum](../problems/p112_path_sum) <kbd>Easy</kbd>
 - [226. Invert Binary Tree](../problems/p226_invert_binary_tree) <kbd>Easy</kbd>
+- [637. Average Of Levels In Binary Tree](../problems/p637_average_of_levels_in_binary_tree) <kbd>Easy</kbd>
