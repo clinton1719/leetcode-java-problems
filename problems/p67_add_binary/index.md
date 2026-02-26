@@ -29,9 +29,32 @@ Each string does not contain leading zeros except for the zero itself.
 
 ## Approach
 
+We simulate binary addition from right to left,
+just like manual addition.
+
+Algorithm:
+
+1. Initialize two pointers:
+   i → end of string a
+   j → end of string b
+2. Maintain a variable `carry`.
+3. While either string still has digits:
+    - Start with sum = carry.
+    - If i is valid, add (a.charAt(i) - '0').
+    - If j is valid, add (b.charAt(j) - '0').
+    - Append (sum % 2) to the result.
+    - Update carry = sum / 2.
+    - Move both pointers left.
+4. After the loop, if carry remains, append it.
+5. Reverse the result (since we built it backwards).
+
+This directly mimics binary addition rules.
 
 ## Complexity
 
-* **Time:** 
-* **Space:** 
+Time: O(max(n, m))
+We iterate once over the longer string.
+
+Space: O(max(n, m))
+The result string stores at most max(n, m) + 1 characters.
 
