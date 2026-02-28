@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 39 | 32 | 7 | 0 |
+| 40 | 33 | 7 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -42,6 +42,7 @@
 | 141 | [Linked List Cycle](problems/p141_linked_list_cycle) | 🟢 Easy | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md), [floyds-cycle-finding-algorithm](tags/floyds-cycle-finding-algorithm.md), [algorithm](tags/algorithm.md) |
 | 169 | [Majority Element](problems/p169_majority_element) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [hash-table](tags/hash-table.md), [divide-and-conquer](tags/divide-and-conquer.md), [sorting](tags/sorting.md), [counting](tags/counting.md), [boyer–moore-voting-algorithm](tags/boyer–moore-voting-algorithm.md), [algorithm](tags/algorithm.md) |
 | 189 | [Rotate Array](problems/p189_rotate_array) | 🟡 Medium | [array](tags/array.md), [math](tags/math.md), [two-pointers](tags/two-pointers.md) |
+| 190 | [Add Binary](problems/p190_reverse_bits) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md) |
 | 202 | [Happy Number](problems/p202_happy_number) | 🟢 Easy | [hash-table](tags/hash-table.md), [algorithm](tags/algorithm.md), [floyds-cycle-finding-algorithm](tags/floyds-cycle-finding-algorithm.md) |
 | 205 | [Isomorphic strings](problems/p205_isomorphic_strings) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 219 | [Contains Duplicate II](problems/p219_contains_duplicate_ii) | 🟢 Easy | [array](tags/array.md), [hash-table](tags/hash-table.md), [sliding-window](tags/sliding-window.md) |
