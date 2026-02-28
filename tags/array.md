@@ -10,6 +10,7 @@
 - [89. Merge Sorted Array](../problems/p89_merge_sorted_array) <kbd>Easy</kbd>
 - [121. Best Time to Buy and Sell Stock](../problems/p121_best_time_to_buy_and_sell_stock) <kbd>Easy</kbd>
 - [122. Best Time to Buy and Sell Stock II](../problems/p122_best_time_to_buy_and_sell_stock_ii) <kbd>Medium</kbd>
+- [136. Single Number](../problems/p136_single_number) <kbd>Easy</kbd>
 - [169. Majority Element](../problems/p169_majority_element) <kbd>Easy</kbd>
 - [189. Rotate Array](../problems/p189_rotate_array) <kbd>Medium</kbd>
 - [219. Contains Duplicate II](../problems/p219_contains_duplicate_ii) <kbd>Easy</kbd>
