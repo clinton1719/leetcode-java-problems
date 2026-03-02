@@ -2,7 +2,7 @@
 id: 66
 title: "Plus One"
 difficulty: Easy
-tags: []
+tags: [math, array]
 date: 2026-03-01
 link: https://leetcode.com/problems/plus-one
 ---
