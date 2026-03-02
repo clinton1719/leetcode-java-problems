@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 42 | 35 | 7 | 0 |
+| 44 | 37 | 7 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -18,6 +18,7 @@
 | --- | --- | --- | --- |
 | 1 | [Two Sum](problems/p1_two_sum) | 🟢 Easy | [hash-table](tags/hash-table.md), [array](tags/array.md) |
 | 2 | [Add Two Numbers](problems/p2_add_two_numbers) | 🟡 Medium | [linked-list](tags/linked-list.md), [recursion](tags/recursion.md), [math](tags/math.md) |
+| 9 | [Palindrome Number](problems/p9_palindrome_number) | 🟢 Easy | [math](tags/math.md) |
 | 13 | [Roman to Integer](problems/p13_roman_to_integer) | 🟢 Easy | [string](tags/string.md), [hash-table](tags/hash-table.md), [math](tags/math.md) |
 | 14 | [Longest Common Prefix](problems/p14_longest_common_prefix) | 🟢 Easy | [string](tags/string.md), [array](tags/array.md), [trie](tags/trie.md) |
 | 20 | [Valid Parentheses](problems/p20_valid_parentheses) | 🟢 Easy | [string](tags/string.md), [stack](tags/stack.md) |
@@ -28,6 +29,7 @@
 | 45 | [Jump Game II](problems/p45_jump_game_ii) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 55 | [Jump Game](problems/p55_jump_game) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 58 | [Length of Last Word](problems/p58_length_of_last_word) | 🟢 Easy | [string](tags/string.md) |
+| 66 | [Plus One](problems/p66_plus_one) | 🟢 Easy | [math](tags/math.md), [array](tags/array.md) |
 | 67 | [Add Binary](problems/p67_add_binary) | 🟢 Easy | [math](tags/math.md), [string](tags/string.md), [bit-manipulation](tags/bit-manipulation.md) |
 | 80 | [Remove Duplicates from Sorted Array II](problems/p80_remove_duplicates_from_sorted_array_ii) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 89 | [Merge Sorted Array](problems/p89_merge_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [sorting](tags/sorting.md) |
