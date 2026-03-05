@@ -4,11 +4,11 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 45 | 38 | 7 | 0 |
+| 47 | 40 | 7 | 0 |
 
 ## 🏷️ Tag Cloud
 
-[`algorithm`](tags/algorithm.md) [`array`](tags/array.md) [`bfs`](tags/bfs.md) [`binary-search`](tags/binary-search.md) [`binary-tree`](tags/binary-tree.md) [`bit-manipulation`](tags/bit-manipulation.md) [`boyer–moore-voting-algorithm`](tags/boyer–moore-voting-algorithm.md) [`brian-kernighans-algorithm`](tags/brian-kernighans-algorithm.md) [`complete-binary-tree`](tags/complete-binary-tree.md) [`counting`](tags/counting.md) [`counting-sort`](tags/counting-sort.md) [`dfs`](tags/dfs.md) [`divide-and-conquer`](tags/divide-and-conquer.md) [`dynamic-programming`](tags/dynamic-programming.md) [`floyds-cycle-finding-algorithm`](tags/floyds-cycle-finding-algorithm.md) [`greedy`](tags/greedy.md) [`hash-table`](tags/hash-table.md) [`inorder-traversal`](tags/inorder-traversal.md) [`intervals`](tags/intervals.md) [`kmp-algorithm`](tags/kmp-algorithm.md) [`linked-list`](tags/linked-list.md) [`math`](tags/math.md) [`recursion`](tags/recursion.md) [`sliding-window`](tags/sliding-window.md) [`sorting`](tags/sorting.md) [`stack`](tags/stack.md) [`string`](tags/string.md) [`string-matching`](tags/string-matching.md) [`tree`](tags/tree.md) [`trie`](tags/trie.md) [`two-pointers`](tags/two-pointers.md) [`xor`](tags/xor.md) 
+[`algorithm`](tags/algorithm.md) [`array`](tags/array.md) [`bfs`](tags/bfs.md) [`binary-search`](tags/binary-search.md) [`binary-tree`](tags/binary-tree.md) [`bit-manipulation`](tags/bit-manipulation.md) [`boyer–moore-voting-algorithm`](tags/boyer–moore-voting-algorithm.md) [`brian-kernighans-algorithm`](tags/brian-kernighans-algorithm.md) [`complete-binary-tree`](tags/complete-binary-tree.md) [`counting`](tags/counting.md) [`counting-sort`](tags/counting-sort.md) [`dfs`](tags/dfs.md) [`divide-and-conquer`](tags/divide-and-conquer.md) [`dynamic-programming`](tags/dynamic-programming.md) [`fibonacci`](tags/fibonacci.md) [`floyds-cycle-finding-algorithm`](tags/floyds-cycle-finding-algorithm.md) [`greedy`](tags/greedy.md) [`hash-table`](tags/hash-table.md) [`inorder-traversal`](tags/inorder-traversal.md) [`intervals`](tags/intervals.md) [`kmp-algorithm`](tags/kmp-algorithm.md) [`linked-list`](tags/linked-list.md) [`math`](tags/math.md) [`recursion`](tags/recursion.md) [`sliding-window`](tags/sliding-window.md) [`sorting`](tags/sorting.md) [`stack`](tags/stack.md) [`string`](tags/string.md) [`string-matching`](tags/string-matching.md) [`tree`](tags/tree.md) [`trie`](tags/trie.md) [`two-pointers`](tags/two-pointers.md) [`xor`](tags/xor.md) 
 
 ---
 
@@ -26,12 +26,14 @@
 | 26 | [Remove Duplicates from Sorted Array](problems/p26_remove_duplicates_from_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 27 | [Remove Element](problems/p27_remove_element) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 28 | [Find the Index of the First Occurrence in a String](problems/p28_find_the_index_of_the_first_occurrence_in_a_string) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md), [string-matching](tags/string-matching.md), [kmp-algorithm](tags/kmp-algorithm.md), [algorithm](tags/algorithm.md) |
+| 35 | [Search Insert Position](problems/p35search_insert_position) | 🟢 Easy | [array](tags/array.md), [binary-search](tags/binary-search.md) |
 | 45 | [Jump Game II](problems/p45_jump_game_ii) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 55 | [Jump Game](problems/p55_jump_game) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 58 | [Length of Last Word](problems/p58_length_of_last_word) | 🟢 Easy | [string](tags/string.md) |
 | 66 | [Plus One](problems/p66_plus_one) | 🟢 Easy | [math](tags/math.md), [array](tags/array.md) |
 | 67 | [Add Binary](problems/p67_add_binary) | 🟢 Easy | [math](tags/math.md), [string](tags/string.md), [bit-manipulation](tags/bit-manipulation.md) |
 | 69 | [Sqrt(x)](problems/p69_sqrtx) | 🟢 Easy | [math](tags/math.md), [binary-search](tags/binary-search.md) |
+| 70 | [Climbing Stairs](problems/p70_climbing_stairs) | 🟢 Easy | [math](tags/math.md), [fibonacci](tags/fibonacci.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 80 | [Remove Duplicates from Sorted Array II](problems/p80_remove_duplicates_from_sorted_array_ii) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 89 | [Merge Sorted Array](problems/p89_merge_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [sorting](tags/sorting.md) |
 | 94 | [Binary Tree Inorder Traversal](problems/p94_binary_tree_inorder_traversal) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md), [inorder-traversal](tags/inorder-traversal.md) |
