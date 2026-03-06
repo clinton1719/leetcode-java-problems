@@ -6,4 +6,5 @@
 - [66. Plus One](../problems/p66_plus_one) <kbd>Easy</kbd>
 - [67. Add Binary](../problems/p67_add_binary) <kbd>Easy</kbd>
 - [69. Sqrt(x)](../problems/p69_sqrtx) <kbd>Easy</kbd>
+- [70. Climbing Stairs](../problems/p70_climbing_stairs) <kbd>Easy</kbd>
 - [189. Rotate Array](../problems/p189_rotate_array) <kbd>Medium</kbd>
