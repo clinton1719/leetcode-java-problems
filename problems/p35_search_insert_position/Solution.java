@@ -1,4 +1,4 @@
-package problems.p35search_insert_position;
+package problems.p35_search_insert_position;
 
 public class Solution {
 
