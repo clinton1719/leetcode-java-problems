@@ -2,6 +2,7 @@
 
 - [1. Two Sum](../problems/p1_two_sum) <kbd>Easy</kbd>
 - [13. Roman to Integer](../problems/p13_roman_to_integer) <kbd>Easy</kbd>
+- [128. Longest Consecutive Sequence](../problems/p128_longest_consecutive_sequence) <kbd>Medium</kbd>
 - [138. Copy List With Random Pointer](../problems/p138_copy_list_with_random_pointer) <kbd>Medium</kbd>
 - [169. Majority Element](../problems/p169_majority_element) <kbd>Easy</kbd>
 - [202. Happy Number](../problems/p202_happy_number) <kbd>Easy</kbd>
