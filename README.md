@@ -4,11 +4,11 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 48 | 40 | 8 | 0 |
+| 50 | 40 | 10 | 0 |
 
 ## 🏷️ Tag Cloud
 
-[`algorithm`](tags/algorithm.md) [`array`](tags/array.md) [`bfs`](tags/bfs.md) [`binary-search`](tags/binary-search.md) [`binary-tree`](tags/binary-tree.md) [`bit-manipulation`](tags/bit-manipulation.md) [`boyer–moore-voting-algorithm`](tags/boyer–moore-voting-algorithm.md) [`brian-kernighans-algorithm`](tags/brian-kernighans-algorithm.md) [`complete-binary-tree`](tags/complete-binary-tree.md) [`counting`](tags/counting.md) [`counting-sort`](tags/counting-sort.md) [`dfs`](tags/dfs.md) [`divide-and-conquer`](tags/divide-and-conquer.md) [`dynamic-programming`](tags/dynamic-programming.md) [`fibonacci`](tags/fibonacci.md) [`floyds-cycle-finding-algorithm`](tags/floyds-cycle-finding-algorithm.md) [`greedy`](tags/greedy.md) [`hash-table`](tags/hash-table.md) [`inorder-traversal`](tags/inorder-traversal.md) [`intervals`](tags/intervals.md) [`kmp-algorithm`](tags/kmp-algorithm.md) [`linked-list`](tags/linked-list.md) [`math`](tags/math.md) [`recursion`](tags/recursion.md) [`sliding-window`](tags/sliding-window.md) [`sorting`](tags/sorting.md) [`stack`](tags/stack.md) [`string`](tags/string.md) [`string-matching`](tags/string-matching.md) [`tree`](tags/tree.md) [`trie`](tags/trie.md) [`two-pointers`](tags/two-pointers.md) [`xor`](tags/xor.md) 
+[`algorithm`](tags/algorithm.md) [`array`](tags/array.md) [`bfs`](tags/bfs.md) [`binary-search`](tags/binary-search.md) [`binary-tree`](tags/binary-tree.md) [`bit-manipulation`](tags/bit-manipulation.md) [`boyer–moore-voting-algorithm`](tags/boyer–moore-voting-algorithm.md) [`brian-kernighans-algorithm`](tags/brian-kernighans-algorithm.md) [`complete-binary-tree`](tags/complete-binary-tree.md) [`counting`](tags/counting.md) [`counting-sort`](tags/counting-sort.md) [`dfs`](tags/dfs.md) [`divide-and-conquer`](tags/divide-and-conquer.md) [`dynamic-programming`](tags/dynamic-programming.md) [`fibonacci`](tags/fibonacci.md) [`floyds-cycle-finding-algorithm`](tags/floyds-cycle-finding-algorithm.md) [`greedy`](tags/greedy.md) [`hash-set`](tags/hash-set.md) [`hash-table`](tags/hash-table.md) [`inorder-traversal`](tags/inorder-traversal.md) [`intervals`](tags/intervals.md) [`kmp-algorithm`](tags/kmp-algorithm.md) [`linked-list`](tags/linked-list.md) [`math`](tags/math.md) [`recursion`](tags/recursion.md) [`sliding-window`](tags/sliding-window.md) [`sorting`](tags/sorting.md) [`stack`](tags/stack.md) [`string`](tags/string.md) [`string-matching`](tags/string-matching.md) [`tree`](tags/tree.md) [`trie`](tags/trie.md) [`two-pointers`](tags/two-pointers.md) [`xor`](tags/xor.md) 
 
 ---
 
@@ -44,6 +44,7 @@
 | 121 | [Best Time to Buy and Sell Stock](problems/p121_best_time_to_buy_and_sell_stock) | 🟢 Easy | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 122 | [Best Time to Buy and Sell Stock II](problems/p122_best_time_to_buy_and_sell_stock_ii) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 125 | [valid-palindrome](problems/p125_valid_palindrome) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md) |
+| 128 | [Longest Consecutive Sequence](problems/p128_longest_consecutive_sequence) | 🟡 Medium | [array](tags/array.md), [hash-table](tags/hash-table.md), [hash-set](tags/hash-set.md) |
 | 136 | [Single Number](problems/p136_single_number) | 🟢 Easy | [array](tags/array.md), [bit-manipulation](tags/bit-manipulation.md), [xor](tags/xor.md) |
 | 138 | [Copy List With Random Pointer](problems/p138_copy_list_with_random_pointer) | 🟡 Medium | [hash-table](tags/hash-table.md), [linked-list](tags/linked-list.md) |
 | 141 | [Linked List Cycle](problems/p141_linked_list_cycle) | 🟢 Easy | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md), [floyds-cycle-finding-algorithm](tags/floyds-cycle-finding-algorithm.md), [algorithm](tags/algorithm.md) |
@@ -53,6 +54,7 @@
 | 191 | [Number Of 1 Bits](problems/p191_number_of_1_bits) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md), [algorithm](tags/algorithm.md), [brian-kernighans-algorithm](tags/brian-kernighans-algorithm.md) |
 | 202 | [Happy Number](problems/p202_happy_number) | 🟢 Easy | [hash-table](tags/hash-table.md), [algorithm](tags/algorithm.md), [floyds-cycle-finding-algorithm](tags/floyds-cycle-finding-algorithm.md) |
 | 205 | [Isomorphic strings](problems/p205_isomorphic_strings) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
+| 209 | [Minimum Size Subarray Sum](problems/p209_minimum_size_subarray_sum) | 🟡 Medium | [array](tags/array.md), [sliding-window](tags/sliding-window.md) |
 | 219 | [Contains Duplicate II](problems/p219_contains_duplicate_ii) | 🟢 Easy | [array](tags/array.md), [hash-table](tags/hash-table.md), [sliding-window](tags/sliding-window.md) |
 | 222 | [Count Complete Tree Nodes](problems/p222_count_complete_tree_nodes) | 🟢 Easy | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [complete-binary-tree](tags/complete-binary-tree.md), [algorithm](tags/algorithm.md) |
 | 226 | [Invert Binary Tree](problems/p226_invert_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
