@@ -4,11 +4,11 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 51 | 41 | 10 | 0 |
+| 52 | 41 | 11 | 0 |
 
 ## 🏷️ Tag Cloud
 
-[`algorithm`](tags/algorithm.md) [`array`](tags/array.md) [`bfs`](tags/bfs.md) [`binary-search`](tags/binary-search.md) [`binary-search-tree`](tags/binary-search-tree.md) [`binary-tree`](tags/binary-tree.md) [`bit-manipulation`](tags/bit-manipulation.md) [`boyer–moore-voting-algorithm`](tags/boyer–moore-voting-algorithm.md) [`brian-kernighans-algorithm`](tags/brian-kernighans-algorithm.md) [`complete-binary-tree`](tags/complete-binary-tree.md) [`counting`](tags/counting.md) [`counting-sort`](tags/counting-sort.md) [`dfs`](tags/dfs.md) [`divide-and-conquer`](tags/divide-and-conquer.md) [`dynamic-programming`](tags/dynamic-programming.md) [`fibonacci`](tags/fibonacci.md) [`floyds-cycle-finding-algorithm`](tags/floyds-cycle-finding-algorithm.md) [`greedy`](tags/greedy.md) [`hash-set`](tags/hash-set.md) [`hash-table`](tags/hash-table.md) [`inorder-traversal`](tags/inorder-traversal.md) [`intervals`](tags/intervals.md) [`kmp-algorithm`](tags/kmp-algorithm.md) [`linked-list`](tags/linked-list.md) [`math`](tags/math.md) [`recursion`](tags/recursion.md) [`sliding-window`](tags/sliding-window.md) [`sorting`](tags/sorting.md) [`stack`](tags/stack.md) [`string`](tags/string.md) [`string-matching`](tags/string-matching.md) [`tree`](tags/tree.md) [`trie`](tags/trie.md) [`two-pointers`](tags/two-pointers.md) [`xor`](tags/xor.md) 
+[`algorithm`](tags/algorithm.md) [`array`](tags/array.md) [`bfs`](tags/bfs.md) [`binary-search`](tags/binary-search.md) [`binary-search-tree`](tags/binary-search-tree.md) [`binary-tree`](tags/binary-tree.md) [`bit-manipulation`](tags/bit-manipulation.md) [`boyer–moore-voting-algorithm`](tags/boyer–moore-voting-algorithm.md) [`brian-kernighans-algorithm`](tags/brian-kernighans-algorithm.md) [`complete-binary-tree`](tags/complete-binary-tree.md) [`counting`](tags/counting.md) [`counting-sort`](tags/counting-sort.md) [`dfs`](tags/dfs.md) [`divide-and-conquer`](tags/divide-and-conquer.md) [`dynamic-programming`](tags/dynamic-programming.md) [`fibonacci`](tags/fibonacci.md) [`floyds-cycle-finding-algorithm`](tags/floyds-cycle-finding-algorithm.md) [`graph`](tags/graph.md) [`greedy`](tags/greedy.md) [`hash-set`](tags/hash-set.md) [`hash-table`](tags/hash-table.md) [`inorder-traversal`](tags/inorder-traversal.md) [`intervals`](tags/intervals.md) [`kmp-algorithm`](tags/kmp-algorithm.md) [`linked-list`](tags/linked-list.md) [`math`](tags/math.md) [`matrix`](tags/matrix.md) [`recursion`](tags/recursion.md) [`sliding-window`](tags/sliding-window.md) [`sorting`](tags/sorting.md) [`stack`](tags/stack.md) [`string`](tags/string.md) [`string-matching`](tags/string-matching.md) [`tree`](tags/tree.md) [`trie`](tags/trie.md) [`two-pointers`](tags/two-pointers.md) [`xor`](tags/xor.md) 
 
 ---
 
@@ -53,6 +53,7 @@
 | 189 | [Rotate Array](problems/p189_rotate_array) | 🟡 Medium | [array](tags/array.md), [math](tags/math.md), [two-pointers](tags/two-pointers.md) |
 | 190 | [Add Binary](problems/p190_reverse_bits) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md) |
 | 191 | [Number Of 1 Bits](problems/p191_number_of_1_bits) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md), [algorithm](tags/algorithm.md), [brian-kernighans-algorithm](tags/brian-kernighans-algorithm.md) |
+| 200 | [Number Of Islands](problems/p200_number_of_islands) | 🟡 Medium | [graph](tags/graph.md), [array](tags/array.md), [bfs](tags/bfs.md), [dfs](tags/dfs.md), [matrix](tags/matrix.md) |
 | 202 | [Happy Number](problems/p202_happy_number) | 🟢 Easy | [hash-table](tags/hash-table.md), [algorithm](tags/algorithm.md), [floyds-cycle-finding-algorithm](tags/floyds-cycle-finding-algorithm.md) |
 | 205 | [Isomorphic strings](problems/p205_isomorphic_strings) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 209 | [Minimum Size Subarray Sum](problems/p209_minimum_size_subarray_sum) | 🟡 Medium | [array](tags/array.md), [sliding-window](tags/sliding-window.md) |
