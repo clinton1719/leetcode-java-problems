@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 54 | 42 | 12 | 0 |
+| 54 | 41 | 13 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -61,7 +61,7 @@
 | 222 | [Count Complete Tree Nodes](problems/p222_count_complete_tree_nodes) | 🟢 Easy | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [complete-binary-tree](tags/complete-binary-tree.md), [algorithm](tags/algorithm.md) |
 | 226 | [Invert Binary Tree](problems/p226_invert_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 228 | [Summary Ranges](problems/p228_summary_ranges) | 🟢 Easy | [array](tags/array.md), [intervals](tags/intervals.md) |
-| 238 | [Product Of Array Except Self](problems/p238_product_of_array_except_self) | 🟢 Easy | [array](tags/array.md), [prefix-sum](tags/prefix-sum.md) |
+| 238 | [Product Of Array Except Self](problems/p238_product_of_array_except_self) | 🟡 Medium | [array](tags/array.md), [prefix-sum](tags/prefix-sum.md) |
 | 242 | [Valid Anagram](problems/p242_valid_anagram) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 274 | [H-Index](problems/p274_h_index) | 🟡 Medium | [array](tags/array.md), [sorting](tags/sorting.md), [counting-sort](tags/counting-sort.md) |
 | 290 | [Word Pattern](problems/p290_word_pattern) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
