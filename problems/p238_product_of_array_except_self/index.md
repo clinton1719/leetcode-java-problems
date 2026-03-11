@@ -1,7 +1,7 @@
 ---
 id: 238
 title: "Product Of Array Except Self"
-difficulty: Easy
+difficulty: Medium
 tags: [array, prefix-sum]
 date: 2026-03-11
 link: https://leetcode.com/problems/product-of-array-except-self
