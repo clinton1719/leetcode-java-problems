@@ -2,7 +2,7 @@
 id: 909
 title: "Snakes And Ladders"
 difficulty: Medium
-tags: [array. matrix, bfs]
+tags: [array, matrix, bfs]
 date: 2026-03-11
 link: https://leetcode.com/problems/snakes-and-ladders
 ---
