@@ -21,5 +21,5 @@
 - [209. Minimum Size Subarray Sum](../problems/p209_minimum_size_subarray_sum) <kbd>Medium</kbd>
 - [219. Contains Duplicate II](../problems/p219_contains_duplicate_ii) <kbd>Easy</kbd>
 - [228. Summary Ranges](../problems/p228_summary_ranges) <kbd>Easy</kbd>
-- [238. Product Of Array Except Self](../problems/p238_product_of_array_except_self) <kbd>Easy</kbd>
+- [238. Product Of Array Except Self](../problems/p238_product_of_array_except_self) <kbd>Medium</kbd>
 - [274. H-Index](../problems/p274_h_index) <kbd>Medium</kbd>
