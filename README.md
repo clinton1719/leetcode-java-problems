@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 55 | 41 | 14 | 0 |
+| 56 | 41 | 15 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -50,6 +50,7 @@
 | 136 | [Single Number](problems/p136_single_number) | 🟢 Easy | [array](tags/array.md), [bit-manipulation](tags/bit-manipulation.md), [xor](tags/xor.md) |
 | 138 | [Copy List With Random Pointer](problems/p138_copy_list_with_random_pointer) | 🟡 Medium | [hash-table](tags/hash-table.md), [linked-list](tags/linked-list.md) |
 | 141 | [Linked List Cycle](problems/p141_linked_list_cycle) | 🟢 Easy | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md), [floyds-cycle-finding-algorithm](tags/floyds-cycle-finding-algorithm.md), [algorithm](tags/algorithm.md) |
+| 167 | [Two Sum II Input Array Is Sorted](problems/p167_two_sum_ii_input_array_is_sorted) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [binary-search](tags/binary-search.md) |
 | 169 | [Majority Element](problems/p169_majority_element) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [hash-table](tags/hash-table.md), [divide-and-conquer](tags/divide-and-conquer.md), [sorting](tags/sorting.md), [counting](tags/counting.md), [boyer–moore-voting-algorithm](tags/boyer–moore-voting-algorithm.md), [algorithm](tags/algorithm.md) |
 | 189 | [Rotate Array](problems/p189_rotate_array) | 🟡 Medium | [array](tags/array.md), [math](tags/math.md), [two-pointers](tags/two-pointers.md) |
 | 190 | [Add Binary](problems/p190_reverse_bits) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md) |
