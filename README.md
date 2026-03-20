@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 58 | 41 | 17 | 0 |
+| 59 | 41 | 18 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -60,6 +60,7 @@
 | 200 | [Number Of Islands](problems/p200_number_of_islands) | 🟡 Medium | [graph](tags/graph.md), [array](tags/array.md), [bfs](tags/bfs.md), [dfs](tags/dfs.md), [matrix](tags/matrix.md) |
 | 202 | [Happy Number](problems/p202_happy_number) | 🟢 Easy | [hash-table](tags/hash-table.md), [algorithm](tags/algorithm.md), [floyds-cycle-finding-algorithm](tags/floyds-cycle-finding-algorithm.md) |
 | 205 | [Isomorphic strings](problems/p205_isomorphic_strings) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
+| 208 | [Implement Trie Prefix Tree](problems/p208_implement_trie_prefix_tree) | 🟡 Medium | [trie](tags/trie.md), [design](tags/design.md), [string](tags/string.md), [hash-table](tags/hash-table.md) |
 | 209 | [Minimum Size Subarray Sum](problems/p209_minimum_size_subarray_sum) | 🟡 Medium | [array](tags/array.md), [sliding-window](tags/sliding-window.md) |
 | 219 | [Contains Duplicate II](problems/p219_contains_duplicate_ii) | 🟢 Easy | [array](tags/array.md), [hash-table](tags/hash-table.md), [sliding-window](tags/sliding-window.md) |
 | 222 | [Count Complete Tree Nodes](problems/p222_count_complete_tree_nodes) | 🟢 Easy | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [complete-binary-tree](tags/complete-binary-tree.md), [algorithm](tags/algorithm.md) |
