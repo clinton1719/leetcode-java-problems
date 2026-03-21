@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 60 | 41 | 19 | 0 |
+| 62 | 41 | 21 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -30,12 +30,14 @@
 | 35 | [Search Insert Position](problems/p35_search_insert_position) | 🟢 Easy | [array](tags/array.md), [binary-search](tags/binary-search.md) |
 | 36 | [Valid Sudoku](problems/p36_valid_sudoku) | 🟡 Medium | [matrix](tags/matrix.md), [array](tags/array.md), [hash-set](tags/hash-set.md), [math](tags/math.md), [hash-table](tags/hash-table.md) |
 | 45 | [Jump Game II](problems/p45_jump_game_ii) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
+| 46 | [Permutations](problems/p46_permutations) | 🟡 Medium | [backtracking](tags/backtracking.md), [array](tags/array.md) |
 | 55 | [Jump Game](problems/p55_jump_game) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 58 | [Length of Last Word](problems/p58_length_of_last_word) | 🟢 Easy | [string](tags/string.md) |
 | 66 | [Plus One](problems/p66_plus_one) | 🟢 Easy | [math](tags/math.md), [array](tags/array.md) |
 | 67 | [Add Binary](problems/p67_add_binary) | 🟢 Easy | [math](tags/math.md), [string](tags/string.md), [bit-manipulation](tags/bit-manipulation.md) |
 | 69 | [Sqrt(x)](problems/p69_sqrtx) | 🟢 Easy | [math](tags/math.md), [binary-search](tags/binary-search.md) |
 | 70 | [Climbing Stairs](problems/p70_climbing_stairs) | 🟢 Easy | [math](tags/math.md), [fibonacci](tags/fibonacci.md), [dynamic-programming](tags/dynamic-programming.md) |
+| 77 | [Combinations](problems/p77_combinations) | 🟡 Medium | [backtracking](tags/backtracking.md) |
 | 80 | [Remove Duplicates from Sorted Array II](problems/p80_remove_duplicates_from_sorted_array_ii) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 89 | [Merge Sorted Array](problems/p89_merge_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [sorting](tags/sorting.md) |
 | 92 | [Reverse Linked List II](problems/p92_reverse_linked_list_ii) | 🟡 Medium | [linked-list](tags/linked-list.md) |
