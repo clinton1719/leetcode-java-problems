@@ -8,5 +8,6 @@
 - [112. Path Sum](../problems/p112_path_sum) <kbd>Easy</kbd>
 - [222. Count Complete Tree Nodes](../problems/p222_count_complete_tree_nodes) <kbd>Easy</kbd>
 - [226. Invert Binary Tree](../problems/p226_invert_binary_tree) <kbd>Easy</kbd>
+- [257. Binary Tree Paths](../problems/p257_binary_tree_paths) <kbd>Easy</kbd>
 - [530. Minimum Absolute Difference in BST](../problems/p530_minimum_absolute_difference_in_bst) <kbd>Easy</kbd>
 - [637. Average Of Levels In Binary Tree](../problems/p637_average_of_levels_in_binary_tree) <kbd>Easy</kbd>

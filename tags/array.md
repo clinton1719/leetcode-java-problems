@@ -6,6 +6,7 @@
 - [27. Remove Element](../problems/p27_remove_element) <kbd>Easy</kbd>
 - [35. Search Insert Position](../problems/p35_search_insert_position) <kbd>Easy</kbd>
 - [36. Valid Sudoku](../problems/p36_valid_sudoku) <kbd>Medium</kbd>
+- [39. combination-sum](../problems/p39_combination_sum) <kbd>Medium</kbd>
 - [45. Jump Game II](../problems/p45_jump_game_ii) <kbd>Medium</kbd>
 - [46. Permutations](../problems/p46_permutations) <kbd>Medium</kbd>
 - [55. Jump Game](../problems/p55_jump_game) <kbd>Medium</kbd>

@@ -11,6 +11,7 @@
 - [205. Isomorphic strings](../problems/p205_isomorphic_strings) <kbd>Easy</kbd>
 - [208. Implement Trie Prefix Tree](../problems/p208_implement_trie_prefix_tree) <kbd>Medium</kbd>
 - [242. Valid Anagram](../problems/p242_valid_anagram) <kbd>Easy</kbd>
+- [257. Binary Tree Paths](../problems/p257_binary_tree_paths) <kbd>Easy</kbd>
 - [290. Word Pattern](../problems/p290_word_pattern) <kbd>Easy</kbd>
 - [383. Ransom Note](../problems/p383_ransom_note) <kbd>Easy</kbd>
 - [392. Is Subsequence](../problems/p392_is_subsequence) <kbd>Easy</kbd>
