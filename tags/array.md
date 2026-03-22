@@ -9,6 +9,7 @@
 - [39. combination-sum](../problems/p39_combination_sum) <kbd>Medium</kbd>
 - [45. Jump Game II](../problems/p45_jump_game_ii) <kbd>Medium</kbd>
 - [46. Permutations](../problems/p46_permutations) <kbd>Medium</kbd>
+- [49. Group Anagrams](../problems/p49_group_anagrams) <kbd>Medium</kbd>
 - [55. Jump Game](../problems/p55_jump_game) <kbd>Medium</kbd>
 - [66. Plus One](../problems/p66_plus_one) <kbd>Easy</kbd>
 - [80. Remove Duplicates from Sorted Array II](../problems/p80_remove_duplicates_from_sorted_array_ii) <kbd>Medium</kbd>
