@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 62 | 41 | 21 | 0 |
+| 64 | 42 | 22 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -29,6 +29,7 @@
 | 28 | [Find the Index of the First Occurrence in a String](problems/p28_find_the_index_of_the_first_occurrence_in_a_string) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md), [string-matching](tags/string-matching.md), [kmp-algorithm](tags/kmp-algorithm.md), [algorithm](tags/algorithm.md) |
 | 35 | [Search Insert Position](problems/p35_search_insert_position) | 🟢 Easy | [array](tags/array.md), [binary-search](tags/binary-search.md) |
 | 36 | [Valid Sudoku](problems/p36_valid_sudoku) | 🟡 Medium | [matrix](tags/matrix.md), [array](tags/array.md), [hash-set](tags/hash-set.md), [math](tags/math.md), [hash-table](tags/hash-table.md) |
+| 39 | [combination-sum](problems/p39_combination_sum) | 🟡 Medium | [matrix](tags/matrix.md), [array](tags/array.md), [hash-set](tags/hash-set.md), [math](tags/math.md), [hash-table](tags/hash-table.md) |
 | 45 | [Jump Game II](problems/p45_jump_game_ii) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 46 | [Permutations](problems/p46_permutations) | 🟡 Medium | [backtracking](tags/backtracking.md), [array](tags/array.md) |
 | 55 | [Jump Game](problems/p55_jump_game) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
@@ -71,6 +72,7 @@
 | 228 | [Summary Ranges](problems/p228_summary_ranges) | 🟢 Easy | [array](tags/array.md), [intervals](tags/intervals.md) |
 | 238 | [Product Of Array Except Self](problems/p238_product_of_array_except_self) | 🟡 Medium | [array](tags/array.md), [prefix-sum](tags/prefix-sum.md) |
 | 242 | [Valid Anagram](problems/p242_valid_anagram) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
+| 257 | [Binary Tree Paths](problems/p257_binary_tree_paths) | 🟢 Easy | [tree](tags/tree.md), [dfs](tags/dfs.md), [backtracking](tags/backtracking.md), [binary-tree](tags/binary-tree.md), [string](tags/string.md) |
 | 274 | [H-Index](problems/p274_h_index) | 🟡 Medium | [array](tags/array.md), [sorting](tags/sorting.md), [counting-sort](tags/counting-sort.md) |
 | 290 | [Word Pattern](problems/p290_word_pattern) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 383 | [Ransom Note](problems/p383_ransom_note) | 🟢 Easy | [counting](tags/counting.md), [hash-table](tags/hash-table.md), [string](tags/string.md) |

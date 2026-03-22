@@ -7,3 +7,4 @@
 - [112. Path Sum](../problems/p112_path_sum) <kbd>Easy</kbd>
 - [200. Number Of Islands](../problems/p200_number_of_islands) <kbd>Medium</kbd>
 - [226. Invert Binary Tree](../problems/p226_invert_binary_tree) <kbd>Easy</kbd>
+- [257. Binary Tree Paths](../problems/p257_binary_tree_paths) <kbd>Easy</kbd>
