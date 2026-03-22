@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 64 | 42 | 22 | 0 |
+| 65 | 42 | 23 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -32,6 +32,7 @@
 | 39 | [combination-sum](problems/p39_combination_sum) | 🟡 Medium | [matrix](tags/matrix.md), [array](tags/array.md), [hash-set](tags/hash-set.md), [math](tags/math.md), [hash-table](tags/hash-table.md) |
 | 45 | [Jump Game II](problems/p45_jump_game_ii) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 46 | [Permutations](problems/p46_permutations) | 🟡 Medium | [backtracking](tags/backtracking.md), [array](tags/array.md) |
+| 49 | [Group Anagrams](problems/p49_group_anagrams) | 🟡 Medium | [array](tags/array.md), [hash-table](tags/hash-table.md), [string](tags/string.md), [sorting](tags/sorting.md) |
 | 55 | [Jump Game](problems/p55_jump_game) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 58 | [Length of Last Word](problems/p58_length_of_last_word) | 🟢 Easy | [string](tags/string.md) |
 | 66 | [Plus One](problems/p66_plus_one) | 🟢 Easy | [math](tags/math.md), [array](tags/array.md) |
