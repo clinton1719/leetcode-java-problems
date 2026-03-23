@@ -1,5 +1,6 @@
 # 🚩 Tag: dynamic-programming
 
+- [22. Generate Parentheses](../problems/p22_generate_parentheses) <kbd>Medium</kbd>
 - [45. Jump Game II](../problems/p45_jump_game_ii) <kbd>Medium</kbd>
 - [55. Jump Game](../problems/p55_jump_game) <kbd>Medium</kbd>
 - [70. Climbing Stairs](../problems/p70_climbing_stairs) <kbd>Easy</kbd>

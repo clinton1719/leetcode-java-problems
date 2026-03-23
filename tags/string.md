@@ -4,6 +4,7 @@
 - [14. Longest Common Prefix](../problems/p14_longest_common_prefix) <kbd>Easy</kbd>
 - [17. Letter Combinations Of A Phone Number](../problems/p17_letter_combinations_of_a_phone_number) <kbd>Medium</kbd>
 - [20. Valid Parentheses](../problems/p20_valid_parentheses) <kbd>Easy</kbd>
+- [22. Generate Parentheses](../problems/p22_generate_parentheses) <kbd>Medium</kbd>
 - [28. Find the Index of the First Occurrence in a String](../problems/p28_find_the_index_of_the_first_occurrence_in_a_string) <kbd>Easy</kbd>
 - [49. Group Anagrams](../problems/p49_group_anagrams) <kbd>Medium</kbd>
 - [58. Length of Last Word](../problems/p58_length_of_last_word) <kbd>Easy</kbd>
