@@ -2,7 +2,7 @@
 id: 1863
 title: "Sum Of All Subset Xor Totals"
 difficulty: Easy
-tags: [bit-manipulation, combinatorics, array, math, back-tracking]
+tags: [bit-manipulation, combinatorics, array, math, backtracking]
 date: 2026-03-22
 link: https://leetcode.com/problems/sum-of-all-subset-xor-totals
 ---
