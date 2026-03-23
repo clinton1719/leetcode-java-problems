@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 67 | 43 | 24 | 0 |
+| 68 | 44 | 24 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -49,6 +49,7 @@
 | 101 | [Symmetric Tree](problems/p101_symmetric_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 104 | [Maximum Depth Of Binary Tree](problems/p104_maximum_depth_of_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [bfs](tags/bfs.md), [dfs](tags/dfs.md), [tree](tags/tree.md) |
 | 108 | [Convert Sorted Array To Binary Search Tree](problems/p108_convert_sorted_array_to_binary_search_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [array](tags/array.md), [binary-search-tree](tags/binary-search-tree.md), [tree](tags/tree.md), [divide-and-conquer](tags/divide-and-conquer.md) |
+| 111 | [Minimum Depth Of Binary Tree](problems/p111_minimum_depth_of_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [bfs](tags/bfs.md), [dfs](tags/dfs.md) |
 | 112 | [Path Sum](problems/p112_path_sum) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 121 | [Best Time to Buy and Sell Stock](problems/p121_best_time_to_buy_and_sell_stock) | 🟢 Easy | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 122 | [Best Time to Buy and Sell Stock II](problems/p122_best_time_to_buy_and_sell_stock_ii) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
