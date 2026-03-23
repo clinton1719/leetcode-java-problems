@@ -10,3 +10,4 @@
 - [69. Sqrt(x)](../problems/p69_sqrtx) <kbd>Easy</kbd>
 - [70. Climbing Stairs](../problems/p70_climbing_stairs) <kbd>Easy</kbd>
 - [189. Rotate Array](../problems/p189_rotate_array) <kbd>Medium</kbd>
+- [1863. Sum Of All Subset Xor Totals](../problems/p1863_sum_of_all_subset_xor_totals) <kbd>Easy</kbd>
