@@ -1,6 +1,7 @@
 # 🚩 Tag: hash-table
 
 - [1. Two Sum](../problems/p1_two_sum) <kbd>Easy</kbd>
+- [12. Integer To Roman](../problems/p12_integer_to_roman) <kbd>Medium</kbd>
 - [13. Roman to Integer](../problems/p13_roman_to_integer) <kbd>Easy</kbd>
 - [17. Letter Combinations Of A Phone Number](../problems/p17_letter_combinations_of_a_phone_number) <kbd>Medium</kbd>
 - [36. Valid Sudoku](../problems/p36_valid_sudoku) <kbd>Medium</kbd>
@@ -15,4 +16,5 @@
 - [219. Contains Duplicate II](../problems/p219_contains_duplicate_ii) <kbd>Easy</kbd>
 - [242. Valid Anagram](../problems/p242_valid_anagram) <kbd>Easy</kbd>
 - [290. Word Pattern](../problems/p290_word_pattern) <kbd>Easy</kbd>
+- [380. Insert Delete GetRandom O(1)](../problems/p380_insert_delete_getrandom_o1) <kbd>Medium</kbd>
 - [383. Ransom Note](../problems/p383_ransom_note) <kbd>Easy</kbd>

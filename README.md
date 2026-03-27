@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 68 | 44 | 24 | 0 |
+| 73 | 46 | 27 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -19,6 +19,7 @@
 | 1 | [Two Sum](problems/p1_two_sum) | 🟢 Easy | [hash-table](tags/hash-table.md), [array](tags/array.md) |
 | 2 | [Add Two Numbers](problems/p2_add_two_numbers) | 🟡 Medium | [linked-list](tags/linked-list.md), [recursion](tags/recursion.md), [math](tags/math.md) |
 | 9 | [Palindrome Number](problems/p9_palindrome_number) | 🟢 Easy | [math](tags/math.md) |
+| 12 | [Integer To Roman](problems/p12_integer_to_roman) | 🟡 Medium | [string](tags/string.md), [math](tags/math.md), [hash-table](tags/hash-table.md) |
 | 13 | [Roman to Integer](problems/p13_roman_to_integer) | 🟢 Easy | [string](tags/string.md), [hash-table](tags/hash-table.md), [math](tags/math.md) |
 | 14 | [Longest Common Prefix](problems/p14_longest_common_prefix) | 🟢 Easy | [string](tags/string.md), [array](tags/array.md), [trie](tags/trie.md) |
 | 17 | [Letter Combinations Of A Phone Number](problems/p17_letter_combinations_of_a_phone_number) | 🟡 Medium | [string](tags/string.md), [backtracking](tags/backtracking.md), [hash-table](tags/hash-table.md) |
@@ -56,6 +57,7 @@
 | 125 | [valid-palindrome](problems/p125_valid_palindrome) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md) |
 | 128 | [Longest Consecutive Sequence](problems/p128_longest_consecutive_sequence) | 🟡 Medium | [array](tags/array.md), [hash-table](tags/hash-table.md), [hash-set](tags/hash-set.md) |
 | 136 | [Single Number](problems/p136_single_number) | 🟢 Easy | [array](tags/array.md), [bit-manipulation](tags/bit-manipulation.md), [xor](tags/xor.md) |
+| 137 | [Single Number II](problems/p137_single_number_ii) | 🟡 Medium | [bit-manipulation](tags/bit-manipulation.md), [array](tags/array.md) |
 | 138 | [Copy List With Random Pointer](problems/p138_copy_list_with_random_pointer) | 🟡 Medium | [hash-table](tags/hash-table.md), [linked-list](tags/linked-list.md) |
 | 141 | [Linked List Cycle](problems/p141_linked_list_cycle) | 🟢 Easy | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md), [floyds-cycle-finding-algorithm](tags/floyds-cycle-finding-algorithm.md), [algorithm](tags/algorithm.md) |
 | 155 | [Min Stack](problems/p155_min_stack) | 🟡 Medium | [stack](tags/stack.md), [design](tags/design.md) |
@@ -78,9 +80,12 @@
 | 257 | [Binary Tree Paths](problems/p257_binary_tree_paths) | 🟢 Easy | [tree](tags/tree.md), [dfs](tags/dfs.md), [backtracking](tags/backtracking.md), [binary-tree](tags/binary-tree.md), [string](tags/string.md) |
 | 274 | [H-Index](problems/p274_h_index) | 🟡 Medium | [array](tags/array.md), [sorting](tags/sorting.md), [counting-sort](tags/counting-sort.md) |
 | 290 | [Word Pattern](problems/p290_word_pattern) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
+| 380 | [Insert Delete GetRandom O(1)](problems/p380_insert_delete_getrandom_o1) | 🟡 Medium | [array](tags/array.md), [design](tags/design.md), [hash-table](tags/hash-table.md), [math](tags/math.md) |
 | 383 | [Ransom Note](problems/p383_ransom_note) | 🟢 Easy | [counting](tags/counting.md), [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 392 | [Is Subsequence](problems/p392_is_subsequence) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md), [dynamic-programming](tags/dynamic-programming.md) |
+| 404 | [sum-of-left-leaves](problems/p404_sum_of_left_leaves) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md) |
 | 530 | [Minimum Absolute Difference in BST](problems/p530_minimum_absolute_difference_in_bst) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [inorder-traversal](tags/inorder-traversal.md) |
 | 637 | [Average Of Levels In Binary Tree](problems/p637_average_of_levels_in_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [bfs](tags/bfs.md) |
 | 909 | [Snakes And Ladders](problems/p909_snakes_and_ladders) | 🟡 Medium | [array](tags/array.md), [matrix](tags/matrix.md), [bfs](tags/bfs.md) |
 | 1863 | [Sum Of All Subset Xor Totals](problems/p1863_sum_of_all_subset_xor_totals) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md), [combinatorics](tags/combinatorics.md), [array](tags/array.md), [math](tags/math.md), [backtracking](tags/backtracking.md) |
+| 2331 | [Evaluate Boolean Binary Tree](problems/p2331_evaluate_boolean_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md) |
