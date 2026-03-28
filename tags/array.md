@@ -19,6 +19,7 @@
 - [122. Best Time to Buy and Sell Stock II](../problems/p122_best_time_to_buy_and_sell_stock_ii) <kbd>Medium</kbd>
 - [128. Longest Consecutive Sequence](../problems/p128_longest_consecutive_sequence) <kbd>Medium</kbd>
 - [136. Single Number](../problems/p136_single_number) <kbd>Easy</kbd>
+- [137. Single Number II](../problems/p137_single_number_ii) <kbd>Medium</kbd>
 - [167. Two Sum II Input Array Is Sorted](../problems/p167_two_sum_ii_input_array_is_sorted) <kbd>Medium</kbd>
 - [169. Majority Element](../problems/p169_majority_element) <kbd>Easy</kbd>
 - [189. Rotate Array](../problems/p189_rotate_array) <kbd>Medium</kbd>
@@ -28,5 +29,6 @@
 - [228. Summary Ranges](../problems/p228_summary_ranges) <kbd>Easy</kbd>
 - [238. Product Of Array Except Self](../problems/p238_product_of_array_except_self) <kbd>Medium</kbd>
 - [274. H-Index](../problems/p274_h_index) <kbd>Medium</kbd>
+- [380. Insert Delete GetRandom O(1)](../problems/p380_insert_delete_getrandom_o1) <kbd>Medium</kbd>
 - [909. Snakes And Ladders](../problems/p909_snakes_and_ladders) <kbd>Medium</kbd>
 - [1863. Sum Of All Subset Xor Totals](../problems/p1863_sum_of_all_subset_xor_totals) <kbd>Easy</kbd>

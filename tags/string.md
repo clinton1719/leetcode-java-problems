@@ -1,5 +1,6 @@
 # 🚩 Tag: string
 
+- [12. Integer To Roman](../problems/p12_integer_to_roman) <kbd>Medium</kbd>
 - [13. Roman to Integer](../problems/p13_roman_to_integer) <kbd>Easy</kbd>
 - [14. Longest Common Prefix](../problems/p14_longest_common_prefix) <kbd>Easy</kbd>
 - [17. Letter Combinations Of A Phone Number](../problems/p17_letter_combinations_of_a_phone_number) <kbd>Medium</kbd>

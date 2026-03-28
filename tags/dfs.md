@@ -9,3 +9,4 @@
 - [200. Number Of Islands](../problems/p200_number_of_islands) <kbd>Medium</kbd>
 - [226. Invert Binary Tree](../problems/p226_invert_binary_tree) <kbd>Easy</kbd>
 - [257. Binary Tree Paths](../problems/p257_binary_tree_paths) <kbd>Easy</kbd>
+- [2331. Evaluate Boolean Binary Tree](../problems/p2331_evaluate_boolean_binary_tree) <kbd>Easy</kbd>
