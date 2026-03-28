@@ -16,6 +16,7 @@
 - [80. Remove Duplicates from Sorted Array II](../problems/p80_remove_duplicates_from_sorted_array_ii) <kbd>Medium</kbd>
 - [89. Merge Sorted Array](../problems/p89_merge_sorted_array) <kbd>Easy</kbd>
 - [108. Convert Sorted Array To Binary Search Tree](../problems/p108_convert_sorted_array_to_binary_search_tree) <kbd>Easy</kbd>
+- [118. Pascals Triangle](../problems/p118_pascals_triangle) <kbd>Easy</kbd>
 - [121. Best Time to Buy and Sell Stock](../problems/p121_best_time_to_buy_and_sell_stock) <kbd>Easy</kbd>
 - [122. Best Time to Buy and Sell Stock II](../problems/p122_best_time_to_buy_and_sell_stock_ii) <kbd>Medium</kbd>
 - [128. Longest Consecutive Sequence](../problems/p128_longest_consecutive_sequence) <kbd>Medium</kbd>
