@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 73 | 46 | 27 | 0 |
+| 74 | 46 | 28 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -19,6 +19,7 @@
 | 1 | [Two Sum](problems/p1_two_sum) | 🟢 Easy | [hash-table](tags/hash-table.md), [array](tags/array.md) |
 | 2 | [Add Two Numbers](problems/p2_add_two_numbers) | 🟡 Medium | [linked-list](tags/linked-list.md), [recursion](tags/recursion.md), [math](tags/math.md) |
 | 9 | [Palindrome Number](problems/p9_palindrome_number) | 🟢 Easy | [math](tags/math.md) |
+| 11 | [Container With Most Water](problems/p11_container_with_most_water) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [greedy](tags/greedy.md) |
 | 12 | [Integer To Roman](problems/p12_integer_to_roman) | 🟡 Medium | [string](tags/string.md), [math](tags/math.md), [hash-table](tags/hash-table.md) |
 | 13 | [Roman to Integer](problems/p13_roman_to_integer) | 🟢 Easy | [string](tags/string.md), [hash-table](tags/hash-table.md), [math](tags/math.md) |
 | 14 | [Longest Common Prefix](problems/p14_longest_common_prefix) | 🟢 Easy | [string](tags/string.md), [array](tags/array.md), [trie](tags/trie.md) |
