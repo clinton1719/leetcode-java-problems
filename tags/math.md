@@ -13,3 +13,4 @@
 - [189. Rotate Array](../problems/p189_rotate_array) <kbd>Medium</kbd>
 - [380. Insert Delete GetRandom O(1)](../problems/p380_insert_delete_getrandom_o1) <kbd>Medium</kbd>
 - [1863. Sum Of All Subset Xor Totals](../problems/p1863_sum_of_all_subset_xor_totals) <kbd>Easy</kbd>
+- [2331. Final Array State After K Multiplication Operations I](../problems/p3264_final_array_state_after_k_multiplication_operations_i) <kbd>Easy</kbd>

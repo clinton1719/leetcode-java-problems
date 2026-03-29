@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 81 | 52 | 29 | 0 |
+| 82 | 53 | 29 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -95,5 +95,6 @@
 | 909 | [Snakes And Ladders](problems/p909_snakes_and_ladders) | 🟡 Medium | [array](tags/array.md), [matrix](tags/matrix.md), [bfs](tags/bfs.md) |
 | 1863 | [Sum Of All Subset Xor Totals](problems/p1863_sum_of_all_subset_xor_totals) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md), [combinatorics](tags/combinatorics.md), [array](tags/array.md), [math](tags/math.md), [backtracking](tags/backtracking.md) |
 | 2099 | [Find Subsequence of Length K With the Largest Sum](problems/p2099_find_subsequence_of_length_k_with_the_largest_sum) | 🟢 Easy | [sorting](tags/sorting.md), [heap](tags/heap.md), [array](tags/array.md) |
+| 2331 | [Final Array State After K Multiplication Operations I](problems/p3264_final_array_state_after_k_multiplication_operations_i) | 🟢 Easy | [heap](tags/heap.md), [array](tags/array.md), [math](tags/math.md) |
 | 2331 | [Evaluate Boolean Binary Tree](problems/p2331_evaluate_boolean_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md) |
 | 3885 | [Design Event Manager](problems/p3885_design_event_manager) | 🟢 Easy | [design](tags/design.md), [heap](tags/heap.md) |
