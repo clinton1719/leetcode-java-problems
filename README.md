@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 75 | 47 | 28 | 0 |
+| 76 | 48 | 28 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -54,6 +54,7 @@
 | 111 | [Minimum Depth Of Binary Tree](problems/p111_minimum_depth_of_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [bfs](tags/bfs.md), [dfs](tags/dfs.md) |
 | 112 | [Path Sum](problems/p112_path_sum) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 118 | [Pascals Triangle](problems/p118_pascals_triangle) | 🟢 Easy | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md) |
+| 119 | [Pascals Triangle II](problems/p119_pascals_triangle_ii) | 🟢 Easy | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 121 | [Best Time to Buy and Sell Stock](problems/p121_best_time_to_buy_and_sell_stock) | 🟢 Easy | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 122 | [Best Time to Buy and Sell Stock II](problems/p122_best_time_to_buy_and_sell_stock_ii) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 125 | [valid-palindrome](problems/p125_valid_palindrome) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md) |
