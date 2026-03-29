@@ -34,5 +34,6 @@
 - [238. Product Of Array Except Self](../problems/p238_product_of_array_except_self) <kbd>Medium</kbd>
 - [274. H-Index](../problems/p274_h_index) <kbd>Medium</kbd>
 - [380. Insert Delete GetRandom O(1)](../problems/p380_insert_delete_getrandom_o1) <kbd>Medium</kbd>
+- [506. Relative Ranks](../problems/p506_relative_ranks) <kbd>Easy</kbd>
 - [909. Snakes And Ladders](../problems/p909_snakes_and_ladders) <kbd>Medium</kbd>
 - [1863. Sum Of All Subset Xor Totals](../problems/p1863_sum_of_all_subset_xor_totals) <kbd>Easy</kbd>

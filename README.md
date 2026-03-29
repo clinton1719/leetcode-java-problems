@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 79 | 50 | 29 | 0 |
+| 80 | 51 | 29 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -88,6 +88,7 @@
 | 383 | [Ransom Note](problems/p383_ransom_note) | 🟢 Easy | [counting](tags/counting.md), [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 392 | [Is Subsequence](problems/p392_is_subsequence) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 404 | [sum-of-left-leaves](problems/p404_sum_of_left_leaves) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md) |
+| 506 | [Relative Ranks](problems/p506_relative_ranks) | 🟢 Easy | [heap](tags/heap.md), [sorting](tags/sorting.md), [array](tags/array.md) |
 | 530 | [Minimum Absolute Difference in BST](problems/p530_minimum_absolute_difference_in_bst) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [inorder-traversal](tags/inorder-traversal.md) |
 | 637 | [Average Of Levels In Binary Tree](problems/p637_average_of_levels_in_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [bfs](tags/bfs.md) |
 | 703 | [Kth Largest Element In A Stream](problems/p703_kth_largest_element_in_a_stream) | 🟢 Easy | [design](tags/design.md), [heap](tags/heap.md) |
