@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 83 | 53 | 30 | 0 |
+| 84 | 53 | 31 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -70,6 +70,7 @@
 | 190 | [Add Binary](problems/p190_reverse_bits) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md) |
 | 191 | [Number Of 1 Bits](problems/p191_number_of_1_bits) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md), [algorithm](tags/algorithm.md), [brian-kernighans-algorithm](tags/brian-kernighans-algorithm.md) |
 | 200 | [Number Of Islands](problems/p200_number_of_islands) | 🟡 Medium | [graph](tags/graph.md), [array](tags/array.md), [bfs](tags/bfs.md), [dfs](tags/dfs.md), [matrix](tags/matrix.md) |
+| 201 | [Bitwise And Of Numbers Range](problems/p201_bitwise_and_of_numbers_range) | 🟡 Medium | [bit-manipulation](tags/bit-manipulation.md), [algorithm](tags/algorithm.md), [brian-kernighans-algorithm](tags/brian-kernighans-algorithm.md) |
 | 202 | [Happy Number](problems/p202_happy_number) | 🟢 Easy | [hash-table](tags/hash-table.md), [algorithm](tags/algorithm.md), [floyds-cycle-finding-algorithm](tags/floyds-cycle-finding-algorithm.md) |
 | 205 | [Isomorphic strings](problems/p205_isomorphic_strings) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 208 | [Implement Trie Prefix Tree](problems/p208_implement_trie_prefix_tree) | 🟡 Medium | [trie](tags/trie.md), [design](tags/design.md), [string](tags/string.md), [hash-table](tags/hash-table.md) |
