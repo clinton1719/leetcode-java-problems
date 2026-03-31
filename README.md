@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 82 | 53 | 29 | 0 |
+| 83 | 53 | 30 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -84,6 +84,7 @@
 | 257 | [Binary Tree Paths](problems/p257_binary_tree_paths) | 🟢 Easy | [tree](tags/tree.md), [dfs](tags/dfs.md), [backtracking](tags/backtracking.md), [binary-tree](tags/binary-tree.md), [string](tags/string.md) |
 | 274 | [H-Index](problems/p274_h_index) | 🟡 Medium | [array](tags/array.md), [sorting](tags/sorting.md), [counting-sort](tags/counting-sort.md) |
 | 290 | [Word Pattern](problems/p290_word_pattern) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
+| 373 | [Find K Pairs With Smallest Sums](problems/p373_find_k_pairs_with_smallest_sums) | 🟡 Medium | [heap](tags/heap.md), [array](tags/array.md) |
 | 380 | [Insert Delete GetRandom O(1)](problems/p380_insert_delete_getrandom_o1) | 🟡 Medium | [array](tags/array.md), [design](tags/design.md), [hash-table](tags/hash-table.md), [math](tags/math.md) |
 | 383 | [Ransom Note](problems/p383_ransom_note) | 🟢 Easy | [counting](tags/counting.md), [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 392 | [Is Subsequence](problems/p392_is_subsequence) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md), [dynamic-programming](tags/dynamic-programming.md) |
