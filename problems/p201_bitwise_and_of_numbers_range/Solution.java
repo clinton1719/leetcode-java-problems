@@ -1,6 +1,5 @@
 package problems.p201_bitwise_and_of_numbers_range;
 
-
 public class Solution {
 
   static void main() {
@@ -18,5 +17,13 @@ public class Solution {
     }
 
     return left << shift;
+  }
+
+  public int brianKerighanAlg(int left, int right) {
+    while (left < right) {
+      right = right & (right - 1);
+    }
+
+    return right;
   }
 }
