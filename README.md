@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 84 | 53 | 31 | 0 |
+| 85 | 53 | 32 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -24,6 +24,7 @@
 | 13 | [Roman to Integer](problems/p13_roman_to_integer) | 🟢 Easy | [string](tags/string.md), [hash-table](tags/hash-table.md), [math](tags/math.md) |
 | 14 | [Longest Common Prefix](problems/p14_longest_common_prefix) | 🟢 Easy | [string](tags/string.md), [array](tags/array.md), [trie](tags/trie.md) |
 | 17 | [Letter Combinations Of A Phone Number](problems/p17_letter_combinations_of_a_phone_number) | 🟡 Medium | [string](tags/string.md), [backtracking](tags/backtracking.md), [hash-table](tags/hash-table.md) |
+| 19 | [Remove Nth Node From End of List](problems/p19_remove_nth_node_from_end_of_list) | 🟡 Medium | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md) |
 | 20 | [Valid Parentheses](problems/p20_valid_parentheses) | 🟢 Easy | [string](tags/string.md), [stack](tags/stack.md) |
 | 21 | [Merge Two Sorted Lists](problems/p21_merge_two_sorted_lists) | 🟢 Easy | [linked-list](tags/linked-list.md), [recursion](tags/recursion.md) |
 | 22 | [Generate Parentheses](problems/p22_generate_parentheses) | 🟡 Medium | [backtracking](tags/backtracking.md), [string](tags/string.md), [dynamic-programming](tags/dynamic-programming.md) |
