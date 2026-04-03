@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 86 | 53 | 33 | 0 |
+| 87 | 53 | 34 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -39,6 +39,7 @@
 | 49 | [Group Anagrams](problems/p49_group_anagrams) | 🟡 Medium | [array](tags/array.md), [hash-table](tags/hash-table.md), [string](tags/string.md), [sorting](tags/sorting.md) |
 | 55 | [Jump Game](problems/p55_jump_game) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 58 | [Length of Last Word](problems/p58_length_of_last_word) | 🟢 Easy | [string](tags/string.md) |
+| 61 | [Rotate List](problems/p61_rotate_list) | 🟡 Medium | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md) |
 | 66 | [Plus One](problems/p66_plus_one) | 🟢 Easy | [math](tags/math.md), [array](tags/array.md) |
 | 67 | [Add Binary](problems/p67_add_binary) | 🟢 Easy | [math](tags/math.md), [string](tags/string.md), [bit-manipulation](tags/bit-manipulation.md) |
 | 69 | [Sqrt(x)](problems/p69_sqrtx) | 🟢 Easy | [math](tags/math.md), [binary-search](tags/binary-search.md) |
