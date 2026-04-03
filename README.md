@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 87 | 53 | 34 | 0 |
+| 88 | 54 | 34 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -47,6 +47,7 @@
 | 77 | [Combinations](problems/p77_combinations) | 🟡 Medium | [backtracking](tags/backtracking.md) |
 | 80 | [Remove Duplicates from Sorted Array II](problems/p80_remove_duplicates_from_sorted_array_ii) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 82 | [Remove Duplicates from Sorted List II](problems/p82_remove_duplicates_from_sorted_list_ii) | 🟡 Medium | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md) |
+| 83 | [Remove Duplicates from Sorted List](problems/p83_remove_duplicates_from_sorted_list) | 🟢 Easy | [linked-list](tags/linked-list.md) |
 | 89 | [Merge Sorted Array](problems/p89_merge_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [sorting](tags/sorting.md) |
 | 92 | [Reverse Linked List II](problems/p92_reverse_linked_list_ii) | 🟡 Medium | [linked-list](tags/linked-list.md) |
 | 94 | [Binary Tree Inorder Traversal](problems/p94_binary_tree_inorder_traversal) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md), [inorder-traversal](tags/inorder-traversal.md) |
