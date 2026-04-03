@@ -2,7 +2,6 @@ package problems.p82_remove_duplicates_from_sorted_list_ii;
 
 public class Solution {
   static void main() {
-    int[] nums = {0, 0, 1, 1, 1, 1, 2, 3, 3};
     Solution solution = new Solution();
     System.out.println(solution.deleteDuplicates(new ListNode(0)));
   }
