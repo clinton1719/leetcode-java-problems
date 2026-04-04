@@ -9,6 +9,7 @@
 - [49. Group Anagrams](../problems/p49_group_anagrams) <kbd>Medium</kbd>
 - [128. Longest Consecutive Sequence](../problems/p128_longest_consecutive_sequence) <kbd>Medium</kbd>
 - [138. Copy List With Random Pointer](../problems/p138_copy_list_with_random_pointer) <kbd>Medium</kbd>
+- [146. LRU Cache](../problems/p146_lru_cache) <kbd>Medium</kbd>
 - [169. Majority Element](../problems/p169_majority_element) <kbd>Easy</kbd>
 - [202. Happy Number](../problems/p202_happy_number) <kbd>Easy</kbd>
 - [205. Isomorphic strings](../problems/p205_isomorphic_strings) <kbd>Easy</kbd>

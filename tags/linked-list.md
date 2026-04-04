@@ -9,5 +9,6 @@
 - [92. Reverse Linked List II](../problems/p92_reverse_linked_list_ii) <kbd>Medium</kbd>
 - [138. Copy List With Random Pointer](../problems/p138_copy_list_with_random_pointer) <kbd>Medium</kbd>
 - [141. Linked List Cycle](../problems/p141_linked_list_cycle) <kbd>Easy</kbd>
+- [146. LRU Cache](../problems/p146_lru_cache) <kbd>Medium</kbd>
 - [160. Intersection Of Two Linked Lists](../problems/p160_intersection_of_two_linked_lists) <kbd>Easy</kbd>
 - [203. Remove Linked List Elements](../problems/p203_remove_linked_list_elements) <kbd>Easy</kbd>
