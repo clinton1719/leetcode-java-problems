@@ -12,3 +12,5 @@
 - [146. LRU Cache](../problems/p146_lru_cache) <kbd>Medium</kbd>
 - [160. Intersection Of Two Linked Lists](../problems/p160_intersection_of_two_linked_lists) <kbd>Easy</kbd>
 - [203. Remove Linked List Elements](../problems/p203_remove_linked_list_elements) <kbd>Easy</kbd>
+- [1290. Convert Binary Number in a Linked List to Integer](../problems/p1290_convert_binary_number_in_a_linked_list_to_integer) <kbd>Easy</kbd>
+- [3507. Minimum Pair Removal To Sort Array I](../problems/p3507_minimum_pair_removal_to_sort_array_i) <kbd>Easy</kbd>
