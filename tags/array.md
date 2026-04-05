@@ -10,6 +10,7 @@
 - [39. combination-sum](../problems/p39_combination_sum) <kbd>Medium</kbd>
 - [45. Jump Game II](../problems/p45_jump_game_ii) <kbd>Medium</kbd>
 - [46. Permutations](../problems/p46_permutations) <kbd>Medium</kbd>
+- [48. Rotate Image](../problems/p48_rotate_image) <kbd>Medium</kbd>
 - [49. Group Anagrams](../problems/p49_group_anagrams) <kbd>Medium</kbd>
 - [54. Spiral Matrix](../problems/p54_spiral_matrix) <kbd>Medium</kbd>
 - [55. Jump Game](../problems/p55_jump_game) <kbd>Medium</kbd>

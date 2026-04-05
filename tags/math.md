@@ -6,6 +6,7 @@
 - [13. Roman to Integer](../problems/p13_roman_to_integer) <kbd>Easy</kbd>
 - [36. Valid Sudoku](../problems/p36_valid_sudoku) <kbd>Medium</kbd>
 - [39. combination-sum](../problems/p39_combination_sum) <kbd>Medium</kbd>
+- [48. Rotate Image](../problems/p48_rotate_image) <kbd>Medium</kbd>
 - [66. Plus One](../problems/p66_plus_one) <kbd>Easy</kbd>
 - [67. Add Binary](../problems/p67_add_binary) <kbd>Easy</kbd>
 - [69. Sqrt(x)](../problems/p69_sqrtx) <kbd>Easy</kbd>

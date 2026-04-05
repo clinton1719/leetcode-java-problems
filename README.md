@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 94 | 58 | 36 | 0 |
+| 95 | 58 | 37 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -36,6 +36,7 @@
 | 39 | [combination-sum](problems/p39_combination_sum) | 🟡 Medium | [matrix](tags/matrix.md), [array](tags/array.md), [hash-set](tags/hash-set.md), [math](tags/math.md), [hash-table](tags/hash-table.md) |
 | 45 | [Jump Game II](problems/p45_jump_game_ii) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 46 | [Permutations](problems/p46_permutations) | 🟡 Medium | [backtracking](tags/backtracking.md), [array](tags/array.md) |
+| 48 | [Rotate Image](problems/p48_rotate_image) | 🟡 Medium | [matrix](tags/matrix.md), [array](tags/array.md), [math](tags/math.md) |
 | 49 | [Group Anagrams](problems/p49_group_anagrams) | 🟡 Medium | [array](tags/array.md), [hash-table](tags/hash-table.md), [string](tags/string.md), [sorting](tags/sorting.md) |
 | 54 | [Spiral Matrix](problems/p54_spiral_matrix) | 🟡 Medium | [matrix](tags/matrix.md), [array](tags/array.md), [simulation](tags/simulation.md) |
 | 55 | [Jump Game](problems/p55_jump_game) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
