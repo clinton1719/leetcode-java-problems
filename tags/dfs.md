@@ -1,5 +1,6 @@
 # 🚩 Tag: dfs
 
+- [79. Word Search](../problems/p79_word_search) <kbd>Medium</kbd>
 - [94. Binary Tree Inorder Traversal](../problems/p94_binary_tree_inorder_traversal) <kbd>Easy</kbd>
 - [100. Same Tree](../problems/p100_same_tree) <kbd>Easy</kbd>
 - [101. Symmetric Tree](../problems/p101_symmetric_tree) <kbd>Easy</kbd>

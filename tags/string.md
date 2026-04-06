@@ -10,6 +10,7 @@
 - [49. Group Anagrams](../problems/p49_group_anagrams) <kbd>Medium</kbd>
 - [58. Length of Last Word](../problems/p58_length_of_last_word) <kbd>Easy</kbd>
 - [67. Add Binary](../problems/p67_add_binary) <kbd>Easy</kbd>
+- [79. Word Search](../problems/p79_word_search) <kbd>Medium</kbd>
 - [125. valid-palindrome](../problems/p125_valid_palindrome) <kbd>Easy</kbd>
 - [205. Isomorphic strings](../problems/p205_isomorphic_strings) <kbd>Easy</kbd>
 - [208. Implement Trie Prefix Tree](../problems/p208_implement_trie_prefix_tree) <kbd>Medium</kbd>

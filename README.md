@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 95 | 58 | 37 | 0 |
+| 96 | 58 | 38 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -47,6 +47,7 @@
 | 69 | [Sqrt(x)](problems/p69_sqrtx) | 🟢 Easy | [math](tags/math.md), [binary-search](tags/binary-search.md) |
 | 70 | [Climbing Stairs](problems/p70_climbing_stairs) | 🟢 Easy | [math](tags/math.md), [fibonacci](tags/fibonacci.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 77 | [Combinations](problems/p77_combinations) | 🟡 Medium | [backtracking](tags/backtracking.md) |
+| 79 | [Word Search](problems/p79_word_search) | 🟡 Medium | [backtracking](tags/backtracking.md), [matrix](tags/matrix.md), [dfs](tags/dfs.md), [string](tags/string.md) |
 | 80 | [Remove Duplicates from Sorted Array II](problems/p80_remove_duplicates_from_sorted_array_ii) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 82 | [Remove Duplicates from Sorted List II](problems/p82_remove_duplicates_from_sorted_list_ii) | 🟡 Medium | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md) |
 | 83 | [Remove Duplicates from Sorted List](problems/p83_remove_duplicates_from_sorted_list) | 🟢 Easy | [linked-list](tags/linked-list.md) |
