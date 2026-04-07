@@ -12,6 +12,7 @@
 - [67. Add Binary](../problems/p67_add_binary) <kbd>Easy</kbd>
 - [79. Word Search](../problems/p79_word_search) <kbd>Medium</kbd>
 - [125. valid-palindrome](../problems/p125_valid_palindrome) <kbd>Easy</kbd>
+- [151. Reverse Words in a String](../problems/p151_reverse_words_in_a_string) <kbd>Medium</kbd>
 - [205. Isomorphic strings](../problems/p205_isomorphic_strings) <kbd>Easy</kbd>
 - [208. Implement Trie Prefix Tree](../problems/p208_implement_trie_prefix_tree) <kbd>Medium</kbd>
 - [242. Valid Anagram](../problems/p242_valid_anagram) <kbd>Easy</kbd>
