@@ -4,7 +4,8 @@
 - [100. Same Tree](../problems/p100_same_tree) <kbd>Easy</kbd>
 - [101. Symmetric Tree](../problems/p101_symmetric_tree) <kbd>Easy</kbd>
 - [104. Maximum Depth Of Binary Tree](../problems/p104_maximum_depth_of_binary_tree) <kbd>Easy</kbd>
-- [105. Construct Binary Tree from Preorder and Inorder Traversal](../problems/p105_construct_binary_tree_from_preorder_and_inorder_traversal) <kbd>Easy</kbd>
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](../problems/p105_construct_binary_tree_from_preorder_and_inorder_traversal) <kbd>Medium</kbd>
+- [106. Construct Binary Tree from Inorder And PostOrder Traversal](../problems/p106_construct_binary_tree_from_inorder_and_postorder_traversal) <kbd>Medium</kbd>
 - [108. Convert Sorted Array To Binary Search Tree](../problems/p108_convert_sorted_array_to_binary_search_tree) <kbd>Easy</kbd>
 - [111. Minimum Depth Of Binary Tree](../problems/p111_minimum_depth_of_binary_tree) <kbd>Easy</kbd>
 - [112. Path Sum](../problems/p112_path_sum) <kbd>Easy</kbd>

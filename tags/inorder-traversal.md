@@ -1,5 +1,6 @@
 # 🚩 Tag: inorder-traversal
 
 - [94. Binary Tree Inorder Traversal](../problems/p94_binary_tree_inorder_traversal) <kbd>Easy</kbd>
-- [105. Construct Binary Tree from Preorder and Inorder Traversal](../problems/p105_construct_binary_tree_from_preorder_and_inorder_traversal) <kbd>Easy</kbd>
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](../problems/p105_construct_binary_tree_from_preorder_and_inorder_traversal) <kbd>Medium</kbd>
+- [106. Construct Binary Tree from Inorder And PostOrder Traversal](../problems/p106_construct_binary_tree_from_inorder_and_postorder_traversal) <kbd>Medium</kbd>
 - [530. Minimum Absolute Difference in BST](../problems/p530_minimum_absolute_difference_in_bst) <kbd>Easy</kbd>

@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 98 | 59 | 39 | 0 |
+| 99 | 58 | 41 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -57,7 +57,8 @@
 | 100 | [Same Tree](problems/p100_same_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 101 | [Symmetric Tree](problems/p101_symmetric_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 104 | [Maximum Depth Of Binary Tree](problems/p104_maximum_depth_of_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [bfs](tags/bfs.md), [dfs](tags/dfs.md), [tree](tags/tree.md) |
-| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/p105_construct_binary_tree_from_preorder_and_inorder_traversal) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [inorder-traversal](tags/inorder-traversal.md), [preorder-traversal](tags/preorder-traversal.md), [divide-and-conquer](tags/divide-and-conquer.md) |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/p105_construct_binary_tree_from_preorder_and_inorder_traversal) | 🟡 Medium | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [inorder-traversal](tags/inorder-traversal.md), [preorder-traversal](tags/preorder-traversal.md), [divide-and-conquer](tags/divide-and-conquer.md) |
+| 106 | [Construct Binary Tree from Inorder And PostOrder Traversal](problems/p106_construct_binary_tree_from_inorder_and_postorder_traversal) | 🟡 Medium | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [inorder-traversal](tags/inorder-traversal.md), [preorder-traversal](tags/preorder-traversal.md), [divide-and-conquer](tags/divide-and-conquer.md) |
 | 108 | [Convert Sorted Array To Binary Search Tree](problems/p108_convert_sorted_array_to_binary_search_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [array](tags/array.md), [binary-search-tree](tags/binary-search-tree.md), [tree](tags/tree.md), [divide-and-conquer](tags/divide-and-conquer.md) |
 | 111 | [Minimum Depth Of Binary Tree](problems/p111_minimum_depth_of_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [bfs](tags/bfs.md), [dfs](tags/dfs.md) |
 | 112 | [Path Sum](problems/p112_path_sum) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
