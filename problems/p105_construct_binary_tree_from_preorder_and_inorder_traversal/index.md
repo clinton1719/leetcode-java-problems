@@ -1,7 +1,7 @@
 ---
 id: 105
 title: "Construct Binary Tree from Preorder and Inorder Traversal"
-difficulty: Easy
+difficulty: Medium
 tags: [binary-tree, tree, inorder-traversal, preorder-traversal, divide-and-conquer]
 date: 2026-04-07
 link: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
