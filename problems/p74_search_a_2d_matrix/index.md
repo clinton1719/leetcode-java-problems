@@ -1,7 +1,7 @@
 ---
 id: 74
 title: "Search A 2D Matrix"
-difficulty: Easy
+difficulty: Medium
 tags: [array, binary-search, matrix]
 date: 2026-04-09
 link: https://leetcode.com/problems/search-a-2d-matrix
@@ -9,7 +9,7 @@ link: https://leetcode.com/problems/search-a-2d-matrix
 
 ## Problem
 
-You are given an m x n integer matrix matrix with the following two properties:
+You are given an m x n integer matrix with the following two properties:
 
 Each row is sorted in non-decreasing order.
 The first integer of each row is greater than the last integer of the previous row.
