@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 100 | 59 | 41 | 0 |
+| 100 | 58 | 42 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -46,7 +46,7 @@
 | 67 | [Add Binary](problems/p67_add_binary) | 🟢 Easy | [math](tags/math.md), [string](tags/string.md), [bit-manipulation](tags/bit-manipulation.md) |
 | 69 | [Sqrt(x)](problems/p69_sqrtx) | 🟢 Easy | [math](tags/math.md), [binary-search](tags/binary-search.md) |
 | 70 | [Climbing Stairs](problems/p70_climbing_stairs) | 🟢 Easy | [math](tags/math.md), [fibonacci](tags/fibonacci.md), [dynamic-programming](tags/dynamic-programming.md) |
-| 74 | [Search A 2D Matrix](problems/p74_search_a_2d_matrix) | 🟢 Easy | [array](tags/array.md), [binary-search](tags/binary-search.md), [matrix](tags/matrix.md) |
+| 74 | [Search A 2D Matrix](problems/p74_search_a_2d_matrix) | 🟡 Medium | [array](tags/array.md), [binary-search](tags/binary-search.md), [matrix](tags/matrix.md) |
 | 77 | [Combinations](problems/p77_combinations) | 🟡 Medium | [backtracking](tags/backtracking.md) |
 | 79 | [Word Search](problems/p79_word_search) | 🟡 Medium | [backtracking](tags/backtracking.md), [matrix](tags/matrix.md), [dfs](tags/dfs.md), [string](tags/string.md) |
 | 80 | [Remove Duplicates from Sorted Array II](problems/p80_remove_duplicates_from_sorted_array_ii) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
