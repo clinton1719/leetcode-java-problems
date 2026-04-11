@@ -16,3 +16,5 @@
 - [1290. Convert Binary Number in a Linked List to Integer](../problems/p1290_convert_binary_number_in_a_linked_list_to_integer) <kbd>Easy</kbd>
 - [1863. Sum Of All Subset Xor Totals](../problems/p1863_sum_of_all_subset_xor_totals) <kbd>Easy</kbd>
 - [2331. Final Array State After K Multiplication Operations I](../problems/p3264_final_array_state_after_k_multiplication_operations_i) <kbd>Easy</kbd>
+- [3895. Count Digit Appearances](../problems/p3895_count_digit_appearances) <kbd>Medium</kbd>
+- [3896. Minimum Operations to Transform Array into Alternating Prime](../problems/p3896_minimum_operations_to_transform_array_into_alternating_prime) <kbd>Medium</kbd>

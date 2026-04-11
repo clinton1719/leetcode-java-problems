@@ -26,6 +26,7 @@
 - [128. Longest Consecutive Sequence](../problems/p128_longest_consecutive_sequence) <kbd>Medium</kbd>
 - [136. Single Number](../problems/p136_single_number) <kbd>Easy</kbd>
 - [137. Single Number II](../problems/p137_single_number_ii) <kbd>Medium</kbd>
+- [162. Find Peak Element](../problems/p162_find_peak_element) <kbd>Medium</kbd>
 - [167. Two Sum II Input Array Is Sorted](../problems/p167_two_sum_ii_input_array_is_sorted) <kbd>Medium</kbd>
 - [169. Majority Element](../problems/p169_majority_element) <kbd>Easy</kbd>
 - [189. Rotate Array](../problems/p189_rotate_array) <kbd>Medium</kbd>
@@ -43,3 +44,5 @@
 - [1863. Sum Of All Subset Xor Totals](../problems/p1863_sum_of_all_subset_xor_totals) <kbd>Easy</kbd>
 - [2099. Find Subsequence of Length K With the Largest Sum](../problems/p2099_find_subsequence_of_length_k_with_the_largest_sum) <kbd>Easy</kbd>
 - [2331. Final Array State After K Multiplication Operations I](../problems/p3264_final_array_state_after_k_multiplication_operations_i) <kbd>Easy</kbd>
+- [3895. Count Digit Appearances](../problems/p3895_count_digit_appearances) <kbd>Medium</kbd>
+- [3896. Minimum Operations to Transform Array into Alternating Prime](../problems/p3896_minimum_operations_to_transform_array_into_alternating_prime) <kbd>Medium</kbd>

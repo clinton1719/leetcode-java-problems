@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 100 | 58 | 42 | 0 |
+| 104 | 58 | 46 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -63,6 +63,7 @@
 | 108 | [Convert Sorted Array To Binary Search Tree](problems/p108_convert_sorted_array_to_binary_search_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [array](tags/array.md), [binary-search-tree](tags/binary-search-tree.md), [tree](tags/tree.md), [divide-and-conquer](tags/divide-and-conquer.md) |
 | 111 | [Minimum Depth Of Binary Tree](problems/p111_minimum_depth_of_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [bfs](tags/bfs.md), [dfs](tags/dfs.md) |
 | 112 | [Path Sum](problems/p112_path_sum) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
+| 117 | [Populating Next Right Pointers in Each Node II](problems/p117_populating_next_right_pointers_in_each_node_ii) | 🟡 Medium | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [linked-list](tags/linked-list.md), [dfs](tags/dfs.md) |
 | 118 | [Pascals Triangle](problems/p118_pascals_triangle) | 🟢 Easy | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 119 | [Pascals Triangle II](problems/p119_pascals_triangle_ii) | 🟢 Easy | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 121 | [Best Time to Buy and Sell Stock](problems/p121_best_time_to_buy_and_sell_stock) | 🟢 Easy | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md) |
@@ -77,6 +78,7 @@
 | 151 | [Reverse Words in a String](problems/p151_reverse_words_in_a_string) | 🟡 Medium | [two-pointers](tags/two-pointers.md), [string](tags/string.md) |
 | 155 | [Min Stack](problems/p155_min_stack) | 🟡 Medium | [stack](tags/stack.md), [design](tags/design.md) |
 | 160 | [Intersection Of Two Linked Lists](problems/p160_intersection_of_two_linked_lists) | 🟢 Easy | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md) |
+| 162 | [Find Peak Element](problems/p162_find_peak_element) | 🟡 Medium | [binary-search](tags/binary-search.md), [two-pointers](tags/two-pointers.md), [array](tags/array.md) |
 | 167 | [Two Sum II Input Array Is Sorted](problems/p167_two_sum_ii_input_array_is_sorted) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [binary-search](tags/binary-search.md) |
 | 169 | [Majority Element](problems/p169_majority_element) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [hash-table](tags/hash-table.md), [divide-and-conquer](tags/divide-and-conquer.md), [sorting](tags/sorting.md), [counting](tags/counting.md), [boyer–moore-voting-algorithm](tags/boyer–moore-voting-algorithm.md), [algorithm](tags/algorithm.md) |
 | 189 | [Rotate Array](problems/p189_rotate_array) | 🟡 Medium | [array](tags/array.md), [math](tags/math.md), [two-pointers](tags/two-pointers.md) |
@@ -116,3 +118,5 @@
 | 2331 | [Evaluate Boolean Binary Tree](problems/p2331_evaluate_boolean_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md) |
 | 3507 | [Minimum Pair Removal To Sort Array I](problems/p3507_minimum_pair_removal_to_sort_array_i) | 🟢 Easy | [linked-list](tags/linked-list.md) |
 | 3885 | [Design Event Manager](problems/p3885_design_event_manager) | 🟢 Easy | [design](tags/design.md), [heap](tags/heap.md) |
+| 3895 | [Count Digit Appearances](problems/p3895_count_digit_appearances) | 🟡 Medium | [math](tags/math.md), [array](tags/array.md) |
+| 3896 | [Minimum Operations to Transform Array into Alternating Prime](problems/p3896_minimum_operations_to_transform_array_into_alternating_prime) | 🟡 Medium | [math](tags/math.md), [array](tags/array.md) |

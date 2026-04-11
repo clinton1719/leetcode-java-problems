@@ -7,6 +7,7 @@
 - [82. Remove Duplicates from Sorted List II](../problems/p82_remove_duplicates_from_sorted_list_ii) <kbd>Medium</kbd>
 - [83. Remove Duplicates from Sorted List](../problems/p83_remove_duplicates_from_sorted_list) <kbd>Easy</kbd>
 - [92. Reverse Linked List II](../problems/p92_reverse_linked_list_ii) <kbd>Medium</kbd>
+- [117. Populating Next Right Pointers in Each Node II](../problems/p117_populating_next_right_pointers_in_each_node_ii) <kbd>Medium</kbd>
 - [138. Copy List With Random Pointer](../problems/p138_copy_list_with_random_pointer) <kbd>Medium</kbd>
 - [141. Linked List Cycle](../problems/p141_linked_list_cycle) <kbd>Easy</kbd>
 - [146. LRU Cache](../problems/p146_lru_cache) <kbd>Medium</kbd>

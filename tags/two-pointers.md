@@ -13,6 +13,7 @@
 - [141. Linked List Cycle](../problems/p141_linked_list_cycle) <kbd>Easy</kbd>
 - [151. Reverse Words in a String](../problems/p151_reverse_words_in_a_string) <kbd>Medium</kbd>
 - [160. Intersection Of Two Linked Lists](../problems/p160_intersection_of_two_linked_lists) <kbd>Easy</kbd>
+- [162. Find Peak Element](../problems/p162_find_peak_element) <kbd>Medium</kbd>
 - [167. Two Sum II Input Array Is Sorted](../problems/p167_two_sum_ii_input_array_is_sorted) <kbd>Medium</kbd>
 - [169. Majority Element](../problems/p169_majority_element) <kbd>Easy</kbd>
 - [189. Rotate Array](../problems/p189_rotate_array) <kbd>Medium</kbd>
