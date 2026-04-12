@@ -46,3 +46,5 @@
 - [2331. Final Array State After K Multiplication Operations I](../problems/p3264_final_array_state_after_k_multiplication_operations_i) <kbd>Easy</kbd>
 - [3895. Count Digit Appearances](../problems/p3895_count_digit_appearances) <kbd>Medium</kbd>
 - [3896. Minimum Operations to Transform Array into Alternating Prime](../problems/p3896_minimum_operations_to_transform_array_into_alternating_prime) <kbd>Medium</kbd>
+- [3898. Find The Degree Of Each Vertex](../problems/p3898_find_the_degree_of_each_vertex) <kbd>Easy</kbd>
+- [3899. Angles Of A- Triangle](../problems/p3899_angles_of_a_triangle) <kbd>Medium</kbd>

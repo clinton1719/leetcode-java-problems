@@ -8,3 +8,4 @@
 - [79. Word Search](../problems/p79_word_search) <kbd>Medium</kbd>
 - [200. Number Of Islands](../problems/p200_number_of_islands) <kbd>Medium</kbd>
 - [909. Snakes And Ladders](../problems/p909_snakes_and_ladders) <kbd>Medium</kbd>
+- [3898. Find The Degree Of Each Vertex](../problems/p3898_find_the_degree_of_each_vertex) <kbd>Easy</kbd>

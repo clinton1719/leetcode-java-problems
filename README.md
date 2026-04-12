@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 104 | 58 | 46 | 0 |
+| 106 | 59 | 47 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -120,3 +120,5 @@
 | 3885 | [Design Event Manager](problems/p3885_design_event_manager) | 🟢 Easy | [design](tags/design.md), [heap](tags/heap.md) |
 | 3895 | [Count Digit Appearances](problems/p3895_count_digit_appearances) | 🟡 Medium | [math](tags/math.md), [array](tags/array.md) |
 | 3896 | [Minimum Operations to Transform Array into Alternating Prime](problems/p3896_minimum_operations_to_transform_array_into_alternating_prime) | 🟡 Medium | [math](tags/math.md), [array](tags/array.md) |
+| 3898 | [Find The Degree Of Each Vertex](problems/p3898_find_the_degree_of_each_vertex) | 🟢 Easy | [array](tags/array.md), [matrix](tags/matrix.md) |
+| 3899 | [Angles Of A- Triangle](problems/p3899_angles_of_a_triangle) | 🟡 Medium | [math](tags/math.md), [array](tags/array.md) |
