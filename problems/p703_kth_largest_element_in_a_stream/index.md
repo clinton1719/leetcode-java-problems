@@ -60,3 +60,144 @@ Constraints:
 -104 <= nums[i] <= 104
 -104 <= val <= 104
 At most 104 calls will be made to add.
+
+## Approach
+
+**Pattern used:** Min Heap (Top K Elements)
+
+### Core Idea
+
+You need to continuously track the **k-th largest element** in a stream.
+
+👉 Instead of storing all elements:
+
+* Maintain a **min heap of size k**
+* Heap always stores the **k largest elements seen so far**
+
+So:
+
+* The **smallest element in the heap = k-th largest overall**
+
+---
+
+### Step-by-step
+
+### Constructor
+
+1. **Initialize min heap**
+
+    * Default PriorityQueue → min heap
+
+---
+
+2. **Process initial array**
+
+For each number:
+
+* Add to heap
+* If size exceeds k → remove smallest
+
+👉 Ensures heap always contains top k elements
+
+---
+
+3. **Store k**
+
+* Needed for future operations
+
+---
+
+### add(val)
+
+1. **Insert new value**
+
+* `heap.add(val)`
+
+---
+
+2. **Maintain size k**
+
+* If heap size > k → remove smallest
+
+---
+
+3. **Return k-th largest**
+
+* `heap.peek()` → smallest in heap
+
+---
+
+### Key Insights
+
+* Heap size never exceeds k → efficient
+* You discard irrelevant smaller elements early
+* `peek()` directly gives answer in O(1)
+
+---
+
+### Example
+
+k = 3
+Stream: [4, 5, 8, 2]
+
+Heap after init → [4, 5, 8]
+
+add(3):
+
+* Heap → [3, 4, 5, 8] → remove 3 → [4,5,8]
+* Answer = 4
+
+---
+
+### Subtle Details
+
+* Heap stores only **useful elements**
+* Smaller elements are discarded immediately
+* Works efficiently even for large streams
+
+---
+
+### Edge Cases
+
+* Initial nums < k → heap grows until size k
+* Duplicate values → handled naturally
+* Negative numbers → no issue
+
+---
+
+## Complexity
+
+**Time Complexity:**
+
+* Constructor → O(n log k)
+* add() → O(log k)
+
+---
+
+**Space Complexity:** O(k)
+
+* Heap stores at most k elements
+
+---
+
+## Optimization
+
+This is already optimal for streaming:
+
+* Better than sorting every time → O(n log n)
+* Better than storing all elements → O(n) space
+
+---
+
+### Alternative
+
+* Use max heap of size n → inefficient
+* Use sorted structure → slower updates
+
+👉 Min heap of size k is the best trade-off
+
+---
+
+**Q1:** Why does the smallest element in the heap represent the k-th largest overall?
+**Q2:** What happens if you use a max heap instead—how would logic change?
+**Q3:** How would you modify this to track k-th smallest instead?

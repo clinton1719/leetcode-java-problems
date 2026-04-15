@@ -1,2 +1,6 @@
 Bit manipulation
 brian-kernighans-algorithm - check this out for counting number of 1s, multiplication etc
+
+
+TODO
+longest-balanced-substring-after-one-swap
