@@ -1,10 +1,12 @@
 # 🚩 Tag: array
 
 - [1. Two Sum](../problems/p1_two_sum) <kbd>Easy</kbd>
+- [6. Zigzag Conversion](../problems/p6_zigzag_conversion) <kbd>Medium</kbd>
 - [11. Container With Most Water](../problems/p11_container_with_most_water) <kbd>Medium</kbd>
 - [14. Longest Common Prefix](../problems/p14_longest_common_prefix) <kbd>Easy</kbd>
 - [26. Remove Duplicates from Sorted Array](../problems/p26_remove_duplicates_from_sorted_array) <kbd>Easy</kbd>
 - [27. Remove Element](../problems/p27_remove_element) <kbd>Easy</kbd>
+- [33. Search In Rotated Sorted Array](../problems/p33_search_in_rotated_sorted_array) <kbd>Medium</kbd>
 - [35. Search Insert Position](../problems/p35_search_insert_position) <kbd>Easy</kbd>
 - [36. Valid Sudoku](../problems/p36_valid_sudoku) <kbd>Medium</kbd>
 - [39. combination-sum](../problems/p39_combination_sum) <kbd>Medium</kbd>

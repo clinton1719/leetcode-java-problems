@@ -19,3 +19,6 @@
 - [290. Word Pattern](../problems/p290_word_pattern) <kbd>Easy</kbd>
 - [380. Insert Delete GetRandom O(1)](../problems/p380_insert_delete_getrandom_o1) <kbd>Medium</kbd>
 - [383. Ransom Note](../problems/p383_ransom_note) <kbd>Easy</kbd>
+- [525. Contiguous Array](../problems/p525_contiguous_array) <kbd>Medium</kbd>
+- [1156. Swap For Longest Repeated Character Substring](../problems/p1156_swap_for_longest_repeated_character_substring) <kbd>Medium</kbd>
+- [3900. Longest Balanced Substring After One Swap](../problems/p3900_longest_balanced_substring_after_one_swap) <kbd>Medium</kbd>

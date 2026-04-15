@@ -1,5 +1,6 @@
 # 🚩 Tag: string
 
+- [6. Zigzag Conversion](../problems/p6_zigzag_conversion) <kbd>Medium</kbd>
 - [12. Integer To Roman](../problems/p12_integer_to_roman) <kbd>Medium</kbd>
 - [13. Roman to Integer](../problems/p13_roman_to_integer) <kbd>Easy</kbd>
 - [14. Longest Common Prefix](../problems/p14_longest_common_prefix) <kbd>Easy</kbd>
@@ -20,3 +21,6 @@
 - [290. Word Pattern](../problems/p290_word_pattern) <kbd>Easy</kbd>
 - [383. Ransom Note](../problems/p383_ransom_note) <kbd>Easy</kbd>
 - [392. Is Subsequence](../problems/p392_is_subsequence) <kbd>Easy</kbd>
+- [525. Contiguous Array](../problems/p525_contiguous_array) <kbd>Medium</kbd>
+- [1156. Swap For Longest Repeated Character Substring](../problems/p1156_swap_for_longest_repeated_character_substring) <kbd>Medium</kbd>
+- [3900. Longest Balanced Substring After One Swap](../problems/p3900_longest_balanced_substring_after_one_swap) <kbd>Medium</kbd>
