@@ -50,3 +50,145 @@ Constraints:
 
 1 <= s.length <= 105
 s consists only of the characters '0' and '1'.
+
+
+## Approach
+
+**Pattern used:** Prefix Sum + HashMap + “One Fix Allowed” (extended zero-sum idea)
+
+### Core Idea
+
+You convert the string into a numeric form:
+
+* `'1' → +1`
+* `'0' → -1`
+
+Now:
+
+* A **balanced substring** ⇒ sum = 0
+* With **one swap**, you can fix imbalance of **±2**
+
+So you check:
+
+1. **Exact match (sum = 0)** → no swap needed
+2. **Near match (sum = ±2)** → fixable with one swap
+
+---
+
+### Step-by-step
+
+1. **Store all prefix sum indices**
+
+* `mpp: sum → list of indices`
+* Initialize:
+  `sum 0 → [-1]`
+
+---
+
+2. **Precompute total counts**
+
+* `count0`, `count1`
+* Used to verify if swap is feasible
+
+---
+
+3. **Traverse string and build prefix sum**
+
+For each index `i`:
+
+* Update:
+
+    * `'1' → sum++`
+    * `'0' → sum--`
+
+---
+
+4. **Case 1: Perfect balance (sum seen before)**
+
+* If same sum exists:
+  → subarray is balanced
+  → length = `i - firstIndex`
+
+---
+
+5. **Case 2: Fixable imbalance (sum ± 2)**
+
+### Why ±2?
+
+* Swap replaces one `0` with `1` (or vice versa)
+* Net effect = **±2 change in sum**
+
+---
+
+6. **Validate swap feasibility**
+
+For each candidate index `j`:
+
+* Length = `i - j`
+* Balanced substring after swap must satisfy:
+
+    * half 0s, half 1s
+
+You compute:
+
+* `(len - 2) / 2` → how many of one type already used
+* Then check if extra needed exists globally:
+
+    * `count0 > usedZeros`
+    * `count1 > usedOnes`
+
+👉 This ensures swap is actually possible
+
+---
+
+7. **Store index**
+
+* Add current index to `mpp[sum]`
+
+---
+
+### Key Insights
+
+* Prefix sum reduces problem to **subarray sum analysis**
+* Swap introduces **tolerance of ±2**
+* Storing all indices allows exploring multiple candidate substrings
+
+---
+
+### Subtle Details
+
+* Using **list of indices** enables exploring multiple valid ranges
+* `(len - 2)/2` is derived from:
+
+    * one swap already accounts for 2 imbalance
+* Precomputed counts ensure swap doesn’t use nonexistent elements
+
+---
+
+### Edge Cases
+
+* All same characters → answer = 0
+* Already balanced → no swap needed
+* Very small strings → may not allow valid swap
+
+---
+
+## Complexity
+
+**Time Complexity:** O(n²) worst case
+
+* For each index:
+
+    * Iterating over lists in map
+
+---
+
+**Space Complexity:** O(n)
+
+* Storing prefix indices
+
+---
+
+**Q1:** Can you eliminate the inner loop and still handle the ±2 condition correctly?
+**Q2:** Why is ±2 the only imbalance fixable with one swap?
+**Q3:** How would the logic change if you were allowed up to k swaps instead of one?
