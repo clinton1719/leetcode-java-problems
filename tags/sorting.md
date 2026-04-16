@@ -1,5 +1,6 @@
 # 🚩 Tag: sorting
 
+- [15. 3Sum](../problems/p15_3sum) <kbd>Medium</kbd>
 - [49. Group Anagrams](../problems/p49_group_anagrams) <kbd>Medium</kbd>
 - [89. Merge Sorted Array](../problems/p89_merge_sorted_array) <kbd>Easy</kbd>
 - [169. Majority Element](../problems/p169_majority_element) <kbd>Easy</kbd>
