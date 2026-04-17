@@ -1,6 +1,7 @@
 # 🚩 Tag: hash-table
 
 - [1. Two Sum](../problems/p1_two_sum) <kbd>Easy</kbd>
+- [3. Longest Substring Without Repeating Characters](../problems/p3_longest_substring_without_repeating_characters) <kbd>Medium</kbd>
 - [12. Integer To Roman](../problems/p12_integer_to_roman) <kbd>Medium</kbd>
 - [13. Roman to Integer](../problems/p13_roman_to_integer) <kbd>Easy</kbd>
 - [17. Letter Combinations Of A Phone Number](../problems/p17_letter_combinations_of_a_phone_number) <kbd>Medium</kbd>
