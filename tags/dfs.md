@@ -7,6 +7,7 @@
 - [104. Maximum Depth Of Binary Tree](../problems/p104_maximum_depth_of_binary_tree) <kbd>Easy</kbd>
 - [111. Minimum Depth Of Binary Tree](../problems/p111_minimum_depth_of_binary_tree) <kbd>Easy</kbd>
 - [112. Path Sum](../problems/p112_path_sum) <kbd>Easy</kbd>
+- [114. Flatten Binary Tree to Linked List](../problems/p114_flatten_binary_tree_to_linked_list) <kbd>Easy</kbd>
 - [117. Populating Next Right Pointers in Each Node II](../problems/p117_populating_next_right_pointers_in_each_node_ii) <kbd>Medium</kbd>
 - [199. Binary Tree Right Side View](../problems/p199_binary_tree_right_side_view) <kbd>Easy</kbd>
 - [200. Number Of Islands](../problems/p200_number_of_islands) <kbd>Medium</kbd>
