@@ -2,7 +2,7 @@
 id: 130
 title: "Surrounded Regions"
 difficulty: Medium
-tags: []
+tags: [matrix, dfs, bfs, graph]
 date: 2026-04-18
 link: https://leetcode.com/problems/surrounded-regions
 ---
