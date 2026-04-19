@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 116 | 61 | 55 | 0 |
+| 119 | 62 | 57 | 0 |
 
 ## 🏷️ Tag Cloud
 
@@ -132,3 +132,6 @@
 | 3898 | [Find The Degree Of Each Vertex](problems/p3898_find_the_degree_of_each_vertex) | 🟢 Easy | [array](tags/array.md), [matrix](tags/matrix.md) |
 | 3899 | [Angles Of A- Triangle](problems/p3899_angles_of_a_triangle) | 🟡 Medium | [math](tags/math.md), [array](tags/array.md) |
 | 3900 | [Longest Balanced Substring After One Swap](problems/p3900_longest_balanced_substring_after_one_swap) | 🟡 Medium | [hash-table](tags/hash-table.md), [string](tags/string.md), [tricky](tags/tricky.md), [prefix-sum](tags/prefix-sum.md) |
+| 3903 | [Smallest Stable Index I](problems/p3903_smallest_stable_index_i) | 🟢 Easy | [prefix-sum](tags/prefix-sum.md), [array](tags/array.md) |
+| 3904 | [Smallest Stable Index II](problems/p3904_smallest_stable_index_ii) | 🟡 Medium | [prefix-sum](tags/prefix-sum.md), [array](tags/array.md) |
+| 3905 | [Longest Balanced Substring After One Swap](problems/p3905_multi_source_flood_fill) | 🟡 Medium | [matrix](tags/matrix.md), [bfs](tags/bfs.md), [graph](tags/graph.md) |

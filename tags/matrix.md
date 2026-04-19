@@ -10,3 +10,4 @@
 - [200. Number Of Islands](../problems/p200_number_of_islands) <kbd>Medium</kbd>
 - [909. Snakes And Ladders](../problems/p909_snakes_and_ladders) <kbd>Medium</kbd>
 - [3898. Find The Degree Of Each Vertex](../problems/p3898_find_the_degree_of_each_vertex) <kbd>Easy</kbd>
+- [3905. Longest Balanced Substring After One Swap](../problems/p3905_multi_source_flood_fill) <kbd>Medium</kbd>

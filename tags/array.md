@@ -50,3 +50,5 @@
 - [3896. Minimum Operations to Transform Array into Alternating Prime](../problems/p3896_minimum_operations_to_transform_array_into_alternating_prime) <kbd>Medium</kbd>
 - [3898. Find The Degree Of Each Vertex](../problems/p3898_find_the_degree_of_each_vertex) <kbd>Easy</kbd>
 - [3899. Angles Of A- Triangle](../problems/p3899_angles_of_a_triangle) <kbd>Medium</kbd>
+- [3903. Smallest Stable Index I](../problems/p3903_smallest_stable_index_i) <kbd>Easy</kbd>
+- [3904. Smallest Stable Index II](../problems/p3904_smallest_stable_index_ii) <kbd>Medium</kbd>
