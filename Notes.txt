@@ -1,6 +1,21 @@
 Bit manipulation
 brian-kernighans-algorithm - check this out for counting number of 1s, multiplication etc
 
+Prefix-sum (3900)
+When you need to find : A string is balanced if it contains an equal number of '0's and '1's and so on, use prefix sum of zero
 
-TODO
-longest-balanced-substring-after-one-swap
+Matrix(3905)
+If you want to index a matrix:
+
+Cols = 0  1  2  3  4
+Row0 = 0  1  2  3  4
+Row1 = 5  6  7  8  9
+Row2 = 10 11 12 13 14
+
+To create key for each index:
+key = (row * m) + col
+
+where m is no of cols = 5 above.
+then to get
+row = key / m;
+col = key % m;
