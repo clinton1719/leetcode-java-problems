@@ -6,3 +6,4 @@
 - [74. Search A 2D Matrix](../problems/p74_search_a_2d_matrix) <kbd>Medium</kbd>
 - [162. Find Peak Element](../problems/p162_find_peak_element) <kbd>Medium</kbd>
 - [167. Two Sum II Input Array Is Sorted](../problems/p167_two_sum_ii_input_array_is_sorted) <kbd>Medium</kbd>
+- [3911. K-th Smallest Remaining Even Integer in Subarray Queries](../problems/p3911_k_th_smallest_remaining_even_integer_in_subarray_queries) <kbd>Hard</kbd>

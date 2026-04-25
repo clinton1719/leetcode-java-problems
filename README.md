@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 119 | 62 | 57 | 0 |
+| 120 | 62 | 57 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -135,3 +135,4 @@
 | 3903 | [Smallest Stable Index I](problems/p3903_smallest_stable_index_i) | 🟢 Easy | [prefix-sum](tags/prefix-sum.md), [array](tags/array.md) |
 | 3904 | [Smallest Stable Index II](problems/p3904_smallest_stable_index_ii) | 🟡 Medium | [prefix-sum](tags/prefix-sum.md), [array](tags/array.md) |
 | 3905 | [Longest Balanced Substring After One Swap](problems/p3905_multi_source_flood_fill) | 🟡 Medium | [matrix](tags/matrix.md), [bfs](tags/bfs.md), [graph](tags/graph.md) |
+| 3911 | [K-th Smallest Remaining Even Integer in Subarray Queries](problems/p3911_k_th_smallest_remaining_even_integer_in_subarray_queries) | 🔴 Hard | [binary-search](tags/binary-search.md), [array](tags/array.md) |

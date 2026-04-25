@@ -52,3 +52,4 @@
 - [3899. Angles Of A- Triangle](../problems/p3899_angles_of_a_triangle) <kbd>Medium</kbd>
 - [3903. Smallest Stable Index I](../problems/p3903_smallest_stable_index_i) <kbd>Easy</kbd>
 - [3904. Smallest Stable Index II](../problems/p3904_smallest_stable_index_ii) <kbd>Medium</kbd>
+- [3911. K-th Smallest Remaining Even Integer in Subarray Queries](../problems/p3911_k_th_smallest_remaining_even_integer_in_subarray_queries) <kbd>Hard</kbd>
