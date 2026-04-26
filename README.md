@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 124 | 64 | 59 | 1 |
+| 125 | 64 | 60 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -42,6 +42,7 @@
 | 46 | [Permutations](problems/p46_permutations) | 🟡 Medium | [backtracking](tags/backtracking.md), [array](tags/array.md) |
 | 48 | [Rotate Image](problems/p48_rotate_image) | 🟡 Medium | [matrix](tags/matrix.md), [array](tags/array.md), [math](tags/math.md) |
 | 49 | [Group Anagrams](problems/p49_group_anagrams) | 🟡 Medium | [array](tags/array.md), [hash-table](tags/hash-table.md), [string](tags/string.md), [sorting](tags/sorting.md) |
+| 50 | [Pow(x, n)](problems/p50_powx_n) | 🟡 Medium | [math](tags/math.md), [divide-and-conquer](tags/divide-and-conquer.md), [recursion](tags/recursion.md) |
 | 54 | [Spiral Matrix](problems/p54_spiral_matrix) | 🟡 Medium | [matrix](tags/matrix.md), [array](tags/array.md), [simulation](tags/simulation.md) |
 | 55 | [Jump Game](problems/p55_jump_game) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 58 | [Length of Last Word](problems/p58_length_of_last_word) | 🟢 Easy | [string](tags/string.md) |
