@@ -19,3 +19,4 @@
 - [3895. Count Digit Appearances](../problems/p3895_count_digit_appearances) <kbd>Medium</kbd>
 - [3896. Minimum Operations to Transform Array into Alternating Prime](../problems/p3896_minimum_operations_to_transform_array_into_alternating_prime) <kbd>Medium</kbd>
 - [3899. Angles Of A- Triangle](../problems/p3899_angles_of_a_triangle) <kbd>Medium</kbd>
+- [3908. Valid Digit Number](../problems/p3908_valid_digit_number) <kbd>Easy</kbd>
