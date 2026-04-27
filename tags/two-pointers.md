@@ -12,6 +12,7 @@
 - [89. Merge Sorted Array](../problems/p89_merge_sorted_array) <kbd>Easy</kbd>
 - [125. valid-palindrome](../problems/p125_valid_palindrome) <kbd>Easy</kbd>
 - [141. Linked List Cycle](../problems/p141_linked_list_cycle) <kbd>Easy</kbd>
+- [148. Sort List](../problems/p148_sort_list) <kbd>Medium</kbd>
 - [151. Reverse Words in a String](../problems/p151_reverse_words_in_a_string) <kbd>Medium</kbd>
 - [160. Intersection Of Two Linked Lists](../problems/p160_intersection_of_two_linked_lists) <kbd>Easy</kbd>
 - [162. Find Peak Element](../problems/p162_find_peak_element) <kbd>Medium</kbd>

@@ -11,6 +11,7 @@
 - [138. Copy List With Random Pointer](../problems/p138_copy_list_with_random_pointer) <kbd>Medium</kbd>
 - [141. Linked List Cycle](../problems/p141_linked_list_cycle) <kbd>Easy</kbd>
 - [146. LRU Cache](../problems/p146_lru_cache) <kbd>Medium</kbd>
+- [148. Sort List](../problems/p148_sort_list) <kbd>Medium</kbd>
 - [160. Intersection Of Two Linked Lists](../problems/p160_intersection_of_two_linked_lists) <kbd>Easy</kbd>
 - [203. Remove Linked List Elements](../problems/p203_remove_linked_list_elements) <kbd>Easy</kbd>
 - [1290. Convert Binary Number in a Linked List to Integer](../problems/p1290_convert_binary_number_in_a_linked_list_to_integer) <kbd>Easy</kbd>
