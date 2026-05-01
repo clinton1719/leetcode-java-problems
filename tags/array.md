@@ -7,6 +7,7 @@
 - [26. Remove Duplicates from Sorted Array](../problems/p26_remove_duplicates_from_sorted_array) <kbd>Easy</kbd>
 - [27. Remove Element](../problems/p27_remove_element) <kbd>Easy</kbd>
 - [33. Search In Rotated Sorted Array](../problems/p33_search_in_rotated_sorted_array) <kbd>Medium</kbd>
+- [34. Find First and Last Position of Element in Sorted Array](../problems/p34_find_first_and_last_position_of_element_in_sorted_array) <kbd>Medium</kbd>
 - [35. Search Insert Position](../problems/p35_search_insert_position) <kbd>Easy</kbd>
 - [36. Valid Sudoku](../problems/p36_valid_sudoku) <kbd>Medium</kbd>
 - [39. combination-sum](../problems/p39_combination_sum) <kbd>Medium</kbd>

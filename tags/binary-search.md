@@ -1,6 +1,7 @@
 # 🚩 Tag: binary-search
 
 - [33. Search In Rotated Sorted Array](../problems/p33_search_in_rotated_sorted_array) <kbd>Medium</kbd>
+- [34. Find First and Last Position of Element in Sorted Array](../problems/p34_find_first_and_last_position_of_element_in_sorted_array) <kbd>Medium</kbd>
 - [35. Search Insert Position](../problems/p35_search_insert_position) <kbd>Easy</kbd>
 - [69. Sqrt(x)](../problems/p69_sqrtx) <kbd>Easy</kbd>
 - [74. Search A 2D Matrix](../problems/p74_search_a_2d_matrix) <kbd>Medium</kbd>
