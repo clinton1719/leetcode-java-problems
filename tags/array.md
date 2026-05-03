@@ -55,3 +55,5 @@
 - [3904. Smallest Stable Index II](../problems/p3904_smallest_stable_index_ii) <kbd>Medium</kbd>
 - [3909. Compare Sums of Bitonic Parts](../problems/p3909_compare_sums_of_bitonic_parts) <kbd>Medium</kbd>
 - [3911. K-th Smallest Remaining Even Integer in Subarray Queries](../problems/p3911_k_th_smallest_remaining_even_integer_in_subarray_queries) <kbd>Hard</kbd>
+- [3917. Count Indices With Opposite Parity](../problems/p3917_count_indices_with_opposite_parity) <kbd>Easy</kbd>
+- [3919. Minimum Cost to Move Between Indices](../problems/p_minimum_cost_to_move_between_indices) <kbd>Medium</kbd>

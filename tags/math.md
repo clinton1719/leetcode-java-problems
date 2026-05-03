@@ -21,3 +21,5 @@
 - [3896. Minimum Operations to Transform Array into Alternating Prime](../problems/p3896_minimum_operations_to_transform_array_into_alternating_prime) <kbd>Medium</kbd>
 - [3899. Angles Of A- Triangle](../problems/p3899_angles_of_a_triangle) <kbd>Medium</kbd>
 - [3908. Valid Digit Number](../problems/p3908_valid_digit_number) <kbd>Easy</kbd>
+- [3917. Count Indices With Opposite Parity](../problems/p3917_count_indices_with_opposite_parity) <kbd>Easy</kbd>
+- [3918. Sum of Primes Between Number and Its Reverse](../problems/p3918_sum_of_primes_between_number_and_its_reverse) <kbd>Medium</kbd>
