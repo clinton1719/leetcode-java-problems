@@ -7,4 +7,4 @@
 - [3904. Smallest Stable Index II](../problems/p3904_smallest_stable_index_ii) <kbd>Medium</kbd>
 - [3909. Compare Sums of Bitonic Parts](../problems/p3909_compare_sums_of_bitonic_parts) <kbd>Medium</kbd>
 - [3912. Valid Elements in an Array](../problems/p3912_valid_elements_in_an_array) <kbd>Easy</kbd>
-- [3919. Minimum Cost to Move Between Indices](../problems/p_minimum_cost_to_move_between_indices) <kbd>Medium</kbd>
+- [3919. Minimum Cost to Move Between Indices](../problems/p3919_minimum_cost_to_move_between_indices) <kbd>Medium</kbd>

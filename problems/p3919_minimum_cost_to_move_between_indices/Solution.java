@@ -1,4 +1,4 @@
-package problems.p_minimum_cost_to_move_between_indices;
+package problems.p3919_minimum_cost_to_move_between_indices;
 
 public class Solution {
 

@@ -147,4 +147,4 @@
 | 3913 | [Sort Vowels by Frequency](problems/p3913_sort_vowels_by_frequency) | 🟡 Medium | [sorting](tags/sorting.md), [hash-table](tags/hash-table.md) |
 | 3917 | [Count Indices With Opposite Parity](problems/p3917_count_indices_with_opposite_parity) | 🟢 Easy | [math](tags/math.md), [array](tags/array.md), [counting](tags/counting.md), [suffix-array](tags/suffix-array.md) |
 | 3918 | [Sum of Primes Between Number and Its Reverse](problems/p3918_sum_of_primes_between_number_and_its_reverse) | 🟡 Medium | [sieve-of-eratosthenes-algorithm](tags/sieve-of-eratosthenes-algorithm.md), [algorithm](tags/algorithm.md), [math](tags/math.md), [counting](tags/counting.md) |
-| 3919 | [Minimum Cost to Move Between Indices](problems/p_minimum_cost_to_move_between_indices) | 🟡 Medium | [prefix-sum](tags/prefix-sum.md), [greedy](tags/greedy.md), [array](tags/array.md), [suffix-array](tags/suffix-array.md) |
+| 3919 | [Minimum Cost to Move Between Indices](problems/p3919_minimum_cost_to_move_between_indices) | 🟡 Medium | [prefix-sum](tags/prefix-sum.md), [greedy](tags/greedy.md), [array](tags/array.md), [suffix-array](tags/suffix-array.md) |
