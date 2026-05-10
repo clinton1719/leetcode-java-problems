@@ -27,6 +27,7 @@
 - [121. Best Time to Buy and Sell Stock](../problems/p121_best_time_to_buy_and_sell_stock) <kbd>Easy</kbd>
 - [122. Best Time to Buy and Sell Stock II](../problems/p122_best_time_to_buy_and_sell_stock_ii) <kbd>Medium</kbd>
 - [128. Longest Consecutive Sequence](../problems/p128_longest_consecutive_sequence) <kbd>Medium</kbd>
+- [134. Gas Station](../problems/p134_gas_station) <kbd>Medium</kbd>
 - [136. Single Number](../problems/p136_single_number) <kbd>Easy</kbd>
 - [137. Single Number II](../problems/p137_single_number_ii) <kbd>Medium</kbd>
 - [162. Find Peak Element](../problems/p162_find_peak_element) <kbd>Medium</kbd>
@@ -57,3 +58,5 @@
 - [3911. K-th Smallest Remaining Even Integer in Subarray Queries](../problems/p3911_k_th_smallest_remaining_even_integer_in_subarray_queries) <kbd>Hard</kbd>
 - [3917. Count Indices With Opposite Parity](../problems/p3917_count_indices_with_opposite_parity) <kbd>Easy</kbd>
 - [3919. Minimum Cost to Move Between Indices](../problems/p3919_minimum_cost_to_move_between_indices) <kbd>Medium</kbd>
+- [3925. Concatenate Array With Reverse](../problems/p3925_concatenate_array_with_reverse) <kbd>Easy</kbd>
+- [3927. Minimize Array Sum Using Divisible Replacements](../problems/p3927_minimize_array_sum_using_divisible_replacements) <kbd>Medium</kbd>

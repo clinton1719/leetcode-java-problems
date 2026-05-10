@@ -23,3 +23,5 @@
 - [3908. Valid Digit Number](../problems/p3908_valid_digit_number) <kbd>Easy</kbd>
 - [3917. Count Indices With Opposite Parity](../problems/p3917_count_indices_with_opposite_parity) <kbd>Easy</kbd>
 - [3918. Sum of Primes Between Number and Its Reverse](../problems/p3918_sum_of_primes_between_number_and_its_reverse) <kbd>Medium</kbd>
+- [3925. Concatenate Array With Reverse](../problems/p3925_concatenate_array_with_reverse) <kbd>Easy</kbd>
+- [3927. Minimize Array Sum Using Divisible Replacements](../problems/p3927_minimize_array_sum_using_divisible_replacements) <kbd>Medium</kbd>
