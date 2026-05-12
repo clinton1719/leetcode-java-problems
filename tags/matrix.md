@@ -4,6 +4,7 @@
 - [39. combination-sum](../problems/p39_combination_sum) <kbd>Medium</kbd>
 - [48. Rotate Image](../problems/p48_rotate_image) <kbd>Medium</kbd>
 - [54. Spiral Matrix](../problems/p54_spiral_matrix) <kbd>Medium</kbd>
+- [73. Set Matrix Zeroes](../problems/p73_set_matrix_zeroes) <kbd>Medium</kbd>
 - [74. Search A 2D Matrix](../problems/p74_search_a_2d_matrix) <kbd>Medium</kbd>
 - [79. Word Search](../problems/p79_word_search) <kbd>Medium</kbd>
 - [130. Surrounded Regions](../problems/p130_surrounded_regions) <kbd>Medium</kbd>

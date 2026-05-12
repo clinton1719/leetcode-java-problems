@@ -18,6 +18,7 @@
 - [54. Spiral Matrix](../problems/p54_spiral_matrix) <kbd>Medium</kbd>
 - [55. Jump Game](../problems/p55_jump_game) <kbd>Medium</kbd>
 - [66. Plus One](../problems/p66_plus_one) <kbd>Easy</kbd>
+- [73. Set Matrix Zeroes](../problems/p73_set_matrix_zeroes) <kbd>Medium</kbd>
 - [74. Search A 2D Matrix](../problems/p74_search_a_2d_matrix) <kbd>Medium</kbd>
 - [80. Remove Duplicates from Sorted Array II](../problems/p80_remove_duplicates_from_sorted_array_ii) <kbd>Medium</kbd>
 - [89. Merge Sorted Array](../problems/p89_merge_sorted_array) <kbd>Easy</kbd>
