@@ -9,6 +9,7 @@
 - [79. Word Search](../problems/p79_word_search) <kbd>Medium</kbd>
 - [130. Surrounded Regions](../problems/p130_surrounded_regions) <kbd>Medium</kbd>
 - [200. Number Of Islands](../problems/p200_number_of_islands) <kbd>Medium</kbd>
+- [289. Game of Life](../problems/p289_game_of_life) <kbd>Medium</kbd>
 - [909. Snakes And Ladders](../problems/p909_snakes_and_ladders) <kbd>Medium</kbd>
 - [3898. Find The Degree Of Each Vertex](../problems/p3898_find_the_degree_of_each_vertex) <kbd>Easy</kbd>
 - [3905. Longest Balanced Substring After One Swap](../problems/p3905_multi_source_flood_fill) <kbd>Medium</kbd>

@@ -42,6 +42,7 @@
 - [228. Summary Ranges](../problems/p228_summary_ranges) <kbd>Easy</kbd>
 - [238. Product Of Array Except Self](../problems/p238_product_of_array_except_self) <kbd>Medium</kbd>
 - [274. H-Index](../problems/p274_h_index) <kbd>Medium</kbd>
+- [289. Game of Life](../problems/p289_game_of_life) <kbd>Medium</kbd>
 - [373. Find K Pairs With Smallest Sums](../problems/p373_find_k_pairs_with_smallest_sums) <kbd>Medium</kbd>
 - [380. Insert Delete GetRandom O(1)](../problems/p380_insert_delete_getrandom_o1) <kbd>Medium</kbd>
 - [506. Relative Ranks](../problems/p506_relative_ranks) <kbd>Easy</kbd>
