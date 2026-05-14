@@ -17,6 +17,7 @@
 - [49. Group Anagrams](../problems/p49_group_anagrams) <kbd>Medium</kbd>
 - [54. Spiral Matrix](../problems/p54_spiral_matrix) <kbd>Medium</kbd>
 - [55. Jump Game](../problems/p55_jump_game) <kbd>Medium</kbd>
+- [56. Merge Intervals](../problems/p56_merge_intervals) <kbd>Medium</kbd>
 - [66. Plus One](../problems/p66_plus_one) <kbd>Easy</kbd>
 - [73. Set Matrix Zeroes](../problems/p73_set_matrix_zeroes) <kbd>Medium</kbd>
 - [74. Search A 2D Matrix](../problems/p74_search_a_2d_matrix) <kbd>Medium</kbd>

@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 138 | 66 | 71 | 1 |
+| 139 | 66 | 72 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -46,6 +46,7 @@
 | 50 | [Pow(x, n)](problems/p50_powx_n) | 🟡 Medium | [math](tags/math.md), [divide-and-conquer](tags/divide-and-conquer.md), [recursion](tags/recursion.md) |
 | 54 | [Spiral Matrix](problems/p54_spiral_matrix) | 🟡 Medium | [matrix](tags/matrix.md), [array](tags/array.md), [simulation](tags/simulation.md) |
 | 55 | [Jump Game](problems/p55_jump_game) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
+| 56 | [Merge Intervals](problems/p56_merge_intervals) | 🟡 Medium | [array](tags/array.md), [intervals](tags/intervals.md), [sorting](tags/sorting.md) |
 | 58 | [Length of Last Word](problems/p58_length_of_last_word) | 🟢 Easy | [string](tags/string.md) |
 | 61 | [Rotate List](problems/p61_rotate_list) | 🟡 Medium | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md) |
 | 66 | [Plus One](problems/p66_plus_one) | 🟢 Easy | [math](tags/math.md), [array](tags/array.md) |

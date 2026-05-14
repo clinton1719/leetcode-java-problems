@@ -2,6 +2,7 @@
 
 - [15. 3Sum](../problems/p15_3sum) <kbd>Medium</kbd>
 - [49. Group Anagrams](../problems/p49_group_anagrams) <kbd>Medium</kbd>
+- [56. Merge Intervals](../problems/p56_merge_intervals) <kbd>Medium</kbd>
 - [89. Merge Sorted Array](../problems/p89_merge_sorted_array) <kbd>Easy</kbd>
 - [148. Sort List](../problems/p148_sort_list) <kbd>Medium</kbd>
 - [169. Majority Element](../problems/p169_majority_element) <kbd>Easy</kbd>
