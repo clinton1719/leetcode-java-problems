@@ -2,7 +2,7 @@
 id: 56
 title: "Merge Intervals"
 difficulty: Medium
-tags: [array, intervals, sorting]
+tags: [array, interval, sorting]
 date: 2026-05-14
 link: https://leetcode.com/problems/merge-intervals
 ---
