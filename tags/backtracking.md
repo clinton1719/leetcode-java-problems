@@ -7,3 +7,4 @@
 - [79. Word Search](../problems/p79_word_search) <kbd>Medium</kbd>
 - [257. Binary Tree Paths](../problems/p257_binary_tree_paths) <kbd>Easy</kbd>
 - [1863. Sum Of All Subset Xor Totals](../problems/p1863_sum_of_all_subset_xor_totals) <kbd>Easy</kbd>
+- [3955. Valid Binary Strings With Cost Limit](../problems/p3955_valid_binary_strings_with_cost_limit) <kbd>Medium</kbd>

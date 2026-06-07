@@ -5,3 +5,4 @@
 - [50. Pow(x, n)](../problems/p50_powx_n) <kbd>Medium</kbd>
 - [117. Populating Next Right Pointers in Each Node II](../problems/p117_populating_next_right_pointers_in_each_node_ii) <kbd>Medium</kbd>
 - [203. Remove Linked List Elements](../problems/p203_remove_linked_list_elements) <kbd>Easy</kbd>
+- [3955. Valid Binary Strings With Cost Limit](../problems/p3955_valid_binary_strings_with_cost_limit) <kbd>Medium</kbd>

@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 140 | 66 | 73 | 1 |
+| 146 | 69 | 76 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -156,3 +156,9 @@
 | 3925 | [Concatenate Array With Reverse](problems/p3925_concatenate_array_with_reverse) | 🟢 Easy | [array](tags/array.md), [math](tags/math.md) |
 | 3926 | [Count Valid Word Occurrences](problems/p3926_count_valid_word_occurrences) | 🟡 Medium | [string](tags/string.md), [hash-table](tags/hash-table.md) |
 | 3927 | [Minimize Array Sum Using Divisible Replacements](problems/p3927_minimize_array_sum_using_divisible_replacements) | 🟡 Medium | [array](tags/array.md), [number-theory](tags/number-theory.md), [math](tags/math.md) |
+| 3931 | [Check Adjacent Digit Differences](problems/p3931_check_adjacent_digit_differences) | 🟢 Easy | [string](tags/string.md) |
+| 3932 | [Count K-th Roots in a Range](problems/p3932_count_k_th_roots_in_a_range) | 🟡 Medium | [math](tags/math.md), [tricky](tags/tricky.md) |
+| 3950 | [Exactly One Consecutive Set Bits Pair](problems/p3950_exactly_one_consecutive_set_bits_pair) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md) |
+| 3951 | [Minimum Energy to Maintain Brightness](problems/p3951_minimum_energy_to_maintain_brightness) | 🟡 Medium | [math](tags/math.md), [greedy](tags/greedy.md) |
+| 3954 | [Sum of Compatible Numbers in Range I](problems/p3954_sum_of_compatible_numbers_in_range_i) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md) |
+| 3955 | [Valid Binary Strings With Cost Limit](problems/p3955_valid_binary_strings_with_cost_limit) | 🟡 Medium | [backtracking](tags/backtracking.md), [recursion](tags/recursion.md) |
