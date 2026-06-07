@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 146 | 69 | 76 | 1 |
+| 147 | 69 | 77 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -123,6 +123,7 @@
 | 383 | [Ransom Note](problems/p383_ransom_note) | 🟢 Easy | [counting](tags/counting.md), [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 392 | [Is Subsequence](problems/p392_is_subsequence) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 404 | [sum-of-left-leaves](problems/p404_sum_of_left_leaves) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md) |
+| 452 | [Minimum Number of Arrows to Burst Balloons](problems/p452_minimum_number_of_arrows_to_burst_balloons) | 🟡 Medium | [intervals](tags/intervals.md), [greedy](tags/greedy.md) |
 | 506 | [Relative Ranks](problems/p506_relative_ranks) | 🟢 Easy | [heap](tags/heap.md), [sorting](tags/sorting.md), [array](tags/array.md) |
 | 525 | [Contiguous Array](problems/p525_contiguous_array) | 🟡 Medium | [string](tags/string.md), [tricky](tags/tricky.md), [sliding-window](tags/sliding-window.md), [hash-table](tags/hash-table.md), [prefix-sum](tags/prefix-sum.md) |
 | 530 | [Minimum Absolute Difference in BST](problems/p530_minimum_absolute_difference_in_bst) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [inorder-traversal](tags/inorder-traversal.md) |
