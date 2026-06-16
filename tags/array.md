@@ -64,3 +64,4 @@
 - [3919. Minimum Cost to Move Between Indices](../problems/p3919_minimum_cost_to_move_between_indices) <kbd>Medium</kbd>
 - [3925. Concatenate Array With Reverse](../problems/p3925_concatenate_array_with_reverse) <kbd>Easy</kbd>
 - [3927. Minimize Array Sum Using Divisible Replacements](../problems/p3927_minimize_array_sum_using_divisible_replacements) <kbd>Medium</kbd>
+- [3961. Maximize Sum of Device Ratings](../problems/p3961_maximize_sum_of_device_ratings) <kbd>Medium</kbd>

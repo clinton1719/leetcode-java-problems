@@ -8,3 +8,4 @@
 - [452. Minimum Number of Arrows to Burst Balloons](../problems/p452_minimum_number_of_arrows_to_burst_balloons) <kbd>Medium</kbd>
 - [3919. Minimum Cost to Move Between Indices](../problems/p3919_minimum_cost_to_move_between_indices) <kbd>Medium</kbd>
 - [3951. Minimum Energy to Maintain Brightness](../problems/p3951_minimum_energy_to_maintain_brightness) <kbd>Medium</kbd>
+- [3961. Maximize Sum of Device Ratings](../problems/p3961_maximize_sum_of_device_ratings) <kbd>Medium</kbd>

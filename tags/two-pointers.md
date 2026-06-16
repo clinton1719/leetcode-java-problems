@@ -9,6 +9,7 @@
 - [61. Rotate List](../problems/p61_rotate_list) <kbd>Medium</kbd>
 - [80. Remove Duplicates from Sorted Array II](../problems/p80_remove_duplicates_from_sorted_array_ii) <kbd>Medium</kbd>
 - [82. Remove Duplicates from Sorted List II](../problems/p82_remove_duplicates_from_sorted_list_ii) <kbd>Medium</kbd>
+- [86. Partition List](../problems/p86_partition_list) <kbd>Medium</kbd>
 - [89. Merge Sorted Array](../problems/p89_merge_sorted_array) <kbd>Easy</kbd>
 - [125. valid-palindrome](../problems/p125_valid_palindrome) <kbd>Easy</kbd>
 - [141. Linked List Cycle](../problems/p141_linked_list_cycle) <kbd>Easy</kbd>
