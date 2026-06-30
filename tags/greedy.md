@@ -2,6 +2,7 @@
 
 - [11. Container With Most Water](../problems/p11_container_with_most_water) <kbd>Medium</kbd>
 - [45. Jump Game II](../problems/p45_jump_game_ii) <kbd>Medium</kbd>
+- [53. Maximum Subarray](../problems/p53_maximum_subarray) <kbd>Medium</kbd>
 - [55. Jump Game](../problems/p55_jump_game) <kbd>Medium</kbd>
 - [122. Best Time to Buy and Sell Stock II](../problems/p122_best_time_to_buy_and_sell_stock_ii) <kbd>Medium</kbd>
 - [134. Gas Station](../problems/p134_gas_station) <kbd>Medium</kbd>
@@ -9,3 +10,4 @@
 - [3919. Minimum Cost to Move Between Indices](../problems/p3919_minimum_cost_to_move_between_indices) <kbd>Medium</kbd>
 - [3951. Minimum Energy to Maintain Brightness](../problems/p3951_minimum_energy_to_maintain_brightness) <kbd>Medium</kbd>
 - [3961. Maximize Sum of Device Ratings](../problems/p3961_maximize_sum_of_device_ratings) <kbd>Medium</kbd>
+- [3974. Maximum Total Sum of K Selected Elements](../problems/p3974_maximum_total_sum_of_k_selected_elements) <kbd>Medium</kbd>

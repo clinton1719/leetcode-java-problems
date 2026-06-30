@@ -12,3 +12,5 @@
 - [2099. Find Subsequence of Length K With the Largest Sum](../problems/p2099_find_subsequence_of_length_k_with_the_largest_sum) <kbd>Easy</kbd>
 - [3913. Sort Vowels by Frequency](../problems/p3913_sort_vowels_by_frequency) <kbd>Medium</kbd>
 - [3961. Maximize Sum of Device Ratings](../problems/p3961_maximize_sum_of_device_ratings) <kbd>Medium</kbd>
+- [3974. Maximum Total Sum of K Selected Elements](../problems/p3974_maximum_total_sum_of_k_selected_elements) <kbd>Medium</kbd>
+- [3975. Filter Occupied Intervals](../problems/p3975_filter_occupied_intervals) <kbd>Medium</kbd>

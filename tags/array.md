@@ -15,6 +15,7 @@
 - [46. Permutations](../problems/p46_permutations) <kbd>Medium</kbd>
 - [48. Rotate Image](../problems/p48_rotate_image) <kbd>Medium</kbd>
 - [49. Group Anagrams](../problems/p49_group_anagrams) <kbd>Medium</kbd>
+- [53. Maximum Subarray](../problems/p53_maximum_subarray) <kbd>Medium</kbd>
 - [54. Spiral Matrix](../problems/p54_spiral_matrix) <kbd>Medium</kbd>
 - [55. Jump Game](../problems/p55_jump_game) <kbd>Medium</kbd>
 - [56. Merge Intervals](../problems/p56_merge_intervals) <kbd>Medium</kbd>
@@ -65,3 +66,4 @@
 - [3925. Concatenate Array With Reverse](../problems/p3925_concatenate_array_with_reverse) <kbd>Easy</kbd>
 - [3927. Minimize Array Sum Using Divisible Replacements](../problems/p3927_minimize_array_sum_using_divisible_replacements) <kbd>Medium</kbd>
 - [3961. Maximize Sum of Device Ratings](../problems/p3961_maximize_sum_of_device_ratings) <kbd>Medium</kbd>
+- [3974. Maximum Total Sum of K Selected Elements](../problems/p3974_maximum_total_sum_of_k_selected_elements) <kbd>Medium</kbd>

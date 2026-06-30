@@ -1,6 +1,7 @@
 # 🚩 Tag: algorithm
 
 - [28. Find the Index of the First Occurrence in a String](../problems/p28_find_the_index_of_the_first_occurrence_in_a_string) <kbd>Easy</kbd>
+- [53. Maximum Subarray](../problems/p53_maximum_subarray) <kbd>Medium</kbd>
 - [114. Flatten Binary Tree to Linked List](../problems/p114_flatten_binary_tree_to_linked_list) <kbd>Easy</kbd>
 - [141. Linked List Cycle](../problems/p141_linked_list_cycle) <kbd>Easy</kbd>
 - [169. Majority Element](../problems/p169_majority_element) <kbd>Easy</kbd>
@@ -9,3 +10,4 @@
 - [202. Happy Number](../problems/p202_happy_number) <kbd>Easy</kbd>
 - [222. Count Complete Tree Nodes](../problems/p222_count_complete_tree_nodes) <kbd>Easy</kbd>
 - [3918. Sum of Primes Between Number and Its Reverse](../problems/p3918_sum_of_primes_between_number_and_its_reverse) <kbd>Medium</kbd>
+- [3976. Maximum Subarray Sum After Multiplier](../problems/p3976_maximum_subarray_sum_after_multiplier) <kbd>Medium</kbd>
