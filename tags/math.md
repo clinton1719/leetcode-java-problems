@@ -27,3 +27,4 @@
 - [3927. Minimize Array Sum Using Divisible Replacements](../problems/p3927_minimize_array_sum_using_divisible_replacements) <kbd>Medium</kbd>
 - [3932. Count K-th Roots in a Range](../problems/p3932_count_k_th_roots_in_a_range) <kbd>Medium</kbd>
 - [3951. Minimum Energy to Maintain Brightness](../problems/p3951_minimum_energy_to_maintain_brightness) <kbd>Medium</kbd>
+- [3959. Check Good Integer](../problems/p3959_check_good_integer) <kbd>Easy</kbd>

@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 147 | 69 | 77 | 1 |
+| 151 | 70 | 80 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -62,6 +62,7 @@
 | 80 | [Remove Duplicates from Sorted Array II](problems/p80_remove_duplicates_from_sorted_array_ii) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 82 | [Remove Duplicates from Sorted List II](problems/p82_remove_duplicates_from_sorted_list_ii) | 🟡 Medium | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md) |
 | 83 | [Remove Duplicates from Sorted List](problems/p83_remove_duplicates_from_sorted_list) | 🟢 Easy | [linked-list](tags/linked-list.md) |
+| 86 | [Partition List](problems/p86_partition_list) | 🟡 Medium | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md) |
 | 89 | [Merge Sorted Array](problems/p89_merge_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [sorting](tags/sorting.md) |
 | 92 | [Reverse Linked List II](problems/p92_reverse_linked_list_ii) | 🟡 Medium | [linked-list](tags/linked-list.md) |
 | 94 | [Binary Tree Inorder Traversal](problems/p94_binary_tree_inorder_traversal) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md), [inorder-traversal](tags/inorder-traversal.md) |
@@ -163,3 +164,6 @@
 | 3951 | [Minimum Energy to Maintain Brightness](problems/p3951_minimum_energy_to_maintain_brightness) | 🟡 Medium | [math](tags/math.md), [greedy](tags/greedy.md) |
 | 3954 | [Sum of Compatible Numbers in Range I](problems/p3954_sum_of_compatible_numbers_in_range_i) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md) |
 | 3955 | [Valid Binary Strings With Cost Limit](problems/p3955_valid_binary_strings_with_cost_limit) | 🟡 Medium | [backtracking](tags/backtracking.md), [recursion](tags/recursion.md) |
+| 3959 | [Check Good Integer](problems/p3959_check_good_integer) | 🟢 Easy | [math](tags/math.md) |
+| 3960 | [Frequency Balance Subarray](problems/p3960_frequency_balance_subarray) | 🟡 Medium | [hash-table](tags/hash-table.md) |
+| 3961 | [Maximize Sum of Device Ratings](problems/p3961_maximize_sum_of_device_ratings) | 🟡 Medium | [greedy](tags/greedy.md), [sorting](tags/sorting.md), [array](tags/array.md) |

@@ -26,3 +26,4 @@
 - [3900. Longest Balanced Substring After One Swap](../problems/p3900_longest_balanced_substring_after_one_swap) <kbd>Medium</kbd>
 - [3913. Sort Vowels by Frequency](../problems/p3913_sort_vowels_by_frequency) <kbd>Medium</kbd>
 - [3926. Count Valid Word Occurrences](../problems/p3926_count_valid_word_occurrences) <kbd>Medium</kbd>
+- [3960. Frequency Balance Subarray](../problems/p3960_frequency_balance_subarray) <kbd>Medium</kbd>
