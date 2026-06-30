@@ -213,3 +213,14 @@ Overall auxiliary space: O(n).
 
 
 
+# Complexity
+
+**Time Complexity:** O(n)
+
+* Every node is visited exactly once.
+
+**Space Complexity:** O(n)
+
+* A new node is created for every original node.
+
+Overall auxiliary space: O(n).
