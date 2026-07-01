@@ -12,6 +12,7 @@
 - [67. Add Binary](../problems/p67_add_binary) <kbd>Easy</kbd>
 - [69. Sqrt(x)](../problems/p69_sqrtx) <kbd>Easy</kbd>
 - [70. Climbing Stairs](../problems/p70_climbing_stairs) <kbd>Easy</kbd>
+- [150. Evaluate Reverse Polish Notation](../problems/p150_evaluate_reverse_polish_notation) <kbd>Medium</kbd>
 - [189. Rotate Array](../problems/p189_rotate_array) <kbd>Medium</kbd>
 - [380. Insert Delete GetRandom O(1)](../problems/p380_insert_delete_getrandom_o1) <kbd>Medium</kbd>
 - [1290. Convert Binary Number in a Linked List to Integer](../problems/p1290_convert_binary_number_in_a_linked_list_to_integer) <kbd>Easy</kbd>

@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 156 | 70 | 85 | 1 |
+| 157 | 70 | 86 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -93,6 +93,7 @@
 | 141 | [Linked List Cycle](problems/p141_linked_list_cycle) | 🟢 Easy | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md), [floyds-cycle-finding-algorithm](tags/floyds-cycle-finding-algorithm.md), [algorithm](tags/algorithm.md) |
 | 146 | [LRU Cache](problems/p146_lru_cache) | 🟡 Medium | [linked-list](tags/linked-list.md), [design](tags/design.md), [doubly-linked-list](tags/doubly-linked-list.md), [hash-table](tags/hash-table.md) |
 | 148 | [Sort List](problems/p148_sort_list) | 🟡 Medium | [merge-sort](tags/merge-sort.md), [sorting](tags/sorting.md), [linked-list](tags/linked-list.md), [divide-and-conquer](tags/divide-and-conquer.md), [two-pointers](tags/two-pointers.md) |
+| 150 | [Evaluate Reverse Polish Notation](problems/p150_evaluate_reverse_polish_notation) | 🟡 Medium | [stack](tags/stack.md), [math](tags/math.md) |
 | 151 | [Reverse Words in a String](problems/p151_reverse_words_in_a_string) | 🟡 Medium | [two-pointers](tags/two-pointers.md), [string](tags/string.md) |
 | 155 | [Min Stack](problems/p155_min_stack) | 🟡 Medium | [stack](tags/stack.md), [design](tags/design.md) |
 | 160 | [Intersection Of Two Linked Lists](problems/p160_intersection_of_two_linked_lists) | 🟢 Easy | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md) |
