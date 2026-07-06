@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 157 | 70 | 86 | 1 |
+| 158 | 70 | 87 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -100,6 +100,7 @@
 | 162 | [Find Peak Element](problems/p162_find_peak_element) | 🟡 Medium | [binary-search](tags/binary-search.md), [two-pointers](tags/two-pointers.md), [array](tags/array.md) |
 | 167 | [Two Sum II Input Array Is Sorted](problems/p167_two_sum_ii_input_array_is_sorted) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [binary-search](tags/binary-search.md) |
 | 169 | [Majority Element](problems/p169_majority_element) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [hash-table](tags/hash-table.md), [divide-and-conquer](tags/divide-and-conquer.md), [sorting](tags/sorting.md), [counting](tags/counting.md), [boyer–moore-voting-algorithm](tags/boyer–moore-voting-algorithm.md), [algorithm](tags/algorithm.md) |
+| 173 | [Binary Search Tree Iterator](problems/p173_binary_search_tree_iterator) | 🟡 Medium | [tree](tags/tree.md), [stack](tags/stack.md), [binary-tree](tags/binary-tree.md), [binary-search-tree](tags/binary-search-tree.md), [design](tags/design.md) |
 | 189 | [Rotate Array](problems/p189_rotate_array) | 🟡 Medium | [array](tags/array.md), [math](tags/math.md), [two-pointers](tags/two-pointers.md) |
 | 190 | [Add Binary](problems/p190_reverse_bits) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md) |
 | 191 | [Number Of 1 Bits](problems/p191_number_of_1_bits) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md), [algorithm](tags/algorithm.md), [brian-kernighans-algorithm](tags/brian-kernighans-algorithm.md) |
