@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 160 | 70 | 89 | 1 |
+| 161 | 70 | 90 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -70,6 +70,7 @@
 | 100 | [Same Tree](problems/p100_same_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 101 | [Symmetric Tree](problems/p101_symmetric_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 102 | [Binary Tree Level Order Traversal](problems/p102_binary_tree_level_order_traversal) | 🟡 Medium | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [bfs](tags/bfs.md) |
+| 103 | [Binary Tree Zigzag Level Order Traversal](problems/p103_binary_tree_zigzag_level_order_traversal) | 🟡 Medium | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [bfs](tags/bfs.md) |
 | 104 | [Maximum Depth Of Binary Tree](problems/p104_maximum_depth_of_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [bfs](tags/bfs.md), [dfs](tags/dfs.md), [tree](tags/tree.md) |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](problems/p105_construct_binary_tree_from_preorder_and_inorder_traversal) | 🟡 Medium | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [inorder-traversal](tags/inorder-traversal.md), [preorder-traversal](tags/preorder-traversal.md), [divide-and-conquer](tags/divide-and-conquer.md) |
 | 106 | [Construct Binary Tree from Inorder And PostOrder Traversal](problems/p106_construct_binary_tree_from_inorder_and_postorder_traversal) | 🟡 Medium | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [inorder-traversal](tags/inorder-traversal.md), [preorder-traversal](tags/preorder-traversal.md), [divide-and-conquer](tags/divide-and-conquer.md) |
