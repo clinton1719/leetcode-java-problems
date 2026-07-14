@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 161 | 70 | 90 | 1 |
+| 162 | 70 | 91 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -119,6 +119,7 @@
 | 222 | [Count Complete Tree Nodes](problems/p222_count_complete_tree_nodes) | 🟢 Easy | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [complete-binary-tree](tags/complete-binary-tree.md), [algorithm](tags/algorithm.md) |
 | 226 | [Invert Binary Tree](problems/p226_invert_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 228 | [Summary Ranges](problems/p228_summary_ranges) | 🟢 Easy | [array](tags/array.md), [intervals](tags/intervals.md) |
+| 230 | [Kth Smallest Element in a BST](problems/p230_kth_smallest_element_in_a_bst) | 🟡 Medium | [dfs](tags/dfs.md), [binary-search-tree](tags/binary-search-tree.md), [binary-tree](tags/binary-tree.md), [tree](tags/tree.md) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](problems/p236_lowest_common_ancestor_of_a_binary_tree) | 🟡 Medium | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [dfs](tags/dfs.md) |
 | 238 | [Product Of Array Except Self](problems/p238_product_of_array_except_self) | 🟡 Medium | [array](tags/array.md), [prefix-sum](tags/prefix-sum.md) |
 | 242 | [Valid Anagram](problems/p242_valid_anagram) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |

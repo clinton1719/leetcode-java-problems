@@ -14,6 +14,7 @@
 - [199. Binary Tree Right Side View](../problems/p199_binary_tree_right_side_view) <kbd>Easy</kbd>
 - [200. Number Of Islands](../problems/p200_number_of_islands) <kbd>Medium</kbd>
 - [226. Invert Binary Tree](../problems/p226_invert_binary_tree) <kbd>Easy</kbd>
+- [230. Kth Smallest Element in a BST](../problems/p230_kth_smallest_element_in_a_bst) <kbd>Medium</kbd>
 - [236. Lowest Common Ancestor of a Binary Tree](../problems/p236_lowest_common_ancestor_of_a_binary_tree) <kbd>Medium</kbd>
 - [257. Binary Tree Paths](../problems/p257_binary_tree_paths) <kbd>Easy</kbd>
 - [2331. Evaluate Boolean Binary Tree](../problems/p2331_evaluate_boolean_binary_tree) <kbd>Easy</kbd>
