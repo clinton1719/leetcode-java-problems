@@ -2,7 +2,7 @@
 id: 230
 title: "Kth Smallest Element in a BST"
 difficulty: Medium
-tags: [dfs, binary-search-tree, binary-tree, tree]
+tags: [dfs, binary-search-tree, binary-tree, tree, inorder-traversal]
 date: 2026-02-17
 link: https://leetcode.com/problems/kth-smallest-element-in-a-bst
 ---
