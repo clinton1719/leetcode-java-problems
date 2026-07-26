@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 162 | 70 | 91 | 1 |
+| 163 | 70 | 92 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -67,6 +67,7 @@
 | 89 | [Merge Sorted Array](problems/p89_merge_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [sorting](tags/sorting.md) |
 | 92 | [Reverse Linked List II](problems/p92_reverse_linked_list_ii) | 🟡 Medium | [linked-list](tags/linked-list.md) |
 | 94 | [Binary Tree Inorder Traversal](problems/p94_binary_tree_inorder_traversal) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md), [inorder-traversal](tags/inorder-traversal.md) |
+| 98 | [Validate Binary Search Tree](problems/p98_validate_binary_search_tree) | 🟡 Medium | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md) |
 | 100 | [Same Tree](problems/p100_same_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 101 | [Symmetric Tree](problems/p101_symmetric_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 102 | [Binary Tree Level Order Traversal](problems/p102_binary_tree_level_order_traversal) | 🟡 Medium | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [bfs](tags/bfs.md) |
@@ -119,7 +120,7 @@
 | 222 | [Count Complete Tree Nodes](problems/p222_count_complete_tree_nodes) | 🟢 Easy | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [complete-binary-tree](tags/complete-binary-tree.md), [algorithm](tags/algorithm.md) |
 | 226 | [Invert Binary Tree](problems/p226_invert_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 228 | [Summary Ranges](problems/p228_summary_ranges) | 🟢 Easy | [array](tags/array.md), [intervals](tags/intervals.md) |
-| 230 | [Kth Smallest Element in a BST](problems/p230_kth_smallest_element_in_a_bst) | 🟡 Medium | [dfs](tags/dfs.md), [binary-search-tree](tags/binary-search-tree.md), [binary-tree](tags/binary-tree.md), [tree](tags/tree.md) |
+| 230 | [Kth Smallest Element in a BST](problems/p230_kth_smallest_element_in_a_bst) | 🟡 Medium | [dfs](tags/dfs.md), [binary-search-tree](tags/binary-search-tree.md), [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [inorder-traversal](tags/inorder-traversal.md) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](problems/p236_lowest_common_ancestor_of_a_binary_tree) | 🟡 Medium | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [dfs](tags/dfs.md) |
 | 238 | [Product Of Array Except Self](problems/p238_product_of_array_except_self) | 🟡 Medium | [array](tags/array.md), [prefix-sum](tags/prefix-sum.md) |
 | 242 | [Valid Anagram](problems/p242_valid_anagram) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
@@ -143,8 +144,8 @@
 | 1290 | [Convert Binary Number in a Linked List to Integer](problems/p1290_convert_binary_number_in_a_linked_list_to_integer) | 🟢 Easy | [linked-list](tags/linked-list.md), [math](tags/math.md) |
 | 1863 | [Sum Of All Subset Xor Totals](problems/p1863_sum_of_all_subset_xor_totals) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md), [combinatorics](tags/combinatorics.md), [array](tags/array.md), [math](tags/math.md), [backtracking](tags/backtracking.md) |
 | 2099 | [Find Subsequence of Length K With the Largest Sum](problems/p2099_find_subsequence_of_length_k_with_the_largest_sum) | 🟢 Easy | [sorting](tags/sorting.md), [heap](tags/heap.md), [array](tags/array.md) |
-| 2331 | [Final Array State After K Multiplication Operations I](problems/p3264_final_array_state_after_k_multiplication_operations_i) | 🟢 Easy | [heap](tags/heap.md), [array](tags/array.md), [math](tags/math.md) |
 | 2331 | [Evaluate Boolean Binary Tree](problems/p2331_evaluate_boolean_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md) |
+| 2331 | [Final Array State After K Multiplication Operations I](problems/p3264_final_array_state_after_k_multiplication_operations_i) | 🟢 Easy | [heap](tags/heap.md), [array](tags/array.md), [math](tags/math.md) |
 | 3507 | [Minimum Pair Removal To Sort Array I](problems/p3507_minimum_pair_removal_to_sort_array_i) | 🟢 Easy | [linked-list](tags/linked-list.md) |
 | 3885 | [Design Event Manager](problems/p3885_design_event_manager) | 🟢 Easy | [design](tags/design.md), [heap](tags/heap.md) |
 | 3895 | [Count Digit Appearances](problems/p3895_count_digit_appearances) | 🟡 Medium | [math](tags/math.md), [array](tags/array.md) |

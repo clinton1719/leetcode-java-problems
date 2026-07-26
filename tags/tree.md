@@ -1,6 +1,7 @@
 # 🚩 Tag: tree
 
 - [94. Binary Tree Inorder Traversal](../problems/p94_binary_tree_inorder_traversal) <kbd>Easy</kbd>
+- [98. Validate Binary Search Tree](../problems/p98_validate_binary_search_tree) <kbd>Medium</kbd>
 - [100. Same Tree](../problems/p100_same_tree) <kbd>Easy</kbd>
 - [101. Symmetric Tree](../problems/p101_symmetric_tree) <kbd>Easy</kbd>
 - [102. Binary Tree Level Order Traversal](../problems/p102_binary_tree_level_order_traversal) <kbd>Medium</kbd>

@@ -2,6 +2,7 @@
 
 - [79. Word Search](../problems/p79_word_search) <kbd>Medium</kbd>
 - [94. Binary Tree Inorder Traversal](../problems/p94_binary_tree_inorder_traversal) <kbd>Easy</kbd>
+- [98. Validate Binary Search Tree](../problems/p98_validate_binary_search_tree) <kbd>Medium</kbd>
 - [100. Same Tree](../problems/p100_same_tree) <kbd>Easy</kbd>
 - [101. Symmetric Tree](../problems/p101_symmetric_tree) <kbd>Easy</kbd>
 - [104. Maximum Depth Of Binary Tree](../problems/p104_maximum_depth_of_binary_tree) <kbd>Easy</kbd>
