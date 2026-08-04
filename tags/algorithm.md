@@ -8,6 +8,7 @@
 - [191. Number Of 1 Bits](../problems/p191_number_of_1_bits) <kbd>Easy</kbd>
 - [201. Bitwise And Of Numbers Range](../problems/p201_bitwise_and_of_numbers_range) <kbd>Medium</kbd>
 - [202. Happy Number](../problems/p202_happy_number) <kbd>Easy</kbd>
+- [207. Course Schedule](../problems/p207_course_schedule) <kbd>Medium</kbd>
 - [222. Count Complete Tree Nodes](../problems/p222_count_complete_tree_nodes) <kbd>Easy</kbd>
 - [3918. Sum of Primes Between Number and Its Reverse](../problems/p3918_sum_of_primes_between_number_and_its_reverse) <kbd>Medium</kbd>
 - [3976. Maximum Subarray Sum After Multiplier](../problems/p3976_maximum_subarray_sum_after_multiplier) <kbd>Medium</kbd>
