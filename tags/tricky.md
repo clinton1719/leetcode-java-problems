@@ -1,6 +1,7 @@
 # 🚩 Tag: tricky
 
 - [207. Course Schedule](../problems/p207_course_schedule) <kbd>Medium</kbd>
+- [210. Course Schedule II](../problems/p210_course_schedule_ii) <kbd>Medium</kbd>
 - [399. Evaluate Division](../problems/p399_evaluate_division) <kbd>Medium</kbd>
 - [525. Contiguous Array](../problems/p525_contiguous_array) <kbd>Medium</kbd>
 - [1156. Swap For Longest Repeated Character Substring](../problems/p1156_swap_for_longest_repeated_character_substring) <kbd>Medium</kbd>

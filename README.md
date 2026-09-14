@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 165 | 70 | 94 | 1 |
+| 166 | 70 | 95 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -116,6 +116,7 @@
 | 207 | [Course Schedule](problems/p207_course_schedule) | 🟡 Medium | [graph](tags/graph.md), [topological-sort](tags/topological-sort.md), [tricky](tags/tricky.md), [algorithm](tags/algorithm.md), [directed-acylic-graph](tags/directed-acylic-graph.md), [kahns-algorithm](tags/kahns-algorithm.md) |
 | 208 | [Implement Trie Prefix Tree](problems/p208_implement_trie_prefix_tree) | 🟡 Medium | [trie](tags/trie.md), [design](tags/design.md), [string](tags/string.md), [hash-table](tags/hash-table.md) |
 | 209 | [Minimum Size Subarray Sum](problems/p209_minimum_size_subarray_sum) | 🟡 Medium | [array](tags/array.md), [sliding-window](tags/sliding-window.md) |
+| 210 | [Course Schedule II](problems/p210_course_schedule_ii) | 🟡 Medium | [graph](tags/graph.md), [topological-sort](tags/topological-sort.md), [tricky](tags/tricky.md), [algorithm](tags/algorithm.md), [directed-acylic-graph](tags/directed-acylic-graph.md), [kahns-algorithm](tags/kahns-algorithm.md) |
 | 215 | [Kth Largest Element In An Array](problems/p215_kth_largest_element_in_an_array) | 🟡 Medium | [heap](tags/heap.md), [array](tags/array.md), [sorting](tags/sorting.md), [quickselect](tags/quickselect.md), [divide-and-conquer](tags/divide-and-conquer.md) |
 | 219 | [Contains Duplicate II](problems/p219_contains_duplicate_ii) | 🟢 Easy | [array](tags/array.md), [hash-table](tags/hash-table.md), [sliding-window](tags/sliding-window.md) |
 | 222 | [Count Complete Tree Nodes](problems/p222_count_complete_tree_nodes) | 🟢 Easy | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [complete-binary-tree](tags/complete-binary-tree.md), [algorithm](tags/algorithm.md) |
