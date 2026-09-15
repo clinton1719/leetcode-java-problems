@@ -1,6 +1,6 @@
 ---
 id: 404
-title: "sum-of-left-leaves"
+title: "Sum Of Left Leaves"
 difficulty: Easy
 tags: [binary-tree, tree]
 date: 2026-03-23
