@@ -22,7 +22,7 @@
 - [230. Kth Smallest Element in a BST](../problems/p230_kth_smallest_element_in_a_bst) <kbd>Medium</kbd>
 - [236. Lowest Common Ancestor of a Binary Tree](../problems/p236_lowest_common_ancestor_of_a_binary_tree) <kbd>Medium</kbd>
 - [257. Binary Tree Paths](../problems/p257_binary_tree_paths) <kbd>Easy</kbd>
-- [404. sum-of-left-leaves](../problems/p404_sum_of_left_leaves) <kbd>Easy</kbd>
+- [404. Sum Of Left Leaves](../problems/p404_sum_of_left_leaves) <kbd>Easy</kbd>
 - [530. Minimum Absolute Difference in BST](../problems/p530_minimum_absolute_difference_in_bst) <kbd>Easy</kbd>
 - [637. Average Of Levels In Binary Tree](../problems/p637_average_of_levels_in_binary_tree) <kbd>Easy</kbd>
 - [2331. Evaluate Boolean Binary Tree](../problems/p2331_evaluate_boolean_binary_tree) <kbd>Easy</kbd>

@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 166 | 70 | 95 | 1 |
+| 167 | 70 | 96 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -135,7 +135,8 @@
 | 383 | [Ransom Note](problems/p383_ransom_note) | 🟢 Easy | [counting](tags/counting.md), [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 392 | [Is Subsequence](problems/p392_is_subsequence) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 399 | [Evaluate Division](problems/p399_evaluate_division) | 🟡 Medium | [tricky](tags/tricky.md), [dfs](tags/dfs.md), [graph](tags/graph.md) |
-| 404 | [sum-of-left-leaves](problems/p404_sum_of_left_leaves) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md) |
+| 404 | [Sum Of Left Leaves](problems/p404_sum_of_left_leaves) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md) |
+| 433 | [Minimum Genetic Mutation](problems/p433_minimum_genetic_mutation) | 🟡 Medium | [bfs](tags/bfs.md), [string](tags/string.md) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](problems/p452_minimum_number_of_arrows_to_burst_balloons) | 🟡 Medium | [intervals](tags/intervals.md), [greedy](tags/greedy.md) |
 | 506 | [Relative Ranks](problems/p506_relative_ranks) | 🟢 Easy | [heap](tags/heap.md), [sorting](tags/sorting.md), [array](tags/array.md) |
 | 525 | [Contiguous Array](problems/p525_contiguous_array) | 🟡 Medium | [string](tags/string.md), [tricky](tags/tricky.md), [sliding-window](tags/sliding-window.md), [hash-table](tags/hash-table.md), [prefix-sum](tags/prefix-sum.md) |

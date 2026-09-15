@@ -13,6 +13,7 @@
 - [199. Binary Tree Right Side View](../problems/p199_binary_tree_right_side_view) <kbd>Easy</kbd>
 - [200. Number Of Islands](../problems/p200_number_of_islands) <kbd>Medium</kbd>
 - [226. Invert Binary Tree](../problems/p226_invert_binary_tree) <kbd>Easy</kbd>
+- [433. Minimum Genetic Mutation](../problems/p433_minimum_genetic_mutation) <kbd>Medium</kbd>
 - [637. Average Of Levels In Binary Tree](../problems/p637_average_of_levels_in_binary_tree) <kbd>Easy</kbd>
 - [909. Snakes And Ladders](../problems/p909_snakes_and_ladders) <kbd>Medium</kbd>
 - [3905. Longest Balanced Substring After One Swap](../problems/p3905_multi_source_flood_fill) <kbd>Medium</kbd>
