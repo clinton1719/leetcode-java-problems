@@ -48,6 +48,7 @@
 - [289. Game of Life](../problems/p289_game_of_life) <kbd>Medium</kbd>
 - [373. Find K Pairs With Smallest Sums](../problems/p373_find_k_pairs_with_smallest_sums) <kbd>Medium</kbd>
 - [380. Insert Delete GetRandom O(1)](../problems/p380_insert_delete_getrandom_o1) <kbd>Medium</kbd>
+- [427. Construct Quad Tree](../problems/p427_construct_quad_tree) <kbd>Medium</kbd>
 - [506. Relative Ranks](../problems/p506_relative_ranks) <kbd>Easy</kbd>
 - [909. Snakes And Ladders](../problems/p909_snakes_and_ladders) <kbd>Medium</kbd>
 - [1863. Sum Of All Subset Xor Totals](../problems/p1863_sum_of_all_subset_xor_totals) <kbd>Easy</kbd>
