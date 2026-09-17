@@ -6,7 +6,6 @@ import java.util.Queue;
 import java.util.Set;
 
 public class Solution {
-  int sum = 0;
 
   static void main() {
     Solution solution = new Solution();
