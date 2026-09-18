@@ -10,4 +10,5 @@
 - [121. Best Time to Buy and Sell Stock](../problems/p121_best_time_to_buy_and_sell_stock) <kbd>Easy</kbd>
 - [122. Best Time to Buy and Sell Stock II](../problems/p122_best_time_to_buy_and_sell_stock_ii) <kbd>Medium</kbd>
 - [392. Is Subsequence](../problems/p392_is_subsequence) <kbd>Easy</kbd>
+- [918. Maximum Sum Circular Subarray](../problems/p918_maximum_sum_circular_subarray) <kbd>Medium</kbd>
 - [3976. Maximum Subarray Sum After Multiplier](../problems/p3976_maximum_subarray_sum_after_multiplier) <kbd>Medium</kbd>

@@ -8,3 +8,4 @@
 - [169. Majority Element](../problems/p169_majority_element) <kbd>Easy</kbd>
 - [215. Kth Largest Element In An Array](../problems/p215_kth_largest_element_in_an_array) <kbd>Medium</kbd>
 - [427. Construct Quad Tree](../problems/p427_construct_quad_tree) <kbd>Medium</kbd>
+- [918. Maximum Sum Circular Subarray](../problems/p918_maximum_sum_circular_subarray) <kbd>Medium</kbd>

@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 168 | 70 | 97 | 1 |
+| 169 | 70 | 98 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -145,6 +145,7 @@
 | 637 | [Average Of Levels In Binary Tree](problems/p637_average_of_levels_in_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [bfs](tags/bfs.md) |
 | 703 | [Kth Largest Element In A Stream](problems/p703_kth_largest_element_in_a_stream) | 🟢 Easy | [design](tags/design.md), [heap](tags/heap.md) |
 | 909 | [Snakes And Ladders](problems/p909_snakes_and_ladders) | 🟡 Medium | [array](tags/array.md), [matrix](tags/matrix.md), [bfs](tags/bfs.md) |
+| 918 | [Maximum Sum Circular Subarray](problems/p918_maximum_sum_circular_subarray) | 🟡 Medium | [algorithm](tags/algorithm.md), [kadanes-algorithm](tags/kadanes-algorithm.md), [dynamic-programming](tags/dynamic-programming.md), [divide-and-conquer](tags/divide-and-conquer.md) |
 | 1156 | [Swap For Longest Repeated Character Substring](problems/p1156_swap_for_longest_repeated_character_substring) | 🟡 Medium | [sliding-window](tags/sliding-window.md), [hash-table](tags/hash-table.md), [string](tags/string.md), [tricky](tags/tricky.md), [three-pointers](tags/three-pointers.md) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](problems/p1290_convert_binary_number_in_a_linked_list_to_integer) | 🟢 Easy | [linked-list](tags/linked-list.md), [math](tags/math.md) |
 | 1863 | [Sum Of All Subset Xor Totals](problems/p1863_sum_of_all_subset_xor_totals) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md), [combinatorics](tags/combinatorics.md), [array](tags/array.md), [math](tags/math.md), [backtracking](tags/backtracking.md) |
