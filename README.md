@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 169 | 70 | 98 | 1 |
+| 170 | 70 | 99 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -98,6 +98,7 @@
 | 148 | [Sort List](problems/p148_sort_list) | 🟡 Medium | [merge-sort](tags/merge-sort.md), [sorting](tags/sorting.md), [linked-list](tags/linked-list.md), [divide-and-conquer](tags/divide-and-conquer.md), [two-pointers](tags/two-pointers.md) |
 | 150 | [Evaluate Reverse Polish Notation](problems/p150_evaluate_reverse_polish_notation) | 🟡 Medium | [stack](tags/stack.md), [math](tags/math.md) |
 | 151 | [Reverse Words in a String](problems/p151_reverse_words_in_a_string) | 🟡 Medium | [two-pointers](tags/two-pointers.md), [string](tags/string.md) |
+| 153 | [Find Minimum in Rotated Sorted Array](problems/p153_find_minimum_in_rotated_sorted_array) | 🟡 Medium |  |
 | 155 | [Min Stack](problems/p155_min_stack) | 🟡 Medium | [stack](tags/stack.md), [design](tags/design.md) |
 | 160 | [Intersection Of Two Linked Lists](problems/p160_intersection_of_two_linked_lists) | 🟢 Easy | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md) |
 | 162 | [Find Peak Element](problems/p162_find_peak_element) | 🟡 Medium | [binary-search](tags/binary-search.md), [two-pointers](tags/two-pointers.md), [array](tags/array.md) |
