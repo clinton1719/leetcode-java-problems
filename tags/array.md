@@ -34,6 +34,7 @@
 - [134. Gas Station](../problems/p134_gas_station) <kbd>Medium</kbd>
 - [136. Single Number](../problems/p136_single_number) <kbd>Easy</kbd>
 - [137. Single Number II](../problems/p137_single_number_ii) <kbd>Medium</kbd>
+- [153. Find Minimum in Rotated Sorted Array](../problems/p153_find_minimum_in_rotated_sorted_array) <kbd>Medium</kbd>
 - [162. Find Peak Element](../problems/p162_find_peak_element) <kbd>Medium</kbd>
 - [167. Two Sum II Input Array Is Sorted](../problems/p167_two_sum_ii_input_array_is_sorted) <kbd>Medium</kbd>
 - [169. Majority Element](../problems/p169_majority_element) <kbd>Easy</kbd>

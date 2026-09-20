@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 170 | 70 | 99 | 1 |
+| 171 | 70 | 100 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -98,12 +98,13 @@
 | 148 | [Sort List](problems/p148_sort_list) | 🟡 Medium | [merge-sort](tags/merge-sort.md), [sorting](tags/sorting.md), [linked-list](tags/linked-list.md), [divide-and-conquer](tags/divide-and-conquer.md), [two-pointers](tags/two-pointers.md) |
 | 150 | [Evaluate Reverse Polish Notation](problems/p150_evaluate_reverse_polish_notation) | 🟡 Medium | [stack](tags/stack.md), [math](tags/math.md) |
 | 151 | [Reverse Words in a String](problems/p151_reverse_words_in_a_string) | 🟡 Medium | [two-pointers](tags/two-pointers.md), [string](tags/string.md) |
-| 153 | [Find Minimum in Rotated Sorted Array](problems/p153_find_minimum_in_rotated_sorted_array) | 🟡 Medium |  |
+| 153 | [Find Minimum in Rotated Sorted Array](problems/p153_find_minimum_in_rotated_sorted_array) | 🟡 Medium | [binary-search](tags/binary-search.md), [array](tags/array.md) |
 | 155 | [Min Stack](problems/p155_min_stack) | 🟡 Medium | [stack](tags/stack.md), [design](tags/design.md) |
 | 160 | [Intersection Of Two Linked Lists](problems/p160_intersection_of_two_linked_lists) | 🟢 Easy | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md) |
 | 162 | [Find Peak Element](problems/p162_find_peak_element) | 🟡 Medium | [binary-search](tags/binary-search.md), [two-pointers](tags/two-pointers.md), [array](tags/array.md) |
 | 167 | [Two Sum II Input Array Is Sorted](problems/p167_two_sum_ii_input_array_is_sorted) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [binary-search](tags/binary-search.md) |
 | 169 | [Majority Element](problems/p169_majority_element) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [hash-table](tags/hash-table.md), [divide-and-conquer](tags/divide-and-conquer.md), [sorting](tags/sorting.md), [counting](tags/counting.md), [boyer–moore-voting-algorithm](tags/boyer–moore-voting-algorithm.md), [algorithm](tags/algorithm.md) |
+| 172 | [Factorial Trailing Zeroes](problems/p172_factorial_trailing_zeroes) | 🟡 Medium | [math](tags/math.md) |
 | 173 | [Binary Search Tree Iterator](problems/p173_binary_search_tree_iterator) | 🟡 Medium | [tree](tags/tree.md), [stack](tags/stack.md), [binary-tree](tags/binary-tree.md), [binary-search-tree](tags/binary-search-tree.md), [design](tags/design.md) |
 | 189 | [Rotate Array](problems/p189_rotate_array) | 🟡 Medium | [array](tags/array.md), [math](tags/math.md), [two-pointers](tags/two-pointers.md) |
 | 190 | [Add Binary](problems/p190_reverse_bits) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md) |
