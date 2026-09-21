@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 171 | 70 | 100 | 1 |
+| 172 | 70 | 101 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -109,6 +109,7 @@
 | 189 | [Rotate Array](problems/p189_rotate_array) | 🟡 Medium | [array](tags/array.md), [math](tags/math.md), [two-pointers](tags/two-pointers.md) |
 | 190 | [Add Binary](problems/p190_reverse_bits) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md) |
 | 191 | [Number Of 1 Bits](problems/p191_number_of_1_bits) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md), [algorithm](tags/algorithm.md), [brian-kernighans-algorithm](tags/brian-kernighans-algorithm.md) |
+| 198 | [House Robber](problems/p198_house_robber) | 🟡 Medium | [dynamic-programming](tags/dynamic-programming.md) |
 | 199 | [Binary Tree Right Side View](problems/p199_binary_tree_right_side_view) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 200 | [Number Of Islands](problems/p200_number_of_islands) | 🟡 Medium | [graph](tags/graph.md), [array](tags/array.md), [bfs](tags/bfs.md), [dfs](tags/dfs.md), [matrix](tags/matrix.md) |
 | 201 | [Bitwise And Of Numbers Range](problems/p201_bitwise_and_of_numbers_range) | 🟡 Medium | [bit-manipulation](tags/bit-manipulation.md), [algorithm](tags/algorithm.md), [brian-kernighans-algorithm](tags/brian-kernighans-algorithm.md) |
