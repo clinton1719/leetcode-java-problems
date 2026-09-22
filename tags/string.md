@@ -15,6 +15,7 @@
 - [71. Simplify Path](../problems/p71_simplify_path) <kbd>Medium</kbd>
 - [79. Word Search](../problems/p79_word_search) <kbd>Medium</kbd>
 - [125. valid-palindrome](../problems/p125_valid_palindrome) <kbd>Easy</kbd>
+- [139. Word Break](../problems/p139_word_break) <kbd>Medium</kbd>
 - [151. Reverse Words in a String](../problems/p151_reverse_words_in_a_string) <kbd>Medium</kbd>
 - [205. Isomorphic strings](../problems/p205_isomorphic_strings) <kbd>Easy</kbd>
 - [208. Implement Trie Prefix Tree](../problems/p208_implement_trie_prefix_tree) <kbd>Medium</kbd>
