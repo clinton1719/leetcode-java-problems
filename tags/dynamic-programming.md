@@ -7,6 +7,7 @@
 - [70. Climbing Stairs](../problems/p70_climbing_stairs) <kbd>Easy</kbd>
 - [118. Pascals Triangle](../problems/p118_pascals_triangle) <kbd>Easy</kbd>
 - [119. Pascals Triangle II](../problems/p119_pascals_triangle_ii) <kbd>Easy</kbd>
+- [120. Triangle](../problems/p120_triangle) <kbd>Medium</kbd>
 - [121. Best Time to Buy and Sell Stock](../problems/p121_best_time_to_buy_and_sell_stock) <kbd>Easy</kbd>
 - [122. Best Time to Buy and Sell Stock II](../problems/p122_best_time_to_buy_and_sell_stock_ii) <kbd>Medium</kbd>
 - [139. Word Break](../problems/p139_word_break) <kbd>Medium</kbd>
