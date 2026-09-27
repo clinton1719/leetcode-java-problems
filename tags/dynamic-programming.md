@@ -4,6 +4,7 @@
 - [45. Jump Game II](../problems/p45_jump_game_ii) <kbd>Medium</kbd>
 - [53. Maximum Subarray](../problems/p53_maximum_subarray) <kbd>Medium</kbd>
 - [55. Jump Game](../problems/p55_jump_game) <kbd>Medium</kbd>
+- [64. Minimum Path Sum](../problems/p64_minimum_path_sum) <kbd>Medium</kbd>
 - [70. Climbing Stairs](../problems/p70_climbing_stairs) <kbd>Easy</kbd>
 - [118. Pascals Triangle](../problems/p118_pascals_triangle) <kbd>Easy</kbd>
 - [119. Pascals Triangle II](../problems/p119_pascals_triangle_ii) <kbd>Easy</kbd>

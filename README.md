@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 176 | 70 | 105 | 1 |
+| 177 | 70 | 106 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -51,6 +51,7 @@
 | 57 | [Insert Interval](problems/p57_insert_interval) | 🟡 Medium | [interval](tags/interval.md), [array](tags/array.md) |
 | 58 | [Length of Last Word](problems/p58_length_of_last_word) | 🟢 Easy | [string](tags/string.md) |
 | 61 | [Rotate List](problems/p61_rotate_list) | 🟡 Medium | [linked-list](tags/linked-list.md), [two-pointers](tags/two-pointers.md) |
+| 64 | [Minimum Path Sum](problems/p64_minimum_path_sum) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [matrix](tags/matrix.md) |
 | 66 | [Plus One](problems/p66_plus_one) | 🟢 Easy | [math](tags/math.md), [array](tags/array.md) |
 | 67 | [Add Binary](problems/p67_add_binary) | 🟢 Easy | [math](tags/math.md), [string](tags/string.md), [bit-manipulation](tags/bit-manipulation.md) |
 | 69 | [Sqrt(x)](problems/p69_sqrtx) | 🟢 Easy | [math](tags/math.md), [binary-search](tags/binary-search.md) |
