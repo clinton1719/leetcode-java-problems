@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 177 | 70 | 106 | 1 |
+| 178 | 70 | 107 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -19,6 +19,7 @@
 | 1 | [Two Sum](problems/p1_two_sum) | 🟢 Easy | [hash-table](tags/hash-table.md), [array](tags/array.md) |
 | 2 | [Add Two Numbers](problems/p2_add_two_numbers) | 🟡 Medium | [linked-list](tags/linked-list.md), [recursion](tags/recursion.md), [math](tags/math.md) |
 | 3 | [Longest Substring Without Repeating Characters](problems/p3_longest_substring_without_repeating_characters) | 🟡 Medium | [sliding-window](tags/sliding-window.md), [string](tags/string.md), [hash-table](tags/hash-table.md) |
+| 5 | [Longest Palindromic Substring](problems/p5_longest_palindromic_substring) | 🟡 Medium |  |
 | 6 | [Zigzag Conversion](problems/p6_zigzag_conversion) | 🟡 Medium | [array](tags/array.md), [string](tags/string.md) |
 | 9 | [Palindrome Number](problems/p9_palindrome_number) | 🟢 Easy | [math](tags/math.md) |
 | 11 | [Container With Most Water](problems/p11_container_with_most_water) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md), [greedy](tags/greedy.md) |
