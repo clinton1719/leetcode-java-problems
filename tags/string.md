@@ -13,6 +13,7 @@
 - [58. Length of Last Word](../problems/p58_length_of_last_word) <kbd>Easy</kbd>
 - [67. Add Binary](../problems/p67_add_binary) <kbd>Easy</kbd>
 - [71. Simplify Path](../problems/p71_simplify_path) <kbd>Medium</kbd>
+- [72. Edit Distance](../problems/p72_edit_distance) <kbd>Medium</kbd>
 - [79. Word Search](../problems/p79_word_search) <kbd>Medium</kbd>
 - [125. valid-palindrome](../problems/p125_valid_palindrome) <kbd>Easy</kbd>
 - [139. Word Break](../problems/p139_word_break) <kbd>Medium</kbd>

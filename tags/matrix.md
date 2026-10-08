@@ -10,6 +10,7 @@
 - [79. Word Search](../problems/p79_word_search) <kbd>Medium</kbd>
 - [130. Surrounded Regions](../problems/p130_surrounded_regions) <kbd>Medium</kbd>
 - [200. Number Of Islands](../problems/p200_number_of_islands) <kbd>Medium</kbd>
+- [221. Maximal Square](../problems/p221_maximal_square) <kbd>Medium</kbd>
 - [289. Game of Life](../problems/p289_game_of_life) <kbd>Medium</kbd>
 - [427. Construct Quad Tree](../problems/p427_construct_quad_tree) <kbd>Medium</kbd>
 - [909. Snakes And Ladders](../problems/p909_snakes_and_ladders) <kbd>Medium</kbd>

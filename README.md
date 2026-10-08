@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 180 | 70 | 109 | 1 |
+| 182 | 70 | 111 | 1 |
 
 ## 🏷️ Tag Cloud
 
@@ -59,6 +59,7 @@
 | 69 | [Sqrt(x)](problems/p69_sqrtx) | 🟢 Easy | [math](tags/math.md), [binary-search](tags/binary-search.md) |
 | 70 | [Climbing Stairs](problems/p70_climbing_stairs) | 🟢 Easy | [math](tags/math.md), [fibonacci](tags/fibonacci.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 71 | [Simplify Path](problems/p71_simplify_path) | 🟡 Medium | [string](tags/string.md), [stack](tags/stack.md) |
+| 72 | [Edit Distance](problems/p72_edit_distance) | 🟡 Medium | [string](tags/string.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 73 | [Set Matrix Zeroes](problems/p73_set_matrix_zeroes) | 🟡 Medium | [matrix](tags/matrix.md), [array](tags/array.md) |
 | 74 | [Search A 2D Matrix](problems/p74_search_a_2d_matrix) | 🟡 Medium | [array](tags/array.md), [binary-search](tags/binary-search.md), [matrix](tags/matrix.md) |
 | 77 | [Combinations](problems/p77_combinations) | 🟡 Medium | [backtracking](tags/backtracking.md) |
@@ -128,6 +129,7 @@
 | 210 | [Course Schedule II](problems/p210_course_schedule_ii) | 🟡 Medium | [graph](tags/graph.md), [topological-sort](tags/topological-sort.md), [tricky](tags/tricky.md), [algorithm](tags/algorithm.md), [directed-acylic-graph](tags/directed-acylic-graph.md), [kahns-algorithm](tags/kahns-algorithm.md) |
 | 215 | [Kth Largest Element In An Array](problems/p215_kth_largest_element_in_an_array) | 🟡 Medium | [heap](tags/heap.md), [array](tags/array.md), [sorting](tags/sorting.md), [quickselect](tags/quickselect.md), [divide-and-conquer](tags/divide-and-conquer.md) |
 | 219 | [Contains Duplicate II](problems/p219_contains_duplicate_ii) | 🟢 Easy | [array](tags/array.md), [hash-table](tags/hash-table.md), [sliding-window](tags/sliding-window.md) |
+| 221 | [Maximal Square](problems/p221_maximal_square) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [matrix](tags/matrix.md) |
 | 222 | [Count Complete Tree Nodes](problems/p222_count_complete_tree_nodes) | 🟢 Easy | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [complete-binary-tree](tags/complete-binary-tree.md), [algorithm](tags/algorithm.md) |
 | 226 | [Invert Binary Tree](problems/p226_invert_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 228 | [Summary Ranges](problems/p228_summary_ranges) | 🟢 Easy | [array](tags/array.md), [intervals](tags/intervals.md) |

@@ -44,6 +44,7 @@
 - [209. Minimum Size Subarray Sum](../problems/p209_minimum_size_subarray_sum) <kbd>Medium</kbd>
 - [215. Kth Largest Element In An Array](../problems/p215_kth_largest_element_in_an_array) <kbd>Medium</kbd>
 - [219. Contains Duplicate II](../problems/p219_contains_duplicate_ii) <kbd>Easy</kbd>
+- [221. Maximal Square](../problems/p221_maximal_square) <kbd>Medium</kbd>
 - [228. Summary Ranges](../problems/p228_summary_ranges) <kbd>Easy</kbd>
 - [238. Product Of Array Except Self](../problems/p238_product_of_array_except_self) <kbd>Medium</kbd>
 - [274. H-Index](../problems/p274_h_index) <kbd>Medium</kbd>
