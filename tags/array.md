@@ -11,6 +11,7 @@
 - [35. Search Insert Position](../problems/p35_search_insert_position) <kbd>Easy</kbd>
 - [36. Valid Sudoku](../problems/p36_valid_sudoku) <kbd>Medium</kbd>
 - [39. combination-sum](../problems/p39_combination_sum) <kbd>Medium</kbd>
+- [42. Trapping Rain Water](../problems/p42_trapping_rain_water) <kbd>Hard</kbd>
 - [45. Jump Game II](../problems/p45_jump_game_ii) <kbd>Medium</kbd>
 - [46. Permutations](../problems/p46_permutations) <kbd>Medium</kbd>
 - [48. Rotate Image](../problems/p48_rotate_image) <kbd>Medium</kbd>
@@ -33,6 +34,7 @@
 - [122. Best Time to Buy and Sell Stock II](../problems/p122_best_time_to_buy_and_sell_stock_ii) <kbd>Medium</kbd>
 - [128. Longest Consecutive Sequence](../problems/p128_longest_consecutive_sequence) <kbd>Medium</kbd>
 - [134. Gas Station](../problems/p134_gas_station) <kbd>Medium</kbd>
+- [135. Candy](../problems/p135_candy) <kbd>Hard</kbd>
 - [136. Single Number](../problems/p136_single_number) <kbd>Easy</kbd>
 - [137. Single Number II](../problems/p137_single_number_ii) <kbd>Medium</kbd>
 - [153. Find Minimum in Rotated Sorted Array](../problems/p153_find_minimum_in_rotated_sorted_array) <kbd>Medium</kbd>
