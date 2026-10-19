@@ -3,7 +3,7 @@ id: 134
 title: "Gas Station"
 difficulty: Medium
 tags: [array, greedy]
-date: 2026-05-010
+date: 2026-05-10
 link: https://leetcode.com/problems/gas-station
 ---
 
