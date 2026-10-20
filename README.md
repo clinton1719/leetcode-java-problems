@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 184 | 70 | 111 | 3 |
+| 185 | 70 | 111 | 4 |
 
 ## 🏷️ Tag Cloud
 
@@ -57,6 +57,7 @@
 | 64 | [Minimum Path Sum](problems/p64_minimum_path_sum) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [matrix](tags/matrix.md) |
 | 66 | [Plus One](problems/p66_plus_one) | 🟢 Easy | [math](tags/math.md), [array](tags/array.md) |
 | 67 | [Add Binary](problems/p67_add_binary) | 🟢 Easy | [math](tags/math.md), [string](tags/string.md), [bit-manipulation](tags/bit-manipulation.md) |
+| 68 | [Text Justification](problems/p68_text_justification) | 🔴 Hard | [array](tags/array.md), [string](tags/string.md), [simulation](tags/simulation.md) |
 | 69 | [Sqrt(x)](problems/p69_sqrtx) | 🟢 Easy | [math](tags/math.md), [binary-search](tags/binary-search.md) |
 | 70 | [Climbing Stairs](problems/p70_climbing_stairs) | 🟢 Easy | [math](tags/math.md), [fibonacci](tags/fibonacci.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 71 | [Simplify Path](problems/p71_simplify_path) | 🟡 Medium | [string](tags/string.md), [stack](tags/stack.md) |

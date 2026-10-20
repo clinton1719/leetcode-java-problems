@@ -12,6 +12,7 @@
 - [49. Group Anagrams](../problems/p49_group_anagrams) <kbd>Medium</kbd>
 - [58. Length of Last Word](../problems/p58_length_of_last_word) <kbd>Easy</kbd>
 - [67. Add Binary](../problems/p67_add_binary) <kbd>Easy</kbd>
+- [68. Text Justification](../problems/p68_text_justification) <kbd>Hard</kbd>
 - [71. Simplify Path](../problems/p71_simplify_path) <kbd>Medium</kbd>
 - [72. Edit Distance](../problems/p72_edit_distance) <kbd>Medium</kbd>
 - [79. Word Search](../problems/p79_word_search) <kbd>Medium</kbd>

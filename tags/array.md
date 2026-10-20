@@ -23,6 +23,7 @@
 - [57. Insert Interval](../problems/p57_insert_interval) <kbd>Medium</kbd>
 - [64. Minimum Path Sum](../problems/p64_minimum_path_sum) <kbd>Medium</kbd>
 - [66. Plus One](../problems/p66_plus_one) <kbd>Easy</kbd>
+- [68. Text Justification](../problems/p68_text_justification) <kbd>Hard</kbd>
 - [73. Set Matrix Zeroes](../problems/p73_set_matrix_zeroes) <kbd>Medium</kbd>
 - [74. Search A 2D Matrix](../problems/p74_search_a_2d_matrix) <kbd>Medium</kbd>
 - [80. Remove Duplicates from Sorted Array II](../problems/p80_remove_duplicates_from_sorted_array_ii) <kbd>Medium</kbd>
