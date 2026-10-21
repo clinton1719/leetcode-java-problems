@@ -5,6 +5,7 @@
 - [12. Integer To Roman](../problems/p12_integer_to_roman) <kbd>Medium</kbd>
 - [13. Roman to Integer](../problems/p13_roman_to_integer) <kbd>Easy</kbd>
 - [17. Letter Combinations Of A Phone Number](../problems/p17_letter_combinations_of_a_phone_number) <kbd>Medium</kbd>
+- [30. Substring with Concatenation of All Words](../problems/p30_substring_with_concatenation_of_all_words) <kbd>Hard</kbd>
 - [36. Valid Sudoku](../problems/p36_valid_sudoku) <kbd>Medium</kbd>
 - [39. combination-sum](../problems/p39_combination_sum) <kbd>Medium</kbd>
 - [49. Group Anagrams](../problems/p49_group_anagrams) <kbd>Medium</kbd>

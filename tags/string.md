@@ -9,6 +9,7 @@
 - [20. Valid Parentheses](../problems/p20_valid_parentheses) <kbd>Easy</kbd>
 - [22. Generate Parentheses](../problems/p22_generate_parentheses) <kbd>Medium</kbd>
 - [28. Find the Index of the First Occurrence in a String](../problems/p28_find_the_index_of_the_first_occurrence_in_a_string) <kbd>Easy</kbd>
+- [30. Substring with Concatenation of All Words](../problems/p30_substring_with_concatenation_of_all_words) <kbd>Hard</kbd>
 - [49. Group Anagrams](../problems/p49_group_anagrams) <kbd>Medium</kbd>
 - [58. Length of Last Word](../problems/p58_length_of_last_word) <kbd>Easy</kbd>
 - [67. Add Binary](../problems/p67_add_binary) <kbd>Easy</kbd>
