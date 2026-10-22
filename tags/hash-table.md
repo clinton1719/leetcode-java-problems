@@ -9,6 +9,7 @@
 - [36. Valid Sudoku](../problems/p36_valid_sudoku) <kbd>Medium</kbd>
 - [39. combination-sum](../problems/p39_combination_sum) <kbd>Medium</kbd>
 - [49. Group Anagrams](../problems/p49_group_anagrams) <kbd>Medium</kbd>
+- [76. Minimum Window Substring](../problems/p76_minimum_window_substring) <kbd>Hard</kbd>
 - [128. Longest Consecutive Sequence](../problems/p128_longest_consecutive_sequence) <kbd>Medium</kbd>
 - [133. Clone Graph](../problems/p133_clone_graph) <kbd>Medium</kbd>
 - [138. Copy List With Random Pointer](../problems/p138_copy_list_with_random_pointer) <kbd>Medium</kbd>

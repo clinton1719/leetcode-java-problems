@@ -16,6 +16,7 @@
 - [68. Text Justification](../problems/p68_text_justification) <kbd>Hard</kbd>
 - [71. Simplify Path](../problems/p71_simplify_path) <kbd>Medium</kbd>
 - [72. Edit Distance](../problems/p72_edit_distance) <kbd>Medium</kbd>
+- [76. Minimum Window Substring](../problems/p76_minimum_window_substring) <kbd>Hard</kbd>
 - [79. Word Search](../problems/p79_word_search) <kbd>Medium</kbd>
 - [125. valid-palindrome](../problems/p125_valid_palindrome) <kbd>Easy</kbd>
 - [139. Word Break](../problems/p139_word_break) <kbd>Medium</kbd>

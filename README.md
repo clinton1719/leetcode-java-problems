@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 186 | 70 | 111 | 5 |
+| 187 | 70 | 111 | 6 |
 
 ## 🏷️ Tag Cloud
 
@@ -65,6 +65,7 @@
 | 72 | [Edit Distance](problems/p72_edit_distance) | 🟡 Medium | [string](tags/string.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 73 | [Set Matrix Zeroes](problems/p73_set_matrix_zeroes) | 🟡 Medium | [matrix](tags/matrix.md), [array](tags/array.md) |
 | 74 | [Search A 2D Matrix](problems/p74_search_a_2d_matrix) | 🟡 Medium | [array](tags/array.md), [binary-search](tags/binary-search.md), [matrix](tags/matrix.md) |
+| 76 | [Minimum Window Substring](problems/p76_minimum_window_substring) | 🔴 Hard | [hash-table](tags/hash-table.md), [string](tags/string.md), [sliding-window](tags/sliding-window.md) |
 | 77 | [Combinations](problems/p77_combinations) | 🟡 Medium | [backtracking](tags/backtracking.md) |
 | 79 | [Word Search](problems/p79_word_search) | 🟡 Medium | [backtracking](tags/backtracking.md), [matrix](tags/matrix.md), [dfs](tags/dfs.md), [string](tags/string.md) |
 | 80 | [Remove Duplicates from Sorted Array II](problems/p80_remove_duplicates_from_sorted_array_ii) | 🟡 Medium | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
