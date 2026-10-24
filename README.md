@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 187 | 70 | 111 | 6 |
+| 188 | 70 | 111 | 7 |
 
 ## 🏷️ Tag Cloud
 
@@ -136,6 +136,7 @@
 | 219 | [Contains Duplicate II](problems/p219_contains_duplicate_ii) | 🟢 Easy | [array](tags/array.md), [hash-table](tags/hash-table.md), [sliding-window](tags/sliding-window.md) |
 | 221 | [Maximal Square](problems/p221_maximal_square) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [matrix](tags/matrix.md) |
 | 222 | [Count Complete Tree Nodes](problems/p222_count_complete_tree_nodes) | 🟢 Easy | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [complete-binary-tree](tags/complete-binary-tree.md), [algorithm](tags/algorithm.md) |
+| 224 | [Basic Calculator](problems/p224_basic_calculator) | 🔴 Hard | [stack](tags/stack.md), [math](tags/math.md), [string](tags/string.md) |
 | 226 | [Invert Binary Tree](problems/p226_invert_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md) |
 | 228 | [Summary Ranges](problems/p228_summary_ranges) | 🟢 Easy | [array](tags/array.md), [intervals](tags/intervals.md) |
 | 230 | [Kth Smallest Element in a BST](problems/p230_kth_smallest_element_in_a_bst) | 🟡 Medium | [dfs](tags/dfs.md), [binary-search-tree](tags/binary-search-tree.md), [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [inorder-traversal](tags/inorder-traversal.md) |
@@ -168,8 +169,8 @@
 | 1290 | [Convert Binary Number in a Linked List to Integer](problems/p1290_convert_binary_number_in_a_linked_list_to_integer) | 🟢 Easy | [linked-list](tags/linked-list.md), [math](tags/math.md) |
 | 1863 | [Sum Of All Subset Xor Totals](problems/p1863_sum_of_all_subset_xor_totals) | 🟢 Easy | [bit-manipulation](tags/bit-manipulation.md), [combinatorics](tags/combinatorics.md), [array](tags/array.md), [math](tags/math.md), [backtracking](tags/backtracking.md) |
 | 2099 | [Find Subsequence of Length K With the Largest Sum](problems/p2099_find_subsequence_of_length_k_with_the_largest_sum) | 🟢 Easy | [sorting](tags/sorting.md), [heap](tags/heap.md), [array](tags/array.md) |
-| 2331 | [Final Array State After K Multiplication Operations I](problems/p3264_final_array_state_after_k_multiplication_operations_i) | 🟢 Easy | [heap](tags/heap.md), [array](tags/array.md), [math](tags/math.md) |
 | 2331 | [Evaluate Boolean Binary Tree](problems/p2331_evaluate_boolean_binary_tree) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [dfs](tags/dfs.md) |
+| 2331 | [Final Array State After K Multiplication Operations I](problems/p3264_final_array_state_after_k_multiplication_operations_i) | 🟢 Easy | [heap](tags/heap.md), [array](tags/array.md), [math](tags/math.md) |
 | 3507 | [Minimum Pair Removal To Sort Array I](problems/p3507_minimum_pair_removal_to_sort_array_i) | 🟢 Easy | [linked-list](tags/linked-list.md) |
 | 3885 | [Design Event Manager](problems/p3885_design_event_manager) | 🟢 Easy | [design](tags/design.md), [heap](tags/heap.md) |
 | 3895 | [Count Digit Appearances](problems/p3895_count_digit_appearances) | 🟡 Medium | [math](tags/math.md), [array](tags/array.md) |

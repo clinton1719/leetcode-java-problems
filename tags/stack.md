@@ -5,3 +5,4 @@
 - [150. Evaluate Reverse Polish Notation](../problems/p150_evaluate_reverse_polish_notation) <kbd>Medium</kbd>
 - [155. Min Stack](../problems/p155_min_stack) <kbd>Medium</kbd>
 - [173. Binary Search Tree Iterator](../problems/p173_binary_search_tree_iterator) <kbd>Medium</kbd>
+- [224. Basic Calculator](../problems/p224_basic_calculator) <kbd>Hard</kbd>

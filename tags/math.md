@@ -15,6 +15,7 @@
 - [150. Evaluate Reverse Polish Notation](../problems/p150_evaluate_reverse_polish_notation) <kbd>Medium</kbd>
 - [172. Factorial Trailing Zeroes](../problems/p172_factorial_trailing_zeroes) <kbd>Medium</kbd>
 - [189. Rotate Array](../problems/p189_rotate_array) <kbd>Medium</kbd>
+- [224. Basic Calculator](../problems/p224_basic_calculator) <kbd>Hard</kbd>
 - [380. Insert Delete GetRandom O(1)](../problems/p380_insert_delete_getrandom_o1) <kbd>Medium</kbd>
 - [1290. Convert Binary Number in a Linked List to Integer](../problems/p1290_convert_binary_number_in_a_linked_list_to_integer) <kbd>Easy</kbd>
 - [1863. Sum Of All Subset Xor Totals](../problems/p1863_sum_of_all_subset_xor_totals) <kbd>Easy</kbd>
