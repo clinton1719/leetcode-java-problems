@@ -13,6 +13,7 @@
 - [120. Triangle](../problems/p120_triangle) <kbd>Medium</kbd>
 - [121. Best Time to Buy and Sell Stock](../problems/p121_best_time_to_buy_and_sell_stock) <kbd>Easy</kbd>
 - [122. Best Time to Buy and Sell Stock II](../problems/p122_best_time_to_buy_and_sell_stock_ii) <kbd>Medium</kbd>
+- [124. Binary Tree Maximum Path Sum](../problems/p124_binary_tree_maximum_path_sum) <kbd>Hard</kbd>
 - [139. Word Break](../problems/p139_word_break) <kbd>Medium</kbd>
 - [198. House Robber](../problems/p198_house_robber) <kbd>Medium</kbd>
 - [221. Maximal Square](../problems/p221_maximal_square) <kbd>Medium</kbd>

@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 188 | 70 | 111 | 7 |
+| 190 | 70 | 111 | 9 |
 
 ## 🏷️ Tag Cloud
 
@@ -32,6 +32,7 @@
 | 20 | [Valid Parentheses](problems/p20_valid_parentheses) | 🟢 Easy | [string](tags/string.md), [stack](tags/stack.md) |
 | 21 | [Merge Two Sorted Lists](problems/p21_merge_two_sorted_lists) | 🟢 Easy | [linked-list](tags/linked-list.md), [recursion](tags/recursion.md) |
 | 22 | [Generate Parentheses](problems/p22_generate_parentheses) | 🟡 Medium | [backtracking](tags/backtracking.md), [string](tags/string.md), [dynamic-programming](tags/dynamic-programming.md) |
+| 25 | [Reverse Nodes in k-Group](problems/p25_reverse_nodes_in_k_group) | 🔴 Hard | [linked-list](tags/linked-list.md) |
 | 26 | [Remove Duplicates from Sorted Array](problems/p26_remove_duplicates_from_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 27 | [Remove Element](problems/p27_remove_element) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 28 | [Find the Index of the First Occurrence in a String](problems/p28_find_the_index_of_the_first_occurrence_in_a_string) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md), [string-matching](tags/string-matching.md), [kmp-algorithm](tags/kmp-algorithm.md), [algorithm](tags/algorithm.md) |
@@ -94,6 +95,7 @@
 | 120 | [Triangle](problems/p120_triangle) | 🟡 Medium | [dynamic-programming](tags/dynamic-programming.md) |
 | 121 | [Best Time to Buy and Sell Stock](problems/p121_best_time_to_buy_and_sell_stock) | 🟢 Easy | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md) |
 | 122 | [Best Time to Buy and Sell Stock II](problems/p122_best_time_to_buy_and_sell_stock_ii) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
+| 124 | [Binary Tree Maximum Path Sum](problems/p124_binary_tree_maximum_path_sum) | 🔴 Hard | [dynamic-programming](tags/dynamic-programming.md), [dfs](tags/dfs.md), [tree](tags/tree.md), [binary-tree](tags/binary-tree.md) |
 | 125 | [valid-palindrome](problems/p125_valid_palindrome) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md) |
 | 128 | [Longest Consecutive Sequence](problems/p128_longest_consecutive_sequence) | 🟡 Medium | [array](tags/array.md), [hash-table](tags/hash-table.md), [hash-set](tags/hash-set.md) |
 | 129 | [Sum Root to Leaf Numbers](problems/p129_sumroot_to_leaf_numbers) | 🟡 Medium | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [dfs](tags/dfs.md) |

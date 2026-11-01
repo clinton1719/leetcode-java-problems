@@ -14,6 +14,7 @@
 - [112. Path Sum](../problems/p112_path_sum) <kbd>Easy</kbd>
 - [114. Flatten Binary Tree to Linked List](../problems/p114_flatten_binary_tree_to_linked_list) <kbd>Easy</kbd>
 - [117. Populating Next Right Pointers in Each Node II](../problems/p117_populating_next_right_pointers_in_each_node_ii) <kbd>Medium</kbd>
+- [124. Binary Tree Maximum Path Sum](../problems/p124_binary_tree_maximum_path_sum) <kbd>Hard</kbd>
 - [129. Sum Root to Leaf Numbers](../problems/p129_sumroot_to_leaf_numbers) <kbd>Medium</kbd>
 - [173. Binary Search Tree Iterator](../problems/p173_binary_search_tree_iterator) <kbd>Medium</kbd>
 - [199. Binary Tree Right Side View](../problems/p199_binary_tree_right_side_view) <kbd>Easy</kbd>

@@ -3,6 +3,7 @@
 - [2. Add Two Numbers](../problems/p2_add_two_numbers) <kbd>Medium</kbd>
 - [19. Remove Nth Node From End of List](../problems/p19_remove_nth_node_from_end_of_list) <kbd>Medium</kbd>
 - [21. Merge Two Sorted Lists](../problems/p21_merge_two_sorted_lists) <kbd>Easy</kbd>
+- [25. Reverse Nodes in k-Group](../problems/p25_reverse_nodes_in_k_group) <kbd>Hard</kbd>
 - [61. Rotate List](../problems/p61_rotate_list) <kbd>Medium</kbd>
 - [82. Remove Duplicates from Sorted List II](../problems/p82_remove_duplicates_from_sorted_list_ii) <kbd>Medium</kbd>
 - [83. Remove Duplicates from Sorted List](../problems/p83_remove_duplicates_from_sorted_list) <kbd>Easy</kbd>
