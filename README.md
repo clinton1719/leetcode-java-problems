@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 190 | 70 | 111 | 9 |
+| 191 | 70 | 111 | 10 |
 
 ## 🏷️ Tag Cloud
 
@@ -97,6 +97,7 @@
 | 122 | [Best Time to Buy and Sell Stock II](problems/p122_best_time_to_buy_and_sell_stock_ii) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [greedy](tags/greedy.md) |
 | 124 | [Binary Tree Maximum Path Sum](problems/p124_binary_tree_maximum_path_sum) | 🔴 Hard | [dynamic-programming](tags/dynamic-programming.md), [dfs](tags/dfs.md), [tree](tags/tree.md), [binary-tree](tags/binary-tree.md) |
 | 125 | [valid-palindrome](problems/p125_valid_palindrome) | 🟢 Easy | [two-pointers](tags/two-pointers.md), [string](tags/string.md) |
+| 127 | [Word Ladder](problems/p127_word_ladder) | 🔴 Hard | [bfs](tags/bfs.md), [hash-table](tags/hash-table.md), [string](tags/string.md) |
 | 128 | [Longest Consecutive Sequence](problems/p128_longest_consecutive_sequence) | 🟡 Medium | [array](tags/array.md), [hash-table](tags/hash-table.md), [hash-set](tags/hash-set.md) |
 | 129 | [Sum Root to Leaf Numbers](problems/p129_sumroot_to_leaf_numbers) | 🟡 Medium | [tree](tags/tree.md), [binary-tree](tags/binary-tree.md), [dfs](tags/dfs.md) |
 | 130 | [Surrounded Regions](problems/p130_surrounded_regions) | 🟡 Medium | [matrix](tags/matrix.md), [dfs](tags/dfs.md), [bfs](tags/bfs.md), [graph](tags/graph.md) |
