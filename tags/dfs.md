@@ -15,6 +15,7 @@
 - [130. Surrounded Regions](../problems/p130_surrounded_regions) <kbd>Medium</kbd>
 - [199. Binary Tree Right Side View](../problems/p199_binary_tree_right_side_view) <kbd>Easy</kbd>
 - [200. Number Of Islands](../problems/p200_number_of_islands) <kbd>Medium</kbd>
+- [211. Design Add and Search Words Data Structure](../problems/p211_design_add_and_search_words_data_structure) <kbd>Medium</kbd>
 - [226. Invert Binary Tree](../problems/p226_invert_binary_tree) <kbd>Easy</kbd>
 - [230. Kth Smallest Element in a BST](../problems/p230_kth_smallest_element_in_a_bst) <kbd>Medium</kbd>
 - [236. Lowest Common Ancestor of a Binary Tree](../problems/p236_lowest_common_ancestor_of_a_binary_tree) <kbd>Medium</kbd>
