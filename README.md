@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 192 | 70 | 112 | 10 |
+| 193 | 70 | 112 | 11 |
 
 ## 🏷️ Tag Cloud
 
@@ -136,6 +136,7 @@
 | 209 | [Minimum Size Subarray Sum](problems/p209_minimum_size_subarray_sum) | 🟡 Medium | [array](tags/array.md), [sliding-window](tags/sliding-window.md) |
 | 210 | [Course Schedule II](problems/p210_course_schedule_ii) | 🟡 Medium | [graph](tags/graph.md), [topological-sort](tags/topological-sort.md), [tricky](tags/tricky.md), [algorithm](tags/algorithm.md), [directed-acylic-graph](tags/directed-acylic-graph.md), [kahns-algorithm](tags/kahns-algorithm.md) |
 | 211 | [Design Add and Search Words Data Structure](problems/p211_design_add_and_search_words_data_structure) | 🟡 Medium | [design](tags/design.md), [trie](tags/trie.md), [dfs](tags/dfs.md), [string](tags/string.md) |
+| 212 | [Word Search II](problems/p212_word_search_ii) | 🔴 Hard |  |
 | 215 | [Kth Largest Element In An Array](problems/p215_kth_largest_element_in_an_array) | 🟡 Medium | [heap](tags/heap.md), [array](tags/array.md), [sorting](tags/sorting.md), [quickselect](tags/quickselect.md), [divide-and-conquer](tags/divide-and-conquer.md) |
 | 219 | [Contains Duplicate II](problems/p219_contains_duplicate_ii) | 🟢 Easy | [array](tags/array.md), [hash-table](tags/hash-table.md), [sliding-window](tags/sliding-window.md) |
 | 221 | [Maximal Square](problems/p221_maximal_square) | 🟡 Medium | [array](tags/array.md), [dynamic-programming](tags/dynamic-programming.md), [matrix](tags/matrix.md) |
