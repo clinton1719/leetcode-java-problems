@@ -1,5 +1,6 @@
 # 🚩 Tag: dfs
 
+- [52. N-Queens II](../problems/p52_n_queen_ii) <kbd>Hard</kbd>
 - [79. Word Search](../problems/p79_word_search) <kbd>Medium</kbd>
 - [94. Binary Tree Inorder Traversal](../problems/p94_binary_tree_inorder_traversal) <kbd>Easy</kbd>
 - [98. Validate Binary Search Tree](../problems/p98_validate_binary_search_tree) <kbd>Medium</kbd>

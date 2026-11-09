@@ -45,6 +45,7 @@
 - [189. Rotate Array](../problems/p189_rotate_array) <kbd>Medium</kbd>
 - [200. Number Of Islands](../problems/p200_number_of_islands) <kbd>Medium</kbd>
 - [209. Minimum Size Subarray Sum](../problems/p209_minimum_size_subarray_sum) <kbd>Medium</kbd>
+- [212. Word Search II](../problems/p212_word_search_ii) <kbd>Hard</kbd>
 - [215. Kth Largest Element In An Array](../problems/p215_kth_largest_element_in_an_array) <kbd>Medium</kbd>
 - [219. Contains Duplicate II](../problems/p219_contains_duplicate_ii) <kbd>Easy</kbd>
 - [221. Maximal Square](../problems/p221_maximal_square) <kbd>Medium</kbd>
