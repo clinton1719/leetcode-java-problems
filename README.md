@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 194 | 70 | 112 | 12 |
+| 195 | 70 | 112 | 13 |
 
 ## 🏷️ Tag Cloud
 
@@ -164,6 +164,7 @@
 | 427 | [Construct Quad Tree](problems/p427_construct_quad_tree) | 🟡 Medium | [array](tags/array.md), [divide-and-conquer](tags/divide-and-conquer.md), [matrix](tags/matrix.md), [tricky](tags/tricky.md) |
 | 433 | [Minimum Genetic Mutation](problems/p433_minimum_genetic_mutation) | 🟡 Medium | [bfs](tags/bfs.md), [string](tags/string.md) |
 | 452 | [Minimum Number of Arrows to Burst Balloons](problems/p452_minimum_number_of_arrows_to_burst_balloons) | 🟡 Medium | [intervals](tags/intervals.md), [greedy](tags/greedy.md) |
+| 502 | [IPO](problems/p502_ipo) | 🔴 Hard | [heap](tags/heap.md), [sorting](tags/sorting.md), [greedy](tags/greedy.md), [array](tags/array.md) |
 | 506 | [Relative Ranks](problems/p506_relative_ranks) | 🟢 Easy | [heap](tags/heap.md), [sorting](tags/sorting.md), [array](tags/array.md) |
 | 525 | [Contiguous Array](problems/p525_contiguous_array) | 🟡 Medium | [string](tags/string.md), [tricky](tags/tricky.md), [sliding-window](tags/sliding-window.md), [hash-table](tags/hash-table.md), [prefix-sum](tags/prefix-sum.md) |
 | 530 | [Minimum Absolute Difference in BST](problems/p530_minimum_absolute_difference_in_bst) | 🟢 Easy | [binary-tree](tags/binary-tree.md), [tree](tags/tree.md), [inorder-traversal](tags/inorder-traversal.md) |
