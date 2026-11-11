@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 195 | 70 | 112 | 13 |
+| 196 | 70 | 112 | 14 |
 
 ## 🏷️ Tag Cloud
 
@@ -32,6 +32,7 @@
 | 20 | [Valid Parentheses](problems/p20_valid_parentheses) | 🟢 Easy | [string](tags/string.md), [stack](tags/stack.md) |
 | 21 | [Merge Two Sorted Lists](problems/p21_merge_two_sorted_lists) | 🟢 Easy | [linked-list](tags/linked-list.md), [recursion](tags/recursion.md) |
 | 22 | [Generate Parentheses](problems/p22_generate_parentheses) | 🟡 Medium | [backtracking](tags/backtracking.md), [string](tags/string.md), [dynamic-programming](tags/dynamic-programming.md) |
+| 23 | [Merge k Sorted Lists](problems/p23_merge_k_sorted_lists) | 🔴 Hard | [heap](tags/heap.md), [linked-list](tags/linked-list.md) |
 | 25 | [Reverse Nodes in k-Group](problems/p25_reverse_nodes_in_k_group) | 🔴 Hard | [linked-list](tags/linked-list.md) |
 | 26 | [Remove Duplicates from Sorted Array](problems/p26_remove_duplicates_from_sorted_array) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
 | 27 | [Remove Element](problems/p27_remove_element) | 🟢 Easy | [array](tags/array.md), [two-pointers](tags/two-pointers.md) |
