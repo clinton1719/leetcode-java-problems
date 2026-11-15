@@ -1,6 +1,7 @@
 # 🚩 Tag: array
 
 - [1. Two Sum](../problems/p1_two_sum) <kbd>Easy</kbd>
+- [4. Median of Two Sorted Arrays](../problems/p4_median_of_two_sorted_arrays) <kbd>Hard</kbd>
 - [6. Zigzag Conversion](../problems/p6_zigzag_conversion) <kbd>Medium</kbd>
 - [11. Container With Most Water](../problems/p11_container_with_most_water) <kbd>Medium</kbd>
 - [14. Longest Common Prefix](../problems/p14_longest_common_prefix) <kbd>Easy</kbd>

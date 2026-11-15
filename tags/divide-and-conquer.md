@@ -1,5 +1,6 @@
 # 🚩 Tag: divide-and-conquer
 
+- [4. Median of Two Sorted Arrays](../problems/p4_median_of_two_sorted_arrays) <kbd>Hard</kbd>
 - [50. Pow(x, n)](../problems/p50_powx_n) <kbd>Medium</kbd>
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](../problems/p105_construct_binary_tree_from_preorder_and_inorder_traversal) <kbd>Medium</kbd>
 - [106. Construct Binary Tree from Inorder And PostOrder Traversal](../problems/p106_construct_binary_tree_from_inorder_and_postorder_traversal) <kbd>Medium</kbd>

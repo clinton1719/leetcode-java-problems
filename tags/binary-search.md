@@ -1,5 +1,6 @@
 # 🚩 Tag: binary-search
 
+- [4. Median of Two Sorted Arrays](../problems/p4_median_of_two_sorted_arrays) <kbd>Hard</kbd>
 - [33. Search In Rotated Sorted Array](../problems/p33_search_in_rotated_sorted_array) <kbd>Medium</kbd>
 - [34. Find First and Last Position of Element in Sorted Array](../problems/p34_find_first_and_last_position_of_element_in_sorted_array) <kbd>Medium</kbd>
 - [35. Search Insert Position](../problems/p35_search_insert_position) <kbd>Easy</kbd>

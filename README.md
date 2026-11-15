@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 196 | 70 | 112 | 14 |
+| 197 | 70 | 112 | 15 |
 
 ## 🏷️ Tag Cloud
 
@@ -19,6 +19,7 @@
 | 1 | [Two Sum](problems/p1_two_sum) | 🟢 Easy | [hash-table](tags/hash-table.md), [array](tags/array.md) |
 | 2 | [Add Two Numbers](problems/p2_add_two_numbers) | 🟡 Medium | [linked-list](tags/linked-list.md), [recursion](tags/recursion.md), [math](tags/math.md) |
 | 3 | [Longest Substring Without Repeating Characters](problems/p3_longest_substring_without_repeating_characters) | 🟡 Medium | [sliding-window](tags/sliding-window.md), [string](tags/string.md), [hash-table](tags/hash-table.md) |
+| 4 | [Median of Two Sorted Arrays](problems/p4_median_of_two_sorted_arrays) | 🔴 Hard | [binary-search](tags/binary-search.md), [divide-and-conquer](tags/divide-and-conquer.md), [array](tags/array.md) |
 | 5 | [Longest Palindromic Substring](problems/p5_longest_palindromic_substring) | 🟡 Medium |  |
 | 6 | [Zigzag Conversion](problems/p6_zigzag_conversion) | 🟡 Medium | [array](tags/array.md), [string](tags/string.md) |
 | 9 | [Palindrome Number](problems/p9_palindrome_number) | 🟢 Easy | [math](tags/math.md) |
