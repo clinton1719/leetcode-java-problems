@@ -4,7 +4,7 @@
 
 | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | --- | --- | --- | --- |
-| 197 | 70 | 112 | 15 |
+| 198 | 70 | 112 | 16 |
 
 ## 🏷️ Tag Cloud
 
@@ -155,6 +155,7 @@
 | 274 | [H-Index](problems/p274_h_index) | 🟡 Medium | [array](tags/array.md), [sorting](tags/sorting.md), [counting-sort](tags/counting-sort.md) |
 | 289 | [Game of Life](problems/p289_game_of_life) | 🟡 Medium | [matrix](tags/matrix.md), [array](tags/array.md) |
 | 290 | [Word Pattern](problems/p290_word_pattern) | 🟢 Easy | [hash-table](tags/hash-table.md), [string](tags/string.md) |
+| 295 | [Find Median from Data Stream](problems/p295_find_median_from_data_stream) | 🔴 Hard | [design](tags/design.md), [sorting](tags/sorting.md), [heap](tags/heap.md) |
 | 300 | [Longest Increasing Subsequence](problems/p300_longest_increasing_subsequence) | 🟡 Medium |  |
 | 322 | [Coin Change](problems/p322_coin_change) | 🟡 Medium | [dynamic-programming](tags/dynamic-programming.md) |
 | 373 | [Find K Pairs With Smallest Sums](problems/p373_find_k_pairs_with_smallest_sums) | 🟡 Medium | [heap](tags/heap.md), [array](tags/array.md) |

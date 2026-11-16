@@ -2,6 +2,7 @@
 
 - [23. Merge k Sorted Lists](../problems/p23_merge_k_sorted_lists) <kbd>Hard</kbd>
 - [215. Kth Largest Element In An Array](../problems/p215_kth_largest_element_in_an_array) <kbd>Medium</kbd>
+- [295. Find Median from Data Stream](../problems/p295_find_median_from_data_stream) <kbd>Hard</kbd>
 - [373. Find K Pairs With Smallest Sums](../problems/p373_find_k_pairs_with_smallest_sums) <kbd>Medium</kbd>
 - [502. IPO](../problems/p502_ipo) <kbd>Hard</kbd>
 - [506. Relative Ranks](../problems/p506_relative_ranks) <kbd>Easy</kbd>
