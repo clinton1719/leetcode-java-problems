@@ -16,6 +16,7 @@
 - [138. Copy List With Random Pointer](../problems/p138_copy_list_with_random_pointer) <kbd>Medium</kbd>
 - [139. Word Break](../problems/p139_word_break) <kbd>Medium</kbd>
 - [146. LRU Cache](../problems/p146_lru_cache) <kbd>Medium</kbd>
+- [149. Max Points on a Line](../problems/p149_max_points_on_a_line) <kbd>Hard</kbd>
 - [169. Majority Element](../problems/p169_majority_element) <kbd>Easy</kbd>
 - [202. Happy Number](../problems/p202_happy_number) <kbd>Easy</kbd>
 - [205. Isomorphic strings](../problems/p205_isomorphic_strings) <kbd>Easy</kbd>

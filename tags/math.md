@@ -12,6 +12,7 @@
 - [67. Add Binary](../problems/p67_add_binary) <kbd>Easy</kbd>
 - [69. Sqrt(x)](../problems/p69_sqrtx) <kbd>Easy</kbd>
 - [70. Climbing Stairs](../problems/p70_climbing_stairs) <kbd>Easy</kbd>
+- [149. Max Points on a Line](../problems/p149_max_points_on_a_line) <kbd>Hard</kbd>
 - [150. Evaluate Reverse Polish Notation](../problems/p150_evaluate_reverse_polish_notation) <kbd>Medium</kbd>
 - [172. Factorial Trailing Zeroes](../problems/p172_factorial_trailing_zeroes) <kbd>Medium</kbd>
 - [189. Rotate Array](../problems/p189_rotate_array) <kbd>Medium</kbd>
